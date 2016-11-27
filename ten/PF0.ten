@@ -1,0 +1,33 @@
+%Ianus
+*metadata
+re
+au Vladimir Batagelj
+ti network for testing temporal Pathfinder procedure
+ur http://pajek.imfm.si/lib/exe/fetch.php?media=slides:pfxxx.pdf
+dt May 24, 2014
+er
+*network:simple "Pathfinder test"
+*timescale 1 9
+*nodes 7
+1 "A"
+2 "B"
+3 "C"
+4 "D"
+5 "E"
+6 "F"
+7 "G"
+*arcs
+1 2 [(1, 9, 3)]
+1 3 [(1, 9, 1)]
+1 6 [(1, 9, 5)]
+2 4 [(1, 9, 1)]
+2 5 [(1, 9, 3)]
+2 7 [(1, 9, 7)]
+3 2 [(1, 9, 1)]
+3 4 [(1, 5, 3), (5, 9, 1)]
+3 6 [(1, 9, 5)]
+4 5 [(1, 9, 1)]
+4 6 [(1, 9, 3)]
+5 6 [(1, 4, 2), (4, 9, 1)]
+5 7 [(1, 9, 4)]
+6 7 [(1, 9, 2)]
