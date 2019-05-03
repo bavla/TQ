@@ -1,29 +1,31 @@
 '''
 Created on October 29, 2015 / March 30, 2015 / August 15, 2014 / March 10, 2014
+Updated on November 11, 2018
+Apr 29 2019: added changeTime
 
 @author: Vladimir Batagelj, Selena Praprotnik
 '''
 # operations with temporal quantities (tau = 0)
 
 from copy import deepcopy
-import pickle, random, operator, re, datetime
+import pickle, random, operator, re, datetime, json
 from math import sqrt
 
 class TQ(object):
 
    class TQerror(RuntimeError): pass
-   
+
    ''' constants '''
    inf = float("inf")
    sAdd = operator.add
    sMul = operator.mul
    sZero = 0; sOne = 1; sN = []; sE = [(1,inf,1)]
    rPF = 2
-   
+
    ''' operations '''
    @staticmethod
    def pitagora(a,b): return(sqrt(a*a+b*b))
-   
+
    @staticmethod
    def Minkowski():
       if TQ.rPF==TQ.inf: return(max)
@@ -40,8 +42,8 @@ class TQ(object):
    def geoMul(a,b):
       (av,ac) = a; (bv,bc) = b
       return((av+bv,ac*bc))
-  
-   ''' temporal semirings '''     
+
+   ''' temporal semirings '''
    @staticmethod
    def combinatorial():
       TQ.sAdd  = operator.add;    TQ.sMul = operator.mul
@@ -88,7 +90,7 @@ class TQ(object):
 
    @staticmethod
    def report():
-      print("\nsemiring = ",TQ.semiring.__name__)      
+      print("\nsemiring = ",TQ.semiring.__name__)
       print("add   = ",TQ.sAdd.__name__)
       print("mult  = ",TQ.sMul.__name__)
       print("sZero = ",TQ.sZero)
@@ -102,8 +104,8 @@ class TQ(object):
    def get(S):
       try: return(next(S))
       except StopIteration: return((TQ.inf,TQ.inf,TQ.sZero))
-      
-   ''' temporal quantities operations ''' 
+
+   ''' temporal quantities operations '''
    @staticmethod
    def standard(a):
       if len(a) == 0: return(a)
@@ -120,12 +122,12 @@ class TQ(object):
             sc = sa; fc = fa; vc = va
       if sc != fc: c.append((sc,fc,vc))
       return(c)
-  
+
    @staticmethod
    def isTq(a):
       if isinstance(a, list) and all(isinstance(e, tuple) for e in a): return True
       return False
-  
+
    @staticmethod
    def TqSummary(a):
       vMin = tMin = TQ.inf; vMax = tMax = -TQ.inf
@@ -135,19 +137,19 @@ class TQ(object):
          if va < vMin: vMin = va
          if va > vMax: vMax = va
       return((tMin,tMax,vMin,vMax))
-  
+
    @staticmethod
    def TqMax(a):
-      s = -TQ.inf
-      for (sa,fa,va) in a: s = max(s,va)
-      return(s)
+      s = [ va for (sa,fa,va) in a ]
+      return -TQ.inf if s == [] else max(s)
 
    @staticmethod
    def binary(a):
-      c = []
-      for (sa,fa,va) in a:
-         if va > 0: c.append((sa,fa,1))
-      return(TQ.standard(c))
+      return TQ.standard([ (sa,fa,1) for sa,fa,va in a if va > 0 ])
+
+   @staticmethod
+   def setConst(a,c):
+      return TQ.standard([ (sa,fa,c) for sa,fa,va in a ])
 
    @staticmethod
    def fillGaps(a,s,f,const=inf):
@@ -155,22 +157,62 @@ class TQ(object):
       for (sa,fa,va) in a:
          if fo<sa: c.append((fo,sa,const))
          c.append((sa,fa,va)); fo = fa
-      if fo<f: c.append((fo,f,const))         
+      if fo<f: c.append((fo,f,const))
       return(c)
 
    @staticmethod
-   def invert(a):
-      c = []
+   def changeTime(a,p):
+      i = 0; t = p[i]; v = 0; b = []; cut = False
+      for sc,fc,vc in a:
+         while t <= sc:
+            if v > 0: 
+               if not cut: b.append((i,i+1,v)); v = 0
+            i = i+1; t = p[i]
+         if t < fc:
+            v = v + (t-sc)*vc; b.append((i,i+1,v))
+            v = (fc-t)*vc; cut = True
+         else: v = v + (fc-sc)*vc; cut = False
+      if v > 0: b.append((i,i+1,v))
+      return(b)
+
+   @staticmethod
+   def complement(a,s,f):
+      c = []; fo = s
       for (sa,fa,va) in a:
-         if va!=0: c.append((sa,fa,1/va))
-         else: c.append((sa,fa,0))
+         if fo<sa: c.append((fo,sa,1))
+         fo = fa
+      if fo<f: c.append((fo,f,1))
       return(c)
+
+   @staticmethod
+   def invert(a,vZero=0):
+      return [ (sa,fa,1/va) if va!=0 else (sa,fa,vZero) for (sa,fa,va) in a ]
+
+   @staticmethod
+   def minus(a):
+      return [(sa,fa,-va) for (sa,fa,va) in a]
+
+   @staticmethod
+   def prodConst(a,c):
+      return [ (sa,fa,va*c) for sa,fa,va in a ]
+
+   @staticmethod
+   def cutGT(a,c):
+      return [(sa,fa,va) for (sa,fa,va) in a if va > c]
+
+   @staticmethod
+   def cutGE(a,c):
+      return [(sa,fa,va) for (sa,fa,va) in a if va >= c]
+
+   @staticmethod
+   def height(a):
+      s = -TQ.inf
+      for (sa,fa,va) in a: s = max(s,va)
+      return(s)
 
    @staticmethod
    def total(a):
-      s = 0
-      for (sa,fa,va) in a: s = s + (fa-sa)*va
-      return(s)
+      return 0 if a == [] else sum([(fa-sa)*va for (sa,fa,va) in a])
 
    @staticmethod
    def sum(a,b):
@@ -227,7 +269,7 @@ class TQ(object):
 
    @staticmethod
    def extract(a,b):
-   # extract a from b   
+   # extract a from b
       if len(a)*len(b) == 0: return([])
       c = []; A = a.__iter__(); B = b.__iter__()
       (sa,fa,va) = TQ.get(A); (sb,fb,vb) = TQ.get(B)
@@ -264,7 +306,7 @@ class TQ(object):
       if len(b)==0:
          p = []
          for (sa,fa,va) in a: p.append((sa,fa,(va,g)))
-         return(p)         
+         return(p)
       p = []; A = a.__iter__(); B = b.__iter__()
       (sa,fa,va) = TQ.get(A); (sb,fb,eb) = TQ.get(B)
       if type(eb) is tuple: (vb,gb) = eb
@@ -310,11 +352,17 @@ class TQ(object):
          q.append(r)
       return(q)
 
-   ''' temporal vectors operations '''  
+   ''' temporal dictionaries operations '''
+   @staticmethod
+   def TQdictCut(D,level):
+      CC = { u: TQ.cutGE(core,level) for u, core in D.items() }
+      return { u: core for u, core in CC.items() if core!=[] }
+
+   ''' temporal vectors operations '''
    @staticmethod
    def VecConst(n,const=sE):
       if not(TQ.isTq(const)): raise TQ.TQerror("VecConst: const must be a temporal quantity")
-      return([ const for i in range(n) ]) 
+      return([ const for i in range(n) ])
 
    @staticmethod
    def VecList(a,names=None,all=True,skip=[]):
@@ -322,7 +370,7 @@ class TQ(object):
          if all or (e!=skip):
             if names==None: print (i+1, ":", e)
             else: print (i, names[i], "=" ,e)
-      
+
    @staticmethod
    def VecSum(a,b):
       na = len(a); nb = len(b)
@@ -353,7 +401,7 @@ class TQ(object):
       Q = sorted(enumerate(T),key=operator.itemgetter(1),reverse=True)
       return(Q)
 
-   ''' temporal matrices operations ''' 
+   ''' temporal matrices operations '''
    @staticmethod
    def MatSummary(A):
       nr = len(A); nc = len(A[0])
@@ -363,7 +411,7 @@ class TQ(object):
             (ti,ta,vi,va) = TQ.TqSummary(A[u][v])
             tMin = min(tMin,ti); tMax = max(tMax,ta)
             vMin = min(vMin,vi); vMax = max(vMax,va)
-      return((tMin,tMax,vMin,vMax)) 
+      return((tMin,tMax,vMin,vMax))
 
    @staticmethod
    def MatList(M,names=None,all=True,skip=[]):
@@ -403,7 +451,7 @@ class TQ(object):
 
    @staticmethod
    def MatConst(A,const):
-      if not(TQ.isTq(const)): raise TQ.TQerror("MatConst: const must be a temporal quantity") 
+      if not(TQ.isTq(const)): raise TQ.TQerror("MatConst: const must be a temporal quantity")
       nr = len(A); nc = len(A[0])
       B = [[ [] for i in range(nc)] for j in range(nr)]
       for u in range(nr):
@@ -434,11 +482,11 @@ class TQ(object):
             C[u][v] = TQ.prod(A[u][v],B[u][v])
       old()
       return(C)
-  
+
    @staticmethod
    def MatSetDiag(A,const):
       nr = len(A); nc = len(A[0])
-      if not(TQ.isTq(const)): raise TQ.TQerror("MatSetDiag: const must be a temporal quantity") 
+      if not(TQ.isTq(const)): raise TQ.TQerror("MatSetDiag: const must be a temporal quantity")
       if nr!=nc: raise TQ.TQerror("MatSetDiag: square matrix required")
       B = deepcopy(A)
       for u in range(nr): B[u][u] = const
@@ -564,7 +612,7 @@ class TQ(object):
             B[u][v] = TQ.extract(T[u],A[u][v])
       return(B)
 
-   ''' temporal networks methods ''' 
+   ''' temporal networks methods '''
    @staticmethod
    def inDeg(A):
       return(TQ.MatVecLeft(TQ.MatBin(A),TQ.VecConst(len(A))))
@@ -572,7 +620,7 @@ class TQ(object):
    @staticmethod
    def outDeg(A):
       return(TQ.MatVecRight(TQ.MatBin(A),TQ.VecConst(len(A[0]))))
-  
+
    @staticmethod
    def ActInt(C,Rows,Cols):
    # extend for Rows and Cols are temporal partitions
@@ -610,7 +658,7 @@ class TQ(object):
 
    @staticmethod
    def pathFinder(W,r=1,q=inf,closure=False):
-   # W is a dissimilarity matrix !!!   
+   # W is a dissimilarity matrix !!!
       nr = len(W); nc = len(W[0])
       if nr!=nc: raise TQ.TQerror("pathFinder: square matrix required")
       PF = [[[] for v in range(nr)] for u in range(nr)]
@@ -638,14 +686,14 @@ class TQ(object):
 
    @staticmethod
    def weakConnMat(A):
-      old = TQ.semiring; TQ.reach() 
+      old = TQ.semiring; TQ.reach()
       W = TQ.MatClosure(TQ.MatSym(TQ.MatBin(A)),strict=True)
       old()
       return(W)
 
    @staticmethod
    def strongConnMat(A):
-      old = TQ.semiring; TQ.reach() 
+      old = TQ.semiring; TQ.reach()
       R = TQ.MatClosure(TQ.MatBin(A),strict=True)
       S = TQ.MatInter(R,TQ.MatTrans(R))
       old()
@@ -661,7 +709,7 @@ class TQ(object):
             a = []
             for v in range(n):
                a = TQ.sum(a,A[u][v])
-            act[u] = a      
+            act[u] = a
       for u in range(n):
          s = []
          for v in range(n):
@@ -669,7 +717,7 @@ class TQ(object):
                s = TQ.sum(s,TQ.proportion(A[v][u],act[v]))
          att[u] = TQ.proportion(s,[(1,TQ.inf,n-1)])
 # alternative - replace n-1 with indeg
-      old()   
+      old()
       return(att)
 
    @staticmethod
@@ -681,15 +729,15 @@ class TQ(object):
 #      print("Matrix Dist");  TQ.MatList(C,all=False)
       cl = [ [] for i in range(n) ]
       TQ.combinatorial()
-      fac = [(1,TQ.inf,(n-1)*(2 if type==2 else 1))] 
+      fac = [(1,TQ.inf,(n-1)*(2 if type==2 else 1))]
       for v in range(n):
          d = []
-         for u in range(n): 
+         for u in range(n):
             if u!=v:
                if type<3: d = TQ.sum(d,TQ.fillGaps(C[v][u],s,f))
                if type>1: d = TQ.sum(d,TQ.fillGaps(C[u][v],s,f))
          cl[v] = TQ.prod(fac,TQ.invert(d))
-      old()   
+      old()
       return(cl)
 
    @staticmethod
@@ -742,10 +790,10 @@ class TQ(object):
                if (C[u][w]!=[]) and (u!=w) and (u!=v) and (v!=w):
                   b = TQ.sum(b,TQ.between(C[u][v],C[v][w],C[u][w]))
          bw[v] = TQ.prod(b,fac)
-      old()   
+      old()
       return(bw)
 
-   ''' saving and loading operations '''                   
+   ''' saving and loading operations '''
    @staticmethod
    def VecSave(a,file="test.vet"):
       nr = len(a)
@@ -754,10 +802,10 @@ class TQ(object):
          for i in range(nr):
             vet.write(str(a[i])+'\n')
          vet.close()
-         
+
    @staticmethod
    def Ianus2Mat(tenFile):
-      net = open(tenFile,'r')#),encoding='utf-8')
+      net = open(tenFile,'r',encoding='utf-8')
 #      net = open(tenFile,encoding='utf-8-sig','r')
       line = net.readline()
       if not line: raise TQ.TQerror("readTen: empty file")
@@ -768,7 +816,7 @@ class TQ(object):
          if not line: break
          k = k+1
          if line[0]=='*':
-            control = line[1:4].upper() 
+            control = line[1:4].upper()
             if control=="NET":
                L = re.split(':',line.strip(),1)
                tit = L[1]
@@ -785,18 +833,18 @@ class TQ(object):
                if twoMode:
                   nr = eval(L[2]); nc = nc-nr
                else:
-                  nr = nc               
+                  nr = nc
             elif control=="TIM":
                L = re.split('\s+',line.strip())
                tMin = eval(L[1]); tMax = eval(L[2])
                Tlabs = []
             elif control=="MET":
-               meta ="" 
+               meta =""
             elif control=="ARC":
-               W = [[ [] for i in range(nc)] for j in range(nr)] 
-            elif control=="EDG": 
-               W = [[ [] for i in range(nc)] for j in range(nr)] 
-            else: raise TQ.TQerror("readTen: unsupported keyword: "+control) 
+               W = [[ [] for i in range(nc)] for j in range(nr)]
+            elif control=="EDG":
+               W = [[ [] for i in range(nc)] for j in range(nr)]
+            else: raise TQ.TQerror("readTen: unsupported keyword: "+control)
          else:
             if control=="NOD":
                L = re.split('\s+',line.strip(),1)
@@ -809,7 +857,7 @@ class TQ(object):
                   name = L[0]; bf = L[1]
                names[i-1] = name
                if len(bf)>0:
-                  Tnode[i-1] = eval(bf)          
+                  Tnode[i-1] = eval(bf)
             if control=="ARC":
                L = re.split('\s+',line.strip(),2)
                u = eval(L[0])-1; v = eval(L[1])-1; w = eval(L[2])
@@ -830,7 +878,7 @@ class TQ(object):
                if lab[0]=='"': lab = lab[1:-1]
                Tlabs += [ (i, lab) ]
             elif control=="MET":
-               meta += line 
+               meta += line
       net.close()
       if twoMode:
          if not('twomode' in typ): typ += ['twomode']
@@ -862,10 +910,10 @@ class TQ(object):
          net.write("\nre\ndt "+datetime.datetime.now().ctime()+
             "\nti saved from Ianus\ner\n")
          tit = "no title"
-         if 'tit' in K: tit = N['tit']        
+         if 'tit' in K: tit = N['tit']
          net.write('*network:"'+tit+'"\n')
          typ = ["simple", "onemode", "directed"]
-         if 'typ' in K: typ = N['typ']        
+         if 'typ' in K: typ = N['typ']
          net.write('*type:'+str(typ)+'\n')
          twoMode = (nr != nc) or ('twomode' in typ)
          net.write('*timescale '+str(minT)+' '+str(maxT)+'\n')
@@ -873,8 +921,8 @@ class TQ(object):
             for (i,l) in N['til']:
                net.write(str(i)+' "'+l+'"\n')
          names = None; times = None
-         if 'nam' in K: names = N['nam']                 
-         if 'tin' in K: times = N['tin']                 
+         if 'nam' in K: names = N['nam']
+         if 'tin' in K: times = N['tin']
          if twoMode:
             net.write("*nodes "+str(nr+nc)+" "+str(nr)+"\n")
             if names != None:
@@ -882,7 +930,7 @@ class TQ(object):
                   if times==None:
                      net.write(str(i+1)+' "'+names[i]+'"\n')
                   else:
-                     net.write(str(i+1)+' "'+names[i]+'" '+str(times[i])+'\n')                     
+                     net.write(str(i+1)+' "'+names[i]+'" '+str(times[i])+'\n')
             net.write("*arcs\n")
             for i in range(nr):
                for j in range(nc):
@@ -895,7 +943,7 @@ class TQ(object):
                   if times==None:
                      net.write(str(i+1)+' "'+names[i]+'"\n')
                   else:
-                     net.write(str(i+1)+' "'+names[i]+'" '+str(times[i])+'\n')                     
+                     net.write(str(i+1)+' "'+names[i]+'" '+str(times[i])+'\n')
             net.write("*arcs\n")
             for i in range(nr):
                for j in range(nc):
@@ -903,6 +951,65 @@ class TQ(object):
                      net.write(str(i+1)+' '+str(j+1)+' '+str(M[i][j])+'\n')
          # raise TQ.TQerror("MatSave: not implemented yet")
          net.close()
+
+   @staticmethod
+   def Ianus2netJSON(N,fileJSON="test.json",indent=None):
+      K = N.keys()
+      if not('dim' in K): raise TQ.TQerror("Ianus2netJSON: missing DIM")
+      if not('mat' in K): raise TQ.TQerror("Ianus2netJSON: missing MAT")
+      (nr, nc, minT, maxT) = N['dim']; M = N['mat']; org = 1
+      info = {}; types = N.get('typ',[])
+      info['network'] = N.get('tit',"test");
+      info['org'] = org; info['temporal'] = True
+      info['simple'] = 'simple' in types
+      info['directed'] = 'directed' in types
+      info['multirel'] = 'multirel' in types
+      info['mode'] = 1 if nr==nc else 2
+      info['meta'] = [ N.get('met',{}) ]
+      info['meta'].append({"date": datetime.datetime.now().ctime(),\
+         "title": "saved from Ianus to netJSON" })
+      info['nNodes'] = nr; time = { "Tmin": minT, "Tmax": maxT }
+#      if 'til' in K: Tlabs = { str(k): v for k,v in N['til'] }
+#      else:
+      Tlabs = { str(y):str(y) for y in range(minT,maxT+1)}
+      time['Tlabs'] = Tlabs
+      if nr==nc:
+         nodes = []; names = N.get('nam', ['v'+str(v+org) for v in range(nr)])
+         nodeAct = N.get('tin', [[(minT, maxT+1, 1)] for v in range(nr)])
+         for v in range(nr):
+            Node = { 'id': v+1, 'lab': names[v], 'tq': nodeAct[v] }
+            nodes.append(Node)
+         links = []; ltype = "arc"
+         for u in range(nr):
+            for v in range(nc):
+               if M[u][v]!=[]:
+                  Link = {"type": ltype, "n1": u+1, "n2": v+1, # "rel": link[3]
+                     "tq": M[u][v] }
+                  links.append(Link)
+      else:
+#         raise TQ.TQerror("Ianus2netJSON: two-mode not implemented yet")
+         n = nr+nc; info['nNodes'] = n; info['dim'] = [nr, nc]
+         nodes = []; names = N.get('nam', ['v'+str(v+org) for v in range(n)])
+         nodeAct = N.get('tin', [[(minT, maxT+1, 1)] for v in range(n)])
+         for v in range(nr):
+            Node = { 'id': v+1, 'lab': names[v], 'mode':1, 'tq': nodeAct[v] }
+            nodes.append(Node)
+         for v in range(nr,n):
+            Node = { 'id': v+1, 'lab': names[v], 'mode':2, 'tq': nodeAct[v] }
+            nodes.append(Node)
+         links = []; ltype = "arc"
+         for u in range(nr):
+            for v in range(nc):
+               if M[u][v]!=[]:
+                  Link = {"type": ltype, "n1": u+1, "n2": nr+v+1, # "rel": link[3]
+                     "tq": M[u][v] }
+                  links.append(Link)
+      info['nArcs'] = len(links); info['nEdges'] = 0; info['time'] = time
+      net = {"netJSON": "basic", "info": info, "nodes": nodes, "links": links}
+#      js = open(info['network']+'.json','w')
+      js = open(fileJSON,'w')
+      json.dump(net, js, ensure_ascii=False, indent=indent)
+      js.close()
 
    @staticmethod
    def Mat2Pajek(M,file="test.net",names=None,labels=False):
@@ -923,13 +1030,13 @@ class TQ(object):
          else: raise TQ.TQerror("Mat2Pajek: not implemented yet")
          net.close()
 
-   ''' additional unasigned operations ''' 
+   ''' additional unasigned operations '''
    @staticmethod
    def project(a,ind):
       c = []
       for (sa,fa,va) in a: c.append((sa,fa,va[ind]))
       return(TQ.standard(c))
-   
+
    @staticmethod
    def filter(a,test):
       c = []
@@ -952,10 +1059,10 @@ class TQ(object):
       T = [ [] for i in range(n) ]
       for u in range(n):
          d = []
-         for v in range(n): 
+         for v in range(n):
             if A[u][v]!=[]: d = TQ.sum(d,TQ.binary(A[u][v]))
          T[u] = d
-      old()   
+      old()
       return(T)
 
    @staticmethod
