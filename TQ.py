@@ -2,6 +2,7 @@
 Created on October 29, 2015 / March 30, 2015 / August 15, 2014 / March 10, 2014
 Updated on November 11, 2018
 Apr 29 2019: added changeTime
+Jun 22 2020: added disAbs, disJaccard, disMax, disSum
 
 @author: Vladimir Batagelj, Selena Praprotnik
 '''
@@ -142,6 +143,10 @@ class TQ(object):
    def TqMax(a):
       s = [ va for (sa,fa,va) in a ]
       return -TQ.inf if s == [] else max(s)
+
+   @staticmethod
+   def TqAbs(a):
+      return [ (sa,fa,abs(va)) for (sa,fa,va) in a ]
 
    @staticmethod
    def binary(a):
@@ -298,6 +303,31 @@ class TQ(object):
             if fc == fa: (sa,fa,va) = TQ.get(A)
             if fc == fb: (sb,fb,vb) = TQ.get(B)
       return(TQ.standard(c))
+
+   @staticmethod
+   def disAbs(a,b):
+      return TQ.total(TQ.TqAbs(TQ.sum(a,TQ.minus(b))))
+
+   @staticmethod
+   def disJaccard(a,b):
+      A = TQ.binary(a); B = TQ.binary(b)
+      TQ.maxmin()
+      d = TQ.total(TQ.prod(A,B))
+      s = TQ.total(TQ.sum(A,B))
+      TQ.combinatorial()
+      return 1-d/s
+
+   @staticmethod
+   def disSum(a,b):
+      d = TQ.cutGT(TQ.TqAbs(TQ.sum(a,TQ.minus(b))),0)
+      s = TQ.sum(a,b)
+      return TQ.total(TQ.proportion(d,s))
+
+   @staticmethod
+   def disMax(a,b):
+      d = TQ.cutGT(TQ.TqAbs(TQ.sum(a,TQ.minus(b))),0)
+      TQ.maxmin(); s = TQ.sum(a,b); TQ.combinatorial()
+      return TQ.total(TQ.proportion(d,s))
 
    @staticmethod
    def PartMaxAdd(a,g,b=None):
