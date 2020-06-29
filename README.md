@@ -10,6 +10,9 @@ Python library for temporal network analysis based on temporal quantities
   * https://amc-journal.eu/index.php/amc/article/view/810
   * https://www.springerprofessional.de/en/an-algebraic-approach-to-temporal-network-analysis-based-on-temp/10193554
   * https://www.sciencedirect.com/science/article/pii/S1751157719301439
+  * Selena Praprotnik, Vladimir Batagelj: Semirings for temporal network analysis. arXiv:1603.08261 https://arxiv.org/abs/1603.08261
+
+
 
 ## clusTQ
 
