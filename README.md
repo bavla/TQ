@@ -1,4 +1,7 @@
-# TQ
+# TQ - temporal quantities
+
+## TQ
+
 Python library for temporal network analysis based on temporal quantities
 
   * http://vladowiki.fmf.uni-lj.si/lib/exe/fetch.php?media=tq:pub:tempnet17.pdf
@@ -8,3 +11,8 @@ Python library for temporal network analysis based on temporal quantities
   * https://www.springerprofessional.de/en/an-algebraic-approach-to-temporal-network-analysis-based-on-temp/10193554
   * https://www.sciencedirect.com/science/article/pii/S1751157719301439
 
+## clusTQ
+
+Python library for clustering TQs.
+
+  * 
