@@ -20,7 +20,7 @@ Python library for clustering TQs.
 
   * 
 
-## hist
+## hist.R
 
 Visualization of TQs in R.
 
