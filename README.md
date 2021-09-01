@@ -19,3 +19,10 @@ Python library for temporal network analysis based on temporal quantities
 Python library for clustering TQs.
 
   * 
+
+## hist
+
+Visualization of TQs in R.
+
+* https://github.com/bavla/Nets/wiki/hist
+* 
