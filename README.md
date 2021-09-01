@@ -25,4 +25,4 @@ Python library for clustering TQs.
 Visualization of TQs in R.
 
 * https://github.com/bavla/Nets/wiki/hist
-* 
+* https://github.com/bavla/TQ/wiki/BMRC#visualizing-the-network-matrix---heatmap
