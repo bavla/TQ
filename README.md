@@ -11,6 +11,7 @@ Python library for temporal network analysis based on temporal quantities
   * Vladimir Batagelj, Selena Praprotnik: An algebraic approach to temporal network analysis based on temporal quantities.
 https://www.springerprofessional.de/en/an-algebraic-approach-to-temporal-network-analysis-based-on-temp/10193554
   * Vladimir Batagelj, Daria Maltseva: Temporal bibliographic networks. https://www.sciencedirect.com/science/article/pii/S1751157719301439
+  * Maltseva, D., Batagelj, V.: Journals publishing social network analysis. Scientometrics 126 (2021), pages 3593–3620. https://doi.org/10.1007/s11192-021-03889-z
   * Maltseva, D., Batagelj, V.: Collaboration between authors in the field of social network analysis. Scientometrics (2022) 127: 3437-3470. https://link.springer.com/content/pdf/10.1007/s11192-022-04364-z.pdf
   * Selena Praprotnik, Vladimir Batagelj: Semirings for temporal network analysis. arXiv:1603.08261 https://arxiv.org/abs/1603.08261
 
