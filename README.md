@@ -10,11 +10,11 @@ Python library for temporal network analysis based on temporal quantities
   * Selena Praprotnik, Vladimir Batagelj: Spectral centrality measures in temporal networks. Ars Mathematica Contemporanea, Vol 11, No 1 (2016)  https://amc-journal.eu/index.php/amc/article/view/810
   * Vladimir Batagelj, Selena Praprotnik: An algebraic approach to temporal network analysis based on temporal quantities.
 https://www.springerprofessional.de/en/an-algebraic-approach-to-temporal-network-analysis-based-on-temp/10193554
-  * https://www.sciencedirect.com/science/article/pii/S1751157719301439
+  * Vladimir Batagelj, Daria Maltseva: Temporal bibliographic networks. https://www.sciencedirect.com/science/article/pii/S1751157719301439
   * Selena Praprotnik, Vladimir Batagelj: Semirings for temporal network analysis. arXiv:1603.08261 https://arxiv.org/abs/1603.08261
 
 
-
+ 
 ## clusTQ
 
 Python library for clustering TQs.
