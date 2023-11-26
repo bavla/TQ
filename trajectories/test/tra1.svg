@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Title: 3. C:\Users\vlado\docs\papers\2024\Trajectories\test\tra1.net (4) -->
+<!-- Creator: Pajek 5.17: http://mrvar.fdv.uni-lj.si/pajek -->
+<!-- CreationDate: 11-26-2023, 3:06:48 -->
+<svg xml:space="preserve" viewBox="0 0 734 706" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<title>3. C:\Users\vlado\docs\papers\2024\Trajectories\test\tra1.net (4)</title>
+<g inkscape:groupmode="layer" id="PajekSig" inkscape:label="PajekSignature">
+<g transform="translate(3 688)">
+<g transform="scale(0.1)">
+<g transform="matrix(1 0 0 -1 0 96)">
+<path d="M   7.67  49.98 L  31.76  72.76 L  46.91  78.63
+         L  57.23  80.49 M  72.86  65.23 L  65.73  83.25
+         L  57.06  75.49 L  56.75  68.65 M  76.27  68.03
+         L  75.65  84.50 L  93.92  91.02 L 107.24  74.87
+         M  80.29  67.72 L  89.28  84.81 L 104.77  81.70
+         L 116.23  73.31 L 121.18  59.33 M  56.75  81.08
+         L  71.31  64.30"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  86.18  70.21 L  91.45  73.00 L  95.78  69.58
+         M  91.14  60.88 L  96.09  62.75 L  98.26  59.33"
+         style="fill:none; stroke:saddlebrown; stroke-width:1.5;"/>
+<path d="M  81.07  49.08 L  87.81  49.08 L  93.30  54.38
+         L  93.30  60.88 L  93.30  67.39 L  87.81  72.69
+         L  81.07  72.69 L  74.33  72.69 L  68.83  67.39
+         L  68.83  60.88 L  68.83  54.38 L  74.33  49.08
+         L  81.07  49.08 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;"/>
+<path d="M  54.63  37.53 L  68.53  43.56 L  75.39  55.85
+         L  69.90  65.35 L  64.41  72.86 L  48.60  74.06
+         L  34.71  68.04 L  20.81  55.02 L  15.95  40.72
+         L  17.44  33.22 L  24.92  28.72 L  40.73  30.51
+         L  54.63  37.53 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;" />
+<path d="M  77.82  50.63 L 103.84  59.33 L 131.10  43.80
+         L 139.46  27.95 L 139.15  15.83 M  35.99   5.27
+         L  47.15  32.92 L  61.71  50.01 L  70.07  46.90
+         L  82.77  45.04 L  83.39  27.02 L  65.42  12.11
+         M  68.52  50.63 L  91.14  49.39 L 103.53  43.17
+         L 117.16  22.67 L 115.30   8.38"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  41.57  54.98 L  60.16  64.61 M  52.41  66.17
+         L  57.99  57.47"
+         style="fill:none; stroke:white; stroke-width:5;"/>
+</g>
+</g>
+<animateMotion dur="20s" path="M3 0 L716 0" begin="120s" fill="freeze"/>
+</g>
+<g transform="translate(3 688)">
+<g transform="scale(0.1)">
+<text x="5" y="140" style="font-family:Brush Script MT;font-size:75px;fill:green;">Pajek</text>
+</g>
+<animateMotion dur="0.1s" path="M3 0 L716 0" begin="120s" fill="freeze"/>
+</g>
+</g>      <!-- Layer Signature -->
+
+<g inkscape:groupmode="layer" id="PajekNet" inkscape:label="PajekNetwork">
+
+<g id="c0on" visibility="visible">
+  <ellipse style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0.00" rx="5" ry="5" cx="6" cy="10"/> 
+</g>
+<g id="c0off" visibility="hidden">
+  <ellipse style="fill:rgb(255,255,255);stroke:rgb(0,0,255);stroke-width:2.50" rx="4.25" ry="4.25" cx="6" cy="10"/>
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c0off.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c0on.click"/>
+</g>
+<text style="font-size:10px;font-style:normal;" xml:space="preserve" x="16" y="14"><tspan>4 Q</tspan></text>
+
+<g id="c0">
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c0on.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c0off.click"/>
+<g transform="translate(540.97 183.55)">
+<g transform="rotate(43.89)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">5</text>
+</g></g>
+<!-- Edge:     2    3 -->
+<path d="M 367.00 70.60 C 465.87 95.04 632.33 255.16 660.60 353.00" style="stroke-width:10.00;stroke:rgb(0,0,255);fill:none"/> 
+<g transform="translate(367.00 337.75)">
+<g transform="rotate(0.00)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+</g></g>
+<!-- Edge:     1    3 -->
+<path d="M 73.40 353.00 C 144.30 334.00 589.70 334.00 660.60 353.00" style="stroke-width:4.00;stroke:rgb(0,0,255);fill:none"/> 
+<g transform="translate(219.51 211.08)">
+<g transform="rotate(-43.89)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">5</text>
+</g></g>
+<!-- Edge:     1    2 -->
+<line x1="73.40" y1="353.00" x2="367.00" y2="70.60" style="stroke-width:10.00;stroke:rgb(0,0,255)"/>
+</g>
+
+<g id="c1on" visibility="visible">
+  <ellipse style="fill:rgb(255,0,0);stroke:rgb(255,0,0);stroke-width:0.00" rx="5" ry="5" cx="6" cy="23"/> 
+</g>
+<g id="c1off" visibility="hidden">
+  <ellipse style="fill:rgb(255,255,255);stroke:rgb(255,0,0);stroke-width:2.50" rx="4.25" ry="4.25" cx="6" cy="23"/>
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c1off.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c1on.click"/>
+</g>
+<text style="font-size:10px;font-style:normal;" xml:space="preserve" x="16" y="27"><tspan>3 P</tspan></text>
+
+<g id="c1">
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c1on.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c1off.click"/>
+<g transform="translate(227.75 486.36)">
+<g transform="rotate(43.89)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+</g></g>
+<!-- Edge:     1    4 -->
+<path d="M 73.40 353.00 C 117.99 377.60 340.69 591.80 367.00 635.40" style="stroke-width:4.00;stroke:rgb(255,0,0);fill:none"/> 
+<g transform="translate(507.64 218.20)">
+<g transform="rotate(43.89)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+</g></g>
+<!-- Edge:     2    3 -->
+<path d="M 367.00 70.60 C 393.31 114.20 616.01 328.40 660.60 353.00" style="stroke-width:4.00;stroke:rgb(255,0,0);fill:none"/> 
+</g>
+
+<g id="c2on" visibility="visible">
+  <ellipse style="fill:rgb(173,0,0);stroke:rgb(173,0,0);stroke-width:0.00" rx="5" ry="5" cx="6" cy="36"/> 
+</g>
+<g id="c2off" visibility="hidden">
+  <ellipse style="fill:rgb(255,255,255);stroke:rgb(173,0,0);stroke-width:2.50" rx="4.25" ry="4.25" cx="6" cy="36"/>
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c2off.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c2on.click"/>
+</g>
+<text style="font-size:10px;font-style:normal;" xml:space="preserve" x="16" y="40"><tspan>2 M</tspan></text>
+
+<g id="c2">
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c2on.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c2off.click"/>
+<g transform="translate(521.35 203.96)">
+<g transform="rotate(43.89)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+</g></g>
+<!-- Edge:     2    3 -->
+<path d="M 367.00 70.60 C 411.59 95.20 634.29 309.40 660.60 353.00" style="stroke-width:4.00;stroke:rgb(173,0,0);fill:none"/> 
+<g transform="translate(214.04 500.60)">
+<g transform="rotate(43.89)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+</g></g>
+<!-- Edge:     1    4 -->
+<path d="M 73.40 353.00 C 99.71 396.60 322.41 610.80 367.00 635.40" style="stroke-width:6.00;stroke:rgb(173,0,0);fill:none"/> 
+</g>
+
+<g id="c3on" visibility="visible">
+  <ellipse style="fill:rgb(0,0,0);stroke:rgb(0,0,0);stroke-width:0.00" rx="5" ry="5" cx="6" cy="49"/> 
+</g>
+<g id="c3off" visibility="hidden">
+  <ellipse style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:2.50" rx="4.25" ry="4.25" cx="6" cy="49"/>
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c3off.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c3on.click"/>
+</g>
+<text style="font-size:10px;font-style:normal;" xml:space="preserve" x="16" y="53"><tspan>1 K</tspan></text>
+
+<g id="c3">
+  <set attributeName="visibility" attributeType="CSS" to="hidden" begin="c3on.click"/>
+  <set attributeName="visibility" attributeType="CSS" to="visible" begin="c3off.click"/>
+<g transform="translate(367.00 366.25)">
+<g transform="rotate(-0.00)">
+<text x="0" y="0" style="font-family:Arial;font-size:15.00px;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+</g></g>
+<!-- Edge:     1    3 -->
+<path d="M 73.40 353.00 C 144.30 372.00 589.70 372.00 660.60 353.00" style="stroke-width:4.00;stroke:rgb(0,0,0);fill:none"/> 
+</g>
+
+<!-- Vertex:     1 -->
+<ellipse cx="73.40" cy="353.00" rx="22.50" ry="22.50" style="fill:rgb(255,217,188);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="73.40" y="359.67" style="font-family:Arial;font-weight: bold;font-size:20px;fill:rgb(173,0,0);text-anchor:middle;">ab</text>
+<!-- Vertex:     2 -->
+<ellipse cx="367.00" cy="70.60" rx="22.50" ry="22.50" style="fill:rgb(255,217,188);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="367.00" y="77.27" style="font-family:Arial;font-weight: bold;font-size:20px;fill:rgb(173,0,0);text-anchor:middle;">cd</text>
+<!-- Vertex:     3 -->
+<ellipse cx="660.60" cy="353.00" rx="22.50" ry="22.50" style="fill:rgb(255,217,188);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="660.60" y="359.67" style="font-family:Arial;font-weight: bold;font-size:20px;fill:rgb(173,0,0);text-anchor:middle;">ef</text>
+<!-- Vertex:     4 -->
+<ellipse cx="367.00" cy="635.40" rx="22.50" ry="22.50" style="fill:rgb(255,217,188);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="367.00" y="642.07" style="font-family:Arial;font-weight: bold;font-size:20px;fill:rgb(173,0,0);text-anchor:middle;">gh</text>
+</g>         <!-- Layer Network -->
+</svg>
