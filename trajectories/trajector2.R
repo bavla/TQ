@@ -11,6 +11,26 @@ datum <- function(d,m,y) {
   return(di)
 }
 
+raw2events <- function(D,CSV="events.csv"){
+  csv <- file(CSV,"w",encoding="UTF-8")
+  cat("R  ID  s  f  S  T\n",file=csv)
+  n <- nrow(D); OK <- TRUE 
+  for(i in 1:n){
+    ID <- D$person_name[i]; rel <- tolower(D$part_of_cv[i])
+    test <- trimws(tolower(D$institution_si[i]))
+    ds <- D$start_day[i]; ms <- D$start_month[i]; ys <- D$start_year[i]
+    sd <- datum(ds,ms,ys)
+    if(!OK) {cat(i,":",ID,ds,ms,ys,rel,'*** wrong date\n')
+      flush.console(); OK <- TRUE}
+    de <- D$end_day[i]; me <- D$end_month[i]; ye <- D$end_year[i]
+    ed <- if(ye==2100) datum("01/01/2024",NA,2024) else datum(de,me,ye)
+    if(!OK) {cat(i,":",ID,de,me,ye,rel,'*** wrong date\n')
+      flush.console(); OK <- TRUE}
+    cat(i,' "',ID,'" ',sd,' ',ed,' "',rel,'" "',test,'"\n',sep='',file=csv)
+  }
+  close(csv)
+}
+
 traj2Pajek <- function(E,kMax,Net){
   I <- order(E$s,E$f)
   n <- length(I); k <- 0; r <- 0
