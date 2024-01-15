@@ -5,3 +5,6 @@
  
 ## Sosedi
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/sosedi.svg?sanitize=true">
+
+## Izobraževanje
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/izobrazba.svg?sanitize=true">
