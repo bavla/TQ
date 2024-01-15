@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Title: 18. Square root of absolute line values of N17 (152) -->
+<!-- Creator: Pajek 5.19: http://mrvar.fdv.uni-lj.si/pajek -->
+<!-- CreationDate: 01-15-2024, 11:34:50 PM -->
+<svg xml:space="preserve" viewBox="0 0 1073 847" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<title>18. Square root of absolute line values of N17 (152)</title>
+<g inkscape:groupmode="layer" id="PajekSig" inkscape:label="PajekSignature">
+<g transform="translate(3 829)">
+<g transform="scale(0.1)">
+<g transform="matrix(1 0 0 -1 0 96)">
+<path d="M   7.67  49.98 L  31.76  72.76 L  46.91  78.63
+         L  57.23  80.49 M  72.86  65.23 L  65.73  83.25
+         L  57.06  75.49 L  56.75  68.65 M  76.27  68.03
+         L  75.65  84.50 L  93.92  91.02 L 107.24  74.87
+         M  80.29  67.72 L  89.28  84.81 L 104.77  81.70
+         L 116.23  73.31 L 121.18  59.33 M  56.75  81.08
+         L  71.31  64.30"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  86.18  70.21 L  91.45  73.00 L  95.78  69.58
+         M  91.14  60.88 L  96.09  62.75 L  98.26  59.33"
+         style="fill:none; stroke:saddlebrown; stroke-width:1.5;"/>
+<path d="M  81.07  49.08 L  87.81  49.08 L  93.30  54.38
+         L  93.30  60.88 L  93.30  67.39 L  87.81  72.69
+         L  81.07  72.69 L  74.33  72.69 L  68.83  67.39
+         L  68.83  60.88 L  68.83  54.38 L  74.33  49.08
+         L  81.07  49.08 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;"/>
+<path d="M  54.63  37.53 L  68.53  43.56 L  75.39  55.85
+         L  69.90  65.35 L  64.41  72.86 L  48.60  74.06
+         L  34.71  68.04 L  20.81  55.02 L  15.95  40.72
+         L  17.44  33.22 L  24.92  28.72 L  40.73  30.51
+         L  54.63  37.53 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;" />
+<path d="M  77.82  50.63 L 103.84  59.33 L 131.10  43.80
+         L 139.46  27.95 L 139.15  15.83 M  35.99   5.27
+         L  47.15  32.92 L  61.71  50.01 L  70.07  46.90
+         L  82.77  45.04 L  83.39  27.02 L  65.42  12.11
+         M  68.52  50.63 L  91.14  49.39 L 103.53  43.17
+         L 117.16  22.67 L 115.30   8.38"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  41.57  54.98 L  60.16  64.61 M  52.41  66.17
+         L  57.99  57.47"
+         style="fill:none; stroke:white; stroke-width:5;"/>
+</g>
+</g>
+<animateMotion dur="20s" path="M3 0 L1055 0" begin="120s" fill="freeze"/>
+</g>
+<g transform="translate(3 829)">
+<g transform="scale(0.1)">
+<text x="5" y="140" style="font-family:Brush Script MT;font-size:75px;fill:green;">Pajek</text>
+</g>
+<animateMotion dur="0.1s" path="M3 0 L1055 0" begin="120s" fill="freeze"/>
+</g>
+</g>      <!-- Layer Signature -->
+
+<g inkscape:groupmode="layer" id="PajekNet" inkscape:label="PajekNetwork">
+
+<!-- Edge:   102  116 -->
+<line x1="426.61" y1="581.14" x2="370.18" y2="591.82" style="stroke-width:0.73;stroke:rgb(0,112,145)"/>
+<!-- Edge:    34  108 -->
+<line x1="792.82" y1="436.08" x2="792.82" y2="492.83" style="stroke-width:1.85;stroke:rgb(0,112,145)"/>
+<!-- Edge:   116  121 -->
+<line x1="370.18" y1="591.82" x2="334.17" y2="565.12" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    25   27 -->
+<line x1="179.68" y1="224.65" x2="234.50" y2="207.45" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    13   25 -->
+<line x1="247.69" y1="320.31" x2="179.68" y2="224.65" style="stroke-width:0.73;stroke:rgb(0,112,145)"/>
+<!-- Edge:    71   77 -->
+<line x1="63.95" y1="157.04" x2="61.92" y2="223.25" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    71  148 -->
+<line x1="63.95" y1="157.04" x2="115.73" y2="180.58" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    13   27 -->
+<line x1="247.69" y1="320.31" x2="234.50" y2="207.45" style="stroke-width:1.31;stroke:rgb(0,112,145)"/>
+<!-- Edge:    77  148 -->
+<line x1="61.92" y1="223.25" x2="115.73" y2="180.58" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    60  149 -->
+<line x1="862.87" y1="580.32" x2="793.84" y2="538.94" style="stroke-width:1.46;stroke:rgb(0,112,145)"/>
+<!-- Edge:    60  123 -->
+<line x1="862.87" y1="580.32" x2="794.85" y2="616.98" style="stroke-width:1.46;stroke:rgb(0,112,145)"/>
+<!-- Edge:   123  149 -->
+<line x1="794.85" y1="616.98" x2="793.84" y2="538.94" style="stroke-width:1.71;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36   89 -->
+<line x1="351.00" y1="324.98" x2="325.07" y2="335.72" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    89  152 -->
+<line x1="325.07" y1="335.72" x2="327.45" y2="366.67" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    13   89 -->
+<line x1="247.69" y1="320.31" x2="325.07" y2="335.72" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58   89 -->
+<line x1="361.27" y1="409.80" x2="325.07" y2="335.72" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58   69 -->
+<line x1="361.27" y1="409.80" x2="350.43" y2="430.23" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    32   57 -->
+<line x1="316.14" y1="652.53" x2="434.48" y2="661.86" style="stroke-width:2.66;stroke:rgb(0,112,145)"/>
+<!-- Edge:    32  110 -->
+<line x1="316.14" y1="652.53" x2="358.49" y2="621.04" style="stroke-width:2.46;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2   14 -->
+<line x1="372.23" y1="468.15" x2="554.19" y2="553.40" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2  121 -->
+<line x1="372.23" y1="468.15" x2="334.17" y2="565.12" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    57  110 -->
+<line x1="434.48" y1="661.86" x2="358.49" y2="621.04" style="stroke-width:2.25;stroke:rgb(0,112,145)"/>
+<!-- Edge:    14  134 -->
+<line x1="554.19" y1="553.40" x2="537.36" y2="414.94" style="stroke-width:1.51;stroke:rgb(0,112,145)"/>
+<!-- Edge:    78   92 -->
+<line x1="515.92" y1="421.95" x2="429.39" y2="483.38" style="stroke-width:2.01;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36  152 -->
+<line x1="351.00" y1="324.98" x2="327.45" y2="366.67" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    13   36 -->
+<line x1="247.69" y1="320.31" x2="351.00" y2="324.98" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36   58 -->
+<line x1="351.00" y1="324.98" x2="361.27" y2="409.80" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    13  152 -->
+<line x1="247.69" y1="320.31" x2="327.45" y2="366.67" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58  152 -->
+<line x1="361.27" y1="409.80" x2="327.45" y2="366.67" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    27  119 -->
+<line x1="234.50" y1="207.45" x2="225.36" y2="124.69" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:   116  122 -->
+<line x1="370.18" y1="591.82" x2="392.71" y2="630.37" style="stroke-width:2.17;stroke:rgb(0,112,145)"/>
+<!-- Edge:    32  116 -->
+<line x1="316.14" y1="652.53" x2="370.18" y2="591.82" style="stroke-width:2.45;stroke:rgb(0,112,145)"/>
+<!-- Edge:    57  116 -->
+<line x1="434.48" y1="661.86" x2="370.18" y2="591.82" style="stroke-width:2.13;stroke:rgb(0,112,145)"/>
+<!-- Edge:   110  116 -->
+<line x1="358.49" y1="621.04" x2="370.18" y2="591.82" style="stroke-width:2.01;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22  116 -->
+<line x1="371.25" y1="645.77" x2="370.18" y2="591.82" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:     6  146 -->
+<line x1="97.45" y1="341.49" x2="63.95" y2="372.23" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    13   58 -->
+<line x1="247.69" y1="320.31" x2="361.27" y2="409.80" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50   53 -->
+<line x1="437.21" y1="281.60" x2="281.72" y2="376.31" style="stroke-width:1.77;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50  144 -->
+<line x1="437.21" y1="281.60" x2="349.21" y2="292.37" style="stroke-width:3.24;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50  114 -->
+<line x1="437.21" y1="281.60" x2="293.97" y2="256.25" style="stroke-width:3.03;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50   82 -->
+<line x1="437.21" y1="281.60" x2="383.67" y2="191.33" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50  127 -->
+<line x1="437.21" y1="281.60" x2="359.72" y2="233.57" style="stroke-width:2.01;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50   81 -->
+<line x1="437.21" y1="281.60" x2="323.09" y2="180.66" style="stroke-width:1.95;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50  142 -->
+<line x1="437.21" y1="281.60" x2="439.09" y2="170.87" style="stroke-width:1.91;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18   50 -->
+<line x1="340.07" y1="134.36" x2="437.21" y2="281.60" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50  113 -->
+<line x1="437.21" y1="281.60" x2="370.75" y2="154.56" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50   55 -->
+<line x1="437.21" y1="281.60" x2="303.22" y2="167.40" style="stroke-width:2.02;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36   50 -->
+<line x1="351.00" y1="324.98" x2="437.21" y2="281.60" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    45   50 -->
+<line x1="455.80" y1="210.68" x2="437.21" y2="281.60" style="stroke-width:2.09;stroke:rgb(0,112,145)"/>
+<!-- Edge:    62  148 -->
+<line x1="97.45" y1="116.84" x2="115.73" y2="180.58" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    32  122 -->
+<line x1="316.14" y1="652.53" x2="392.71" y2="630.37" style="stroke-width:1.88;stroke:rgb(0,112,145)"/>
+<!-- Edge:    57  122 -->
+<line x1="434.48" y1="661.86" x2="392.71" y2="630.37" style="stroke-width:1.72;stroke:rgb(0,112,145)"/>
+<!-- Edge:   110  122 -->
+<line x1="358.49" y1="621.04" x2="392.71" y2="630.37" style="stroke-width:1.26;stroke:rgb(0,112,145)"/>
+<!-- Edge:    49  140 -->
+<line x1="776.58" y1="205.52" x2="776.58" y2="158.22" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    66   96 -->
+<line x1="565.15" y1="335.21" x2="585.63" y2="355.50" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:   114  132 -->
+<line x1="293.97" y1="256.25" x2="394.25" y2="332.28" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    75  138 -->
+<line x1="570.41" y1="391.91" x2="488.93" y2="434.66" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    11   75 -->
+<line x1="569.52" y1="451.99" x2="570.41" y2="391.91" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:   134  136 -->
+<line x1="537.36" y1="414.94" x2="569.91" y2="369.21" style="stroke-width:2.51;stroke:rgb(0,112,145)"/>
+<!-- Edge:    66  136 -->
+<line x1="565.15" y1="335.21" x2="569.91" y2="369.21" style="stroke-width:1.91;stroke:rgb(0,112,145)"/>
+<!-- Edge:    94  136 -->
+<line x1="519.90" y1="304.25" x2="569.91" y2="369.21" style="stroke-width:2.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42  136 -->
+<line x1="516.82" y1="358.37" x2="569.91" y2="369.21" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65  136 -->
+<line x1="495.26" y1="340.04" x2="569.91" y2="369.21" style="stroke-width:1.91;stroke:rgb(0,112,145)"/>
+<!-- Edge:    87  136 -->
+<line x1="474.17" y1="327.60" x2="569.91" y2="369.21" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56  136 -->
+<line x1="497.07" y1="382.22" x2="569.91" y2="369.21" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    78  136 -->
+<line x1="515.92" y1="421.95" x2="569.91" y2="369.21" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:   136  147 -->
+<line x1="569.91" y1="369.21" x2="478.93" y2="366.16" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    75  136 -->
+<line x1="570.41" y1="391.91" x2="569.91" y2="369.21" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:   104  136 -->
+<line x1="470.36" y1="402.70" x2="569.91" y2="369.21" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:     6   48 -->
+<line x1="97.45" y1="341.49" x2="89.33" y2="265.82" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:     6   67 -->
+<line x1="97.45" y1="341.49" x2="131.97" y2="303.65" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:   101  113 -->
+<line x1="426.36" y1="138.66" x2="370.75" y2="154.56" style="stroke-width:0.44;stroke:rgb(0,112,145)"/>
+<!-- Edge:    94  133 -->
+<line x1="519.90" y1="304.25" x2="443.61" y2="313.86" style="stroke-width:1.31;stroke:rgb(0,112,145)"/>
+<!-- Edge:     7   94 -->
+<line x1="571.53" y1="161.09" x2="519.90" y2="304.25" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  144 -->
+<line x1="281.72" y1="376.31" x2="349.21" y2="292.37" style="stroke-width:0.88;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  114 -->
+<line x1="281.72" y1="376.31" x2="293.97" y2="256.25" style="stroke-width:0.44;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2   58 -->
+<line x1="372.23" y1="468.15" x2="361.27" y2="409.80" style="stroke-width:0.57;stroke:rgb(0,112,145)"/>
+<!-- Edge:    66  134 -->
+<line x1="565.15" y1="335.21" x2="537.36" y2="414.94" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:    94  134 -->
+<line x1="519.90" y1="304.25" x2="537.36" y2="414.94" style="stroke-width:2.54;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42  134 -->
+<line x1="516.82" y1="358.37" x2="537.36" y2="414.94" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65  134 -->
+<line x1="495.26" y1="340.04" x2="537.36" y2="414.94" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22   32 -->
+<line x1="371.25" y1="645.77" x2="316.14" y2="652.53" style="stroke-width:2.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:     7  133 -->
+<line x1="571.53" y1="161.09" x2="443.61" y2="313.86" style="stroke-width:1.31;stroke:rgb(0,112,145)"/>
+<!-- Edge:    16  114 -->
+<line x1="189.83" y1="281.19" x2="293.97" y2="256.25" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    14  121 -->
+<line x1="554.19" y1="553.40" x2="334.17" y2="565.12" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    25   39 -->
+<line x1="179.68" y1="224.65" x2="172.57" y2="152.63" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    39  148 -->
+<line x1="172.57" y1="152.63" x2="115.73" y2="180.58" style="stroke-width:0.82;stroke:rgb(0,112,145)"/>
+<!-- Edge:    12  121 -->
+<line x1="280.70" y1="555.58" x2="334.17" y2="565.12" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    37  121 -->
+<line x1="264.95" y1="529.58" x2="334.17" y2="565.12" style="stroke-width:2.33;stroke:rgb(0,112,145)"/>
+<!-- Edge:   100  121 -->
+<line x1="256.47" y1="460.03" x2="334.17" y2="565.12" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    59  107 -->
+<line x1="586.56" y1="110.40" x2="513.66" y2="66.64" style="stroke-width:0.73;stroke:rgb(0,112,145)"/>
+<!-- Edge:    84  112 -->
+<line x1="291.34" y1="413.83" x2="337.93" y2="394.07" style="stroke-width:1.51;stroke:rgb(0,112,145)"/>
+<!-- Edge:    84   95 -->
+<line x1="291.34" y1="413.83" x2="320.78" y2="470.69" style="stroke-width:1.51;stroke:rgb(0,112,145)"/>
+<!-- Edge:    95  112 -->
+<line x1="320.78" y1="470.69" x2="337.93" y2="394.07" style="stroke-width:1.51;stroke:rgb(0,112,145)"/>
+<!-- Edge:    11  138 -->
+<line x1="569.52" y1="451.99" x2="488.93" y2="434.66" style="stroke-width:2.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    25  148 -->
+<line x1="179.68" y1="224.65" x2="115.73" y2="180.58" style="stroke-width:0.88;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28  132 -->
+<line x1="418.19" y1="354.56" x2="394.25" y2="332.28" style="stroke-width:2.33;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28  133 -->
+<line x1="418.19" y1="354.56" x2="443.61" y2="313.86" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28  112 -->
+<line x1="418.19" y1="354.56" x2="337.93" y2="394.07" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28   30 -->
+<line x1="418.19" y1="354.56" x2="420.69" y2="392.07" style="stroke-width:2.36;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28  147 -->
+<line x1="418.19" y1="354.56" x2="478.93" y2="366.16" style="stroke-width:2.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28  115 -->
+<line x1="418.19" y1="354.56" x2="451.90" y2="346.11" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28  104 -->
+<line x1="418.19" y1="354.56" x2="470.36" y2="402.70" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28   61 -->
+<line x1="418.19" y1="354.56" x2="405.09" y2="415.89" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28  141 -->
+<line x1="418.19" y1="354.56" x2="396.04" y2="400.67" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28   42 -->
+<line x1="418.19" y1="354.56" x2="516.82" y2="358.37" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28   91 -->
+<line x1="418.19" y1="354.56" x2="444.82" y2="424.47" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28  138 -->
+<line x1="418.19" y1="354.56" x2="488.93" y2="434.66" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   28 -->
+<line x1="425.58" y1="370.73" x2="418.19" y2="354.56" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28   35 -->
+<line x1="418.19" y1="354.56" x2="392.23" y2="379.14" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28   98 -->
+<line x1="418.19" y1="354.56" x2="416.16" y2="429.46" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28   58 -->
+<line x1="418.19" y1="354.56" x2="361.27" y2="409.80" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    73  135 -->
+<line x1="423.31" y1="116.09" x2="423.31" y2="77.39" style="stroke-width:2.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:     7   73 -->
+<line x1="571.53" y1="161.09" x2="423.31" y2="116.09" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    73  131 -->
+<line x1="423.31" y1="116.09" x2="303.53" y2="101.04" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    87  142 -->
+<line x1="474.17" y1="327.60" x2="439.09" y2="170.87" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22  110 -->
+<line x1="371.25" y1="645.77" x2="358.49" y2="621.04" style="stroke-width:1.71;stroke:rgb(0,112,145)"/>
+<!-- Edge:    66   94 -->
+<line x1="565.15" y1="335.21" x2="519.90" y2="304.25" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42   66 -->
+<line x1="516.82" y1="358.37" x2="565.15" y2="335.21" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65   66 -->
+<line x1="495.26" y1="340.04" x2="565.15" y2="335.21" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    66   87 -->
+<line x1="565.15" y1="335.21" x2="474.17" y2="327.60" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56   66 -->
+<line x1="497.07" y1="382.22" x2="565.15" y2="335.21" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    66   78 -->
+<line x1="565.15" y1="335.21" x2="515.92" y2="421.95" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    16   67 -->
+<line x1="189.83" y1="281.19" x2="131.97" y2="303.65" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:   132  133 -->
+<line x1="394.25" y1="332.28" x2="443.61" y2="313.86" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:   112  132 -->
+<line x1="337.93" y1="394.07" x2="394.25" y2="332.28" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30  132 -->
+<line x1="420.69" y1="392.07" x2="394.25" y2="332.28" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:   132  147 -->
+<line x1="394.25" y1="332.28" x2="478.93" y2="366.16" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:   115  132 -->
+<line x1="451.90" y1="346.11" x2="394.25" y2="332.28" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:   104  132 -->
+<line x1="470.36" y1="402.70" x2="394.25" y2="332.28" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  132 -->
+<line x1="405.09" y1="415.89" x2="394.25" y2="332.28" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:   114  144 -->
+<line x1="293.97" y1="256.25" x2="349.21" y2="292.37" style="stroke-width:2.65;stroke:rgb(0,112,145)"/>
+<!-- Edge:    82  144 -->
+<line x1="383.67" y1="191.33" x2="349.21" y2="292.37" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:   127  144 -->
+<line x1="359.72" y1="233.57" x2="349.21" y2="292.37" style="stroke-width:1.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:    81  144 -->
+<line x1="323.09" y1="180.66" x2="349.21" y2="292.37" style="stroke-width:1.83;stroke:rgb(0,112,145)"/>
+<!-- Edge:     7  135 -->
+<line x1="571.53" y1="161.09" x2="423.31" y2="77.39" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:   131  135 -->
+<line x1="303.53" y1="101.04" x2="423.31" y2="77.39" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42   94 -->
+<line x1="516.82" y1="358.37" x2="519.90" y2="304.25" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65   94 -->
+<line x1="495.26" y1="340.04" x2="519.90" y2="304.25" style="stroke-width:1.91;stroke:rgb(0,112,145)"/>
+<!-- Edge:    87   94 -->
+<line x1="474.17" y1="327.60" x2="519.90" y2="304.25" style="stroke-width:2.53;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56   94 -->
+<line x1="497.07" y1="382.22" x2="519.90" y2="304.25" style="stroke-width:2.16;stroke:rgb(0,112,145)"/>
+<!-- Edge:    78   94 -->
+<line x1="515.92" y1="421.95" x2="519.90" y2="304.25" style="stroke-width:1.95;stroke:rgb(0,112,145)"/>
+<!-- Edge:    94  147 -->
+<line x1="519.90" y1="304.25" x2="478.93" y2="366.16" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:    75   94 -->
+<line x1="570.41" y1="391.91" x2="519.90" y2="304.25" style="stroke-width:2.09;stroke:rgb(0,112,145)"/>
+<!-- Edge:    94  104 -->
+<line x1="519.90" y1="304.25" x2="470.36" y2="402.70" style="stroke-width:1.99;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56   75 -->
+<line x1="497.07" y1="382.22" x2="570.41" y2="391.91" style="stroke-width:2.25;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42   65 -->
+<line x1="516.82" y1="358.37" x2="495.26" y2="340.04" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    82  114 -->
+<line x1="383.67" y1="191.33" x2="293.97" y2="256.25" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:   114  127 -->
+<line x1="293.97" y1="256.25" x2="359.72" y2="233.57" style="stroke-width:1.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:    81  114 -->
+<line x1="323.09" y1="180.66" x2="293.97" y2="256.25" style="stroke-width:1.83;stroke:rgb(0,112,145)"/>
+<!-- Edge:   114  142 -->
+<line x1="293.97" y1="256.25" x2="439.09" y2="170.87" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:    12   37 -->
+<line x1="280.70" y1="555.58" x2="264.95" y2="529.58" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    24  118 -->
+<line x1="328.90" y1="73.09" x2="373.57" y2="49.44" style="stroke-width:1.77;stroke:rgb(0,112,145)"/>
+<!-- Edge:   112  133 -->
+<line x1="337.93" y1="394.07" x2="443.61" y2="313.86" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30  133 -->
+<line x1="420.69" y1="392.07" x2="443.61" y2="313.86" style="stroke-width:1.42;stroke:rgb(0,112,145)"/>
+<!-- Edge:   133  147 -->
+<line x1="443.61" y1="313.86" x2="478.93" y2="366.16" style="stroke-width:0.52;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65   87 -->
+<line x1="495.26" y1="340.04" x2="474.17" y2="327.60" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56   65 -->
+<line x1="497.07" y1="382.22" x2="495.26" y2="340.04" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65   78 -->
+<line x1="495.26" y1="340.04" x2="515.92" y2="421.95" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65  147 -->
+<line x1="495.26" y1="340.04" x2="478.93" y2="366.16" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65   75 -->
+<line x1="495.26" y1="340.04" x2="570.41" y2="391.91" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:     1   49 -->
+<line x1="778.61" y1="285.92" x2="776.58" y2="205.52" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2   95 -->
+<line x1="372.23" y1="468.15" x2="320.78" y2="470.69" style="stroke-width:1.76;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2  145 -->
+<line x1="372.23" y1="468.15" x2="400.26" y2="521.07" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2   92 -->
+<line x1="372.23" y1="468.15" x2="429.39" y2="483.38" style="stroke-width:2.28;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2   54 -->
+<line x1="372.23" y1="468.15" x2="352.22" y2="450.90" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2  143 -->
+<line x1="372.23" y1="468.15" x2="342.69" y2="481.35" style="stroke-width:2.36;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2  117 -->
+<line x1="372.23" y1="468.15" x2="369.45" y2="529.08" style="stroke-width:1.77;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2   41 -->
+<line x1="372.23" y1="468.15" x2="393.66" y2="448.87" style="stroke-width:1.83;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2  103 -->
+<line x1="372.23" y1="468.15" x2="319.35" y2="434.66" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2   93 -->
+<line x1="372.23" y1="468.15" x2="335.07" y2="505.20" style="stroke-width:1.95;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2  137 -->
+<line x1="372.23" y1="468.15" x2="422.14" y2="505.55" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30  112 -->
+<line x1="420.69" y1="392.07" x2="337.93" y2="394.07" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:   112  147 -->
+<line x1="337.93" y1="394.07" x2="478.93" y2="366.16" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    82  127 -->
+<line x1="383.67" y1="191.33" x2="359.72" y2="233.57" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    81   82 -->
+<line x1="323.09" y1="180.66" x2="383.67" y2="191.33" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    82  142 -->
+<line x1="383.67" y1="191.33" x2="439.09" y2="170.87" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18   82 -->
+<line x1="340.07" y1="134.36" x2="383.67" y2="191.33" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    48   67 -->
+<line x1="89.33" y1="265.82" x2="131.97" y2="303.65" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    81  127 -->
+<line x1="323.09" y1="180.66" x2="359.72" y2="233.57" style="stroke-width:1.85;stroke:rgb(0,112,145)"/>
+<!-- Edge:   127  142 -->
+<line x1="359.72" y1="233.57" x2="439.09" y2="170.87" style="stroke-width:1.51;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18  127 -->
+<line x1="340.07" y1="134.36" x2="359.72" y2="233.57" style="stroke-width:1.29;stroke:rgb(0,112,145)"/>
+<!-- Edge:    95  145 -->
+<line x1="320.78" y1="470.69" x2="400.26" y2="521.07" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    92   95 -->
+<line x1="429.39" y1="483.38" x2="320.78" y2="470.69" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    54   95 -->
+<line x1="352.22" y1="450.90" x2="320.78" y2="470.69" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    95  143 -->
+<line x1="320.78" y1="470.69" x2="342.69" y2="481.35" style="stroke-width:0.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    95  117 -->
+<line x1="320.78" y1="470.69" x2="369.45" y2="529.08" style="stroke-width:0.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    54  117 -->
+<line x1="352.22" y1="450.90" x2="369.45" y2="529.08" style="stroke-width:1.56;stroke:rgb(0,112,145)"/>
+<!-- Edge:   141  143 -->
+<line x1="396.04" y1="400.67" x2="342.69" y2="481.35" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22  122 -->
+<line x1="371.25" y1="645.77" x2="392.71" y2="630.37" style="stroke-width:0.78;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22   57 -->
+<line x1="371.25" y1="645.77" x2="434.48" y2="661.86" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30  147 -->
+<line x1="420.69" y1="392.07" x2="478.93" y2="366.16" style="stroke-width:1.95;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30  115 -->
+<line x1="420.69" y1="392.07" x2="451.90" y2="346.11" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:    92  145 -->
+<line x1="429.39" y1="483.38" x2="400.26" y2="521.07" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:    54  145 -->
+<line x1="352.22" y1="450.90" x2="400.26" y2="521.07" style="stroke-width:1.21;stroke:rgb(0,112,145)"/>
+<!-- Edge:   143  145 -->
+<line x1="342.69" y1="481.35" x2="400.26" y2="521.07" style="stroke-width:0.94;stroke:rgb(0,112,145)"/>
+<!-- Edge:   117  145 -->
+<line x1="369.45" y1="529.08" x2="400.26" y2="521.07" style="stroke-width:0.94;stroke:rgb(0,112,145)"/>
+<!-- Edge:    87  134 -->
+<line x1="474.17" y1="327.60" x2="537.36" y2="414.94" style="stroke-width:2.41;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56  134 -->
+<line x1="497.07" y1="382.22" x2="537.36" y2="414.94" style="stroke-width:1.99;stroke:rgb(0,112,145)"/>
+<!-- Edge:    78  134 -->
+<line x1="515.92" y1="421.95" x2="537.36" y2="414.94" style="stroke-width:1.95;stroke:rgb(0,112,145)"/>
+<!-- Edge:   134  147 -->
+<line x1="537.36" y1="414.94" x2="478.93" y2="366.16" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:    75  134 -->
+<line x1="570.41" y1="391.91" x2="537.36" y2="414.94" style="stroke-width:1.67;stroke:rgb(0,112,145)"/>
+<!-- Edge:    81  142 -->
+<line x1="323.09" y1="180.66" x2="439.09" y2="170.87" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18   81 -->
+<line x1="340.07" y1="134.36" x2="323.09" y2="180.66" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56   87 -->
+<line x1="497.07" y1="382.22" x2="474.17" y2="327.60" style="stroke-width:2.19;stroke:rgb(0,112,145)"/>
+<!-- Edge:    78   87 -->
+<line x1="515.92" y1="421.95" x2="474.17" y2="327.60" style="stroke-width:2.12;stroke:rgb(0,112,145)"/>
+<!-- Edge:    87  147 -->
+<line x1="474.17" y1="327.60" x2="478.93" y2="366.16" style="stroke-width:1.97;stroke:rgb(0,112,145)"/>
+<!-- Edge:    75   87 -->
+<line x1="570.41" y1="391.91" x2="474.17" y2="327.60" style="stroke-width:1.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:    87  104 -->
+<line x1="474.17" y1="327.60" x2="470.36" y2="402.70" style="stroke-width:1.97;stroke:rgb(0,112,145)"/>
+<!-- Edge:    33   34 -->
+<line x1="792.82" y1="386.42" x2="792.82" y2="436.08" style="stroke-width:1.83;stroke:rgb(0,112,145)"/>
+<!-- Edge:    17   64 -->
+<line x1="580.66" y1="38.70" x2="649.69" y2="68.79" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    59   64 -->
+<line x1="586.56" y1="110.40" x2="649.69" y2="68.79" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41   61 -->
+<line x1="393.66" y1="448.87" x2="405.09" y2="415.89" style="stroke-width:2.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    54   92 -->
+<line x1="352.22" y1="450.90" x2="429.39" y2="483.38" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    92  143 -->
+<line x1="429.39" y1="483.38" x2="342.69" y2="481.35" style="stroke-width:2.36;stroke:rgb(0,112,145)"/>
+<!-- Edge:    92  117 -->
+<line x1="429.39" y1="483.38" x2="369.45" y2="529.08" style="stroke-width:1.77;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41   92 -->
+<line x1="393.66" y1="448.87" x2="429.39" y2="483.38" style="stroke-width:1.65;stroke:rgb(0,112,145)"/>
+<!-- Edge:    92  103 -->
+<line x1="429.39" y1="483.38" x2="319.35" y2="434.66" style="stroke-width:1.46;stroke:rgb(0,112,145)"/>
+<!-- Edge:    92   93 -->
+<line x1="429.39" y1="483.38" x2="335.07" y2="505.20" style="stroke-width:2.01;stroke:rgb(0,112,145)"/>
+<!-- Edge:   142  144 -->
+<line x1="439.09" y1="170.87" x2="349.21" y2="292.37" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18  144 -->
+<line x1="340.07" y1="134.36" x2="349.21" y2="292.37" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56   78 -->
+<line x1="497.07" y1="382.22" x2="515.92" y2="421.95" style="stroke-width:1.95;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56  147 -->
+<line x1="497.07" y1="382.22" x2="478.93" y2="366.16" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:    56  104 -->
+<line x1="497.07" y1="382.22" x2="470.36" y2="402.70" style="stroke-width:1.95;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18  142 -->
+<line x1="340.07" y1="134.36" x2="439.09" y2="170.87" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:   113  142 -->
+<line x1="370.75" y1="154.56" x2="439.09" y2="170.87" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    55  142 -->
+<line x1="303.22" y1="167.40" x2="439.09" y2="170.87" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36  142 -->
+<line x1="351.00" y1="324.98" x2="439.09" y2="170.87" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    78  147 -->
+<line x1="515.92" y1="421.95" x2="478.93" y2="366.16" style="stroke-width:1.91;stroke:rgb(0,112,145)"/>
+<!-- Edge:    75   78 -->
+<line x1="570.41" y1="391.91" x2="515.92" y2="421.95" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:    78  104 -->
+<line x1="515.92" y1="421.95" x2="470.36" y2="402.70" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    37  100 -->
+<line x1="264.95" y1="529.58" x2="256.47" y2="460.03" style="stroke-width:2.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    37  103 -->
+<line x1="264.95" y1="529.58" x2="319.35" y2="434.66" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    54  143 -->
+<line x1="352.22" y1="450.90" x2="342.69" y2="481.35" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41   54 -->
+<line x1="393.66" y1="448.87" x2="352.22" y2="450.90" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    54  103 -->
+<line x1="352.22" y1="450.90" x2="319.35" y2="434.66" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    54   93 -->
+<line x1="352.22" y1="450.90" x2="335.07" y2="505.20" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18  114 -->
+<line x1="340.07" y1="134.36" x2="293.97" y2="256.25" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18  113 -->
+<line x1="340.07" y1="134.36" x2="370.75" y2="154.56" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18   55 -->
+<line x1="340.07" y1="134.36" x2="303.22" y2="167.40" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18   36 -->
+<line x1="340.07" y1="134.36" x2="351.00" y2="324.98" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    75  147 -->
+<line x1="570.41" y1="391.91" x2="478.93" y2="366.16" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:   104  147 -->
+<line x1="470.36" y1="402.70" x2="478.93" y2="366.16" style="stroke-width:2.37;stroke:rgb(0,112,145)"/>
+<!-- Edge:   115  147 -->
+<line x1="451.90" y1="346.11" x2="478.93" y2="366.16" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  147 -->
+<line x1="405.09" y1="415.89" x2="478.93" y2="366.16" style="stroke-width:1.77;stroke:rgb(0,112,145)"/>
+<!-- Edge:   141  147 -->
+<line x1="396.04" y1="400.67" x2="478.93" y2="366.16" style="stroke-width:1.59;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42  147 -->
+<line x1="516.82" y1="358.37" x2="478.93" y2="366.16" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    91  147 -->
+<line x1="444.82" y1="424.47" x2="478.93" y2="366.16" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:   138  147 -->
+<line x1="488.93" y1="434.66" x2="478.93" y2="366.16" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5  147 -->
+<line x1="425.58" y1="370.73" x2="478.93" y2="366.16" style="stroke-width:0.89;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35  147 -->
+<line x1="392.23" y1="379.14" x2="478.93" y2="366.16" style="stroke-width:0.89;stroke:rgb(0,112,145)"/>
+<!-- Edge:    98  147 -->
+<line x1="416.16" y1="429.46" x2="478.93" y2="366.16" style="stroke-width:0.45;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58  147 -->
+<line x1="361.27" y1="409.80" x2="478.93" y2="366.16" style="stroke-width:0.45;stroke:rgb(0,112,145)"/>
+<!-- Edge:   113  114 -->
+<line x1="370.75" y1="154.56" x2="293.97" y2="256.25" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    55  114 -->
+<line x1="303.22" y1="167.40" x2="293.97" y2="256.25" style="stroke-width:1.87;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36  114 -->
+<line x1="351.00" y1="324.98" x2="293.97" y2="256.25" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    45  114 -->
+<line x1="455.80" y1="210.68" x2="293.97" y2="256.25" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    75  104 -->
+<line x1="570.41" y1="391.91" x2="470.36" y2="402.70" style="stroke-width:2.09;stroke:rgb(0,112,145)"/>
+<!-- Edge:   104  115 -->
+<line x1="470.36" y1="402.70" x2="451.90" y2="346.11" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  115 -->
+<line x1="405.09" y1="415.89" x2="451.90" y2="346.11" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:   115  141 -->
+<line x1="451.90" y1="346.11" x2="396.04" y2="400.67" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42  115 -->
+<line x1="516.82" y1="358.37" x2="451.90" y2="346.11" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    91  115 -->
+<line x1="444.82" y1="424.47" x2="451.90" y2="346.11" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:   115  138 -->
+<line x1="451.90" y1="346.11" x2="488.93" y2="434.66" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:   117  143 -->
+<line x1="369.45" y1="529.08" x2="342.69" y2="481.35" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41  143 -->
+<line x1="393.66" y1="448.87" x2="342.69" y2="481.35" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:   103  143 -->
+<line x1="319.35" y1="434.66" x2="342.69" y2="481.35" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:    93  143 -->
+<line x1="335.07" y1="505.20" x2="342.69" y2="481.35" style="stroke-width:2.39;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41  117 -->
+<line x1="393.66" y1="448.87" x2="369.45" y2="529.08" style="stroke-width:1.59;stroke:rgb(0,112,145)"/>
+<!-- Edge:   103  117 -->
+<line x1="319.35" y1="434.66" x2="369.45" y2="529.08" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    93  117 -->
+<line x1="335.07" y1="505.20" x2="369.45" y2="529.08" style="stroke-width:1.17;stroke:rgb(0,112,145)"/>
+<!-- Edge:    81  113 -->
+<line x1="323.09" y1="180.66" x2="370.75" y2="154.56" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    55   81 -->
+<line x1="303.22" y1="167.40" x2="323.09" y2="180.66" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36   81 -->
+<line x1="351.00" y1="324.98" x2="323.09" y2="180.66" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:   113  127 -->
+<line x1="370.75" y1="154.56" x2="359.72" y2="233.57" style="stroke-width:1.16;stroke:rgb(0,112,145)"/>
+<!-- Edge:    55  127 -->
+<line x1="303.22" y1="167.40" x2="359.72" y2="233.57" style="stroke-width:1.16;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36  127 -->
+<line x1="351.00" y1="324.98" x2="359.72" y2="233.57" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    55  113 -->
+<line x1="303.22" y1="167.40" x2="370.75" y2="154.56" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:   113  144 -->
+<line x1="370.75" y1="154.56" x2="349.21" y2="292.37" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36  113 -->
+<line x1="351.00" y1="324.98" x2="370.75" y2="154.56" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30  104 -->
+<line x1="420.69" y1="392.07" x2="470.36" y2="402.70" style="stroke-width:1.95;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30   61 -->
+<line x1="420.69" y1="392.07" x2="405.09" y2="415.89" style="stroke-width:2.36;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30  141 -->
+<line x1="420.69" y1="392.07" x2="396.04" y2="400.67" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30   42 -->
+<line x1="420.69" y1="392.07" x2="516.82" y2="358.37" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30   91 -->
+<line x1="420.69" y1="392.07" x2="444.82" y2="424.47" style="stroke-width:2.04;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30  138 -->
+<line x1="420.69" y1="392.07" x2="488.93" y2="434.66" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   30 -->
+<line x1="425.58" y1="370.73" x2="420.69" y2="392.07" style="stroke-width:1.59;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30   35 -->
+<line x1="420.69" y1="392.07" x2="392.23" y2="379.14" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30   98 -->
+<line x1="420.69" y1="392.07" x2="416.16" y2="429.46" style="stroke-width:1.48;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30   58 -->
+<line x1="420.69" y1="392.07" x2="361.27" y2="409.80" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:   104  134 -->
+<line x1="470.36" y1="402.70" x2="537.36" y2="414.94" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  104 -->
+<line x1="405.09" y1="415.89" x2="470.36" y2="402.70" style="stroke-width:2.14;stroke:rgb(0,112,145)"/>
+<!-- Edge:   104  141 -->
+<line x1="470.36" y1="402.70" x2="396.04" y2="400.67" style="stroke-width:1.64;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42  104 -->
+<line x1="516.82" y1="358.37" x2="470.36" y2="402.70" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    91  104 -->
+<line x1="444.82" y1="424.47" x2="470.36" y2="402.70" style="stroke-width:2.17;stroke:rgb(0,112,145)"/>
+<!-- Edge:   104  138 -->
+<line x1="470.36" y1="402.70" x2="488.93" y2="434.66" style="stroke-width:1.85;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5  104 -->
+<line x1="425.58" y1="370.73" x2="470.36" y2="402.70" style="stroke-width:0.99;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35  104 -->
+<line x1="392.23" y1="379.14" x2="470.36" y2="402.70" style="stroke-width:1.04;stroke:rgb(0,112,145)"/>
+<!-- Edge:    98  104 -->
+<line x1="416.16" y1="429.46" x2="470.36" y2="402.70" style="stroke-width:1.35;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58  104 -->
+<line x1="361.27" y1="409.80" x2="470.36" y2="402.70" style="stroke-width:1.12;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41  145 -->
+<line x1="393.66" y1="448.87" x2="400.26" y2="521.07" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41  103 -->
+<line x1="393.66" y1="448.87" x2="319.35" y2="434.66" style="stroke-width:1.66;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41   93 -->
+<line x1="393.66" y1="448.87" x2="335.07" y2="505.20" style="stroke-width:1.47;stroke:rgb(0,112,145)"/>
+<!-- Edge:    55  144 -->
+<line x1="303.22" y1="167.40" x2="349.21" y2="292.37" style="stroke-width:1.87;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36   55 -->
+<line x1="351.00" y1="324.98" x2="303.22" y2="167.40" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    45   55 -->
+<line x1="455.80" y1="210.68" x2="303.22" y2="167.40" style="stroke-width:0.76;stroke:rgb(0,112,145)"/>
+<!-- Edge:    19  104 -->
+<line x1="605.96" y1="414.50" x2="470.36" y2="402.70" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36  144 -->
+<line x1="351.00" y1="324.98" x2="349.21" y2="292.37" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    45  144 -->
+<line x1="455.80" y1="210.68" x2="349.21" y2="292.37" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    15  144 -->
+<line x1="514.67" y1="183.80" x2="349.21" y2="292.37" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  141 -->
+<line x1="405.09" y1="415.89" x2="396.04" y2="400.67" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42   61 -->
+<line x1="516.82" y1="358.37" x2="405.09" y2="415.89" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61   91 -->
+<line x1="405.09" y1="415.89" x2="444.82" y2="424.47" style="stroke-width:2.27;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  138 -->
+<line x1="405.09" y1="415.89" x2="488.93" y2="434.66" style="stroke-width:1.95;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   61 -->
+<line x1="425.58" y1="370.73" x2="405.09" y2="415.89" style="stroke-width:1.72;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35   61 -->
+<line x1="392.23" y1="379.14" x2="405.09" y2="415.89" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61   98 -->
+<line x1="405.09" y1="415.89" x2="416.16" y2="429.46" style="stroke-width:1.79;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58   61 -->
+<line x1="361.27" y1="409.80" x2="405.09" y2="415.89" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61   86 -->
+<line x1="405.09" y1="415.89" x2="440.82" y2="443.29" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  128 -->
+<line x1="405.09" y1="415.89" x2="455.59" y2="458.01" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    98  137 -->
+<line x1="416.16" y1="429.46" x2="422.14" y2="505.55" style="stroke-width:0.73;stroke:rgb(0,112,145)"/>
+<!-- Edge:   103  145 -->
+<line x1="319.35" y1="434.66" x2="400.26" y2="521.07" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    93  145 -->
+<line x1="335.07" y1="505.20" x2="400.26" y2="521.07" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    93  103 -->
+<line x1="335.07" y1="505.20" x2="319.35" y2="434.66" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42  141 -->
+<line x1="516.82" y1="358.37" x2="396.04" y2="400.67" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    91  141 -->
+<line x1="444.82" y1="424.47" x2="396.04" y2="400.67" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:   138  141 -->
+<line x1="488.93" y1="434.66" x2="396.04" y2="400.67" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5  141 -->
+<line x1="425.58" y1="370.73" x2="396.04" y2="400.67" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35  141 -->
+<line x1="392.23" y1="379.14" x2="396.04" y2="400.67" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    98  141 -->
+<line x1="416.16" y1="429.46" x2="396.04" y2="400.67" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58  141 -->
+<line x1="361.27" y1="409.80" x2="396.04" y2="400.67" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41  141 -->
+<line x1="393.66" y1="448.87" x2="396.04" y2="400.67" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:   100  103 -->
+<line x1="256.47" y1="460.03" x2="319.35" y2="434.66" style="stroke-width:2.56;stroke:rgb(0,112,145)"/>
+<!-- Edge:   100  139 -->
+<line x1="256.47" y1="460.03" x2="278.38" y2="425.53" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  100 -->
+<line x1="281.72" y1="376.31" x2="256.47" y2="460.03" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42   91 -->
+<line x1="516.82" y1="358.37" x2="444.82" y2="424.47" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42  138 -->
+<line x1="516.82" y1="358.37" x2="488.93" y2="434.66" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   42 -->
+<line x1="425.58" y1="370.73" x2="516.82" y2="358.37" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35   42 -->
+<line x1="392.23" y1="379.14" x2="516.82" y2="358.37" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    91  138 -->
+<line x1="444.82" y1="424.47" x2="488.93" y2="434.66" style="stroke-width:2.18;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   91 -->
+<line x1="425.58" y1="370.73" x2="444.82" y2="424.47" style="stroke-width:1.65;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35   91 -->
+<line x1="392.23" y1="379.14" x2="444.82" y2="424.47" style="stroke-width:1.68;stroke:rgb(0,112,145)"/>
+<!-- Edge:    91   98 -->
+<line x1="444.82" y1="424.47" x2="416.16" y2="429.46" style="stroke-width:1.89;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58   91 -->
+<line x1="361.27" y1="409.80" x2="444.82" y2="424.47" style="stroke-width:1.73;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41   91 -->
+<line x1="393.66" y1="448.87" x2="444.82" y2="424.47" style="stroke-width:1.85;stroke:rgb(0,112,145)"/>
+<!-- Edge:    93  137 -->
+<line x1="335.07" y1="505.20" x2="422.14" y2="505.55" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5  138 -->
+<line x1="425.58" y1="370.73" x2="488.93" y2="434.66" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35  138 -->
+<line x1="392.23" y1="379.14" x2="488.93" y2="434.66" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    98  138 -->
+<line x1="416.16" y1="429.46" x2="488.93" y2="434.66" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58  138 -->
+<line x1="361.27" y1="409.80" x2="488.93" y2="434.66" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41  138 -->
+<line x1="393.66" y1="448.87" x2="488.93" y2="434.66" style="stroke-width:1.41;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18   24 -->
+<line x1="340.07" y1="134.36" x2="328.90" y2="73.09" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    19   75 -->
+<line x1="605.96" y1="414.50" x2="570.41" y2="391.91" style="stroke-width:0.64;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   35 -->
+<line x1="425.58" y1="370.73" x2="392.23" y2="379.14" style="stroke-width:1.72;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   98 -->
+<line x1="425.58" y1="370.73" x2="416.16" y2="429.46" style="stroke-width:1.54;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   58 -->
+<line x1="425.58" y1="370.73" x2="361.27" y2="409.80" style="stroke-width:1.54;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   41 -->
+<line x1="425.58" y1="370.73" x2="393.66" y2="448.87" style="stroke-width:0.83;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35   98 -->
+<line x1="392.23" y1="379.14" x2="416.16" y2="429.46" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35   58 -->
+<line x1="392.23" y1="379.14" x2="361.27" y2="409.80" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35   41 -->
+<line x1="392.23" y1="379.14" x2="393.66" y2="448.87" style="stroke-width:0.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:    86  105 -->
+<line x1="440.82" y1="443.29" x2="463.69" y2="471.20" style="stroke-width:1.06;stroke:rgb(0,112,145)"/>
+<!-- Edge:    86  150 -->
+<line x1="440.82" y1="443.29" x2="492.70" y2="449.48" style="stroke-width:1.39;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58   98 -->
+<line x1="361.27" y1="409.80" x2="416.16" y2="429.46" style="stroke-width:1.67;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41   98 -->
+<line x1="393.66" y1="448.87" x2="416.16" y2="429.46" style="stroke-width:1.46;stroke:rgb(0,112,145)"/>
+<!-- Edge:    15   50 -->
+<line x1="514.67" y1="183.80" x2="437.21" y2="281.60" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41   58 -->
+<line x1="393.66" y1="448.87" x2="361.27" y2="409.80" style="stroke-width:1.25;stroke:rgb(0,112,145)"/>
+<!-- Edge:    58   86 -->
+<line x1="361.27" y1="409.80" x2="440.82" y2="443.29" style="stroke-width:0.57;stroke:rgb(0,112,145)"/>
+<!-- Edge:    15   45 -->
+<line x1="514.67" y1="183.80" x2="455.80" y2="210.68" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:   137  143 -->
+<line x1="422.14" y1="505.55" x2="342.69" y2="481.35" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30   41 -->
+<line x1="420.69" y1="392.07" x2="393.66" y2="448.87" style="stroke-width:1.18;stroke:rgb(0,112,145)"/>
+<!-- Edge:    27  131 -->
+<line x1="234.50" y1="207.45" x2="303.53" y2="101.04" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30   86 -->
+<line x1="420.69" y1="392.07" x2="440.82" y2="443.29" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    19   94 -->
+<line x1="605.96" y1="414.50" x2="519.90" y2="304.25" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    38   94 -->
+<line x1="606.13" y1="330.34" x2="519.90" y2="304.25" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:     1   43 -->
+<line x1="778.61" y1="285.92" x2="865.91" y2="239.80" style="stroke-width:2.21;stroke:rgb(0,112,145)"/>
+<!-- Edge:     1    8 -->
+<line x1="778.61" y1="285.92" x2="866.93" y2="322.57" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:   105  150 -->
+<line x1="463.69" y1="471.20" x2="492.70" y2="449.48" style="stroke-width:1.17;stroke:rgb(0,112,145)"/>
+<!-- Edge:   103  139 -->
+<line x1="319.35" y1="434.66" x2="278.38" y2="425.53" style="stroke-width:1.75;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  103 -->
+<line x1="281.72" y1="376.31" x2="319.35" y2="434.66" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    10  150 -->
+<line x1="529.06" y1="463.50" x2="492.70" y2="449.48" style="stroke-width:0.73;stroke:rgb(0,112,145)"/>
+<!-- Edge:    17   59 -->
+<line x1="580.66" y1="38.70" x2="586.56" y2="110.40" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    19   38 -->
+<line x1="605.96" y1="414.50" x2="606.13" y2="330.34" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:    15   59 -->
+<line x1="514.67" y1="183.80" x2="586.56" y2="110.40" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    92  137 -->
+<line x1="429.39" y1="483.38" x2="422.14" y2="505.55" style="stroke-width:1.58;stroke:rgb(0,112,145)"/>
+<!-- Edge:    86   91 -->
+<line x1="440.82" y1="443.29" x2="444.82" y2="424.47" style="stroke-width:1.61;stroke:rgb(0,112,145)"/>
+<!-- Edge:    91  128 -->
+<line x1="444.82" y1="424.47" x2="455.59" y2="458.01" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    83   91 -->
+<line x1="467.97" y1="503.17" x2="444.82" y2="424.47" style="stroke-width:1.83;stroke:rgb(0,112,145)"/>
+<!-- Edge:    91  150 -->
+<line x1="444.82" y1="424.47" x2="492.70" y2="449.48" style="stroke-width:1.99;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41  104 -->
+<line x1="393.66" y1="448.87" x2="470.36" y2="402.70" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:    86  104 -->
+<line x1="440.82" y1="443.29" x2="470.36" y2="402.70" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:   104  128 -->
+<line x1="470.36" y1="402.70" x2="455.59" y2="458.01" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    83  104 -->
+<line x1="467.97" y1="503.17" x2="470.36" y2="402.70" style="stroke-width:0.93;stroke:rgb(0,112,145)"/>
+<!-- Edge:   104  150 -->
+<line x1="470.36" y1="402.70" x2="492.70" y2="449.48" style="stroke-width:0.93;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41   86 -->
+<line x1="393.66" y1="448.87" x2="440.82" y2="443.29" style="stroke-width:1.47;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41  128 -->
+<line x1="393.66" y1="448.87" x2="455.59" y2="458.01" style="stroke-width:1.26;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41   83 -->
+<line x1="393.66" y1="448.87" x2="467.97" y2="503.17" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    41  150 -->
+<line x1="393.66" y1="448.87" x2="492.70" y2="449.48" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    86   98 -->
+<line x1="440.82" y1="443.29" x2="416.16" y2="429.46" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    98  128 -->
+<line x1="416.16" y1="429.46" x2="455.59" y2="458.01" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    83   98 -->
+<line x1="467.97" y1="503.17" x2="416.16" y2="429.46" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    98  150 -->
+<line x1="416.16" y1="429.46" x2="492.70" y2="449.48" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    86  138 -->
+<line x1="440.82" y1="443.29" x2="488.93" y2="434.66" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    86  128 -->
+<line x1="440.82" y1="443.29" x2="455.59" y2="458.01" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    83   86 -->
+<line x1="467.97" y1="503.17" x2="440.82" y2="443.29" style="stroke-width:1.19;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  139 -->
+<line x1="281.72" y1="376.31" x2="278.38" y2="425.53" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:   128  138 -->
+<line x1="455.59" y1="458.01" x2="488.93" y2="434.66" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    83  138 -->
+<line x1="467.97" y1="503.17" x2="488.93" y2="434.66" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:   138  150 -->
+<line x1="488.93" y1="434.66" x2="492.70" y2="449.48" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    83  128 -->
+<line x1="467.97" y1="503.17" x2="455.59" y2="458.01" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:   128  150 -->
+<line x1="455.59" y1="458.01" x2="492.70" y2="449.48" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    38  126 -->
+<line x1="606.13" y1="330.34" x2="640.32" y2="343.64" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:    31   38 -->
+<line x1="660.17" y1="372.89" x2="606.13" y2="330.34" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    29   38 -->
+<line x1="641.26" y1="404.45" x2="606.13" y2="330.34" style="stroke-width:1.21;stroke:rgb(0,112,145)"/>
+<!-- Edge:     8   43 -->
+<line x1="866.93" y1="322.57" x2="865.91" y2="239.80" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    83  150 -->
+<line x1="467.97" y1="503.17" x2="492.70" y2="449.48" style="stroke-width:2.52;stroke:rgb(0,112,145)"/>
+<!-- Edge:    19  126 -->
+<line x1="605.96" y1="414.50" x2="640.32" y2="343.64" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    19   31 -->
+<line x1="605.96" y1="414.50" x2="660.17" y2="372.89" style="stroke-width:1.15;stroke:rgb(0,112,145)"/>
+<!-- Edge:    19   29 -->
+<line x1="605.96" y1="414.50" x2="641.26" y2="404.45" style="stroke-width:0.86;stroke:rgb(0,112,145)"/>
+<!-- Edge:    31  126 -->
+<line x1="660.17" y1="372.89" x2="640.32" y2="343.64" style="stroke-width:1.43;stroke:rgb(0,112,145)"/>
+<!-- Edge:    29  126 -->
+<line x1="641.26" y1="404.45" x2="640.32" y2="343.64" style="stroke-width:1.67;stroke:rgb(0,112,145)"/>
+<!-- Edge:    29   31 -->
+<line x1="641.26" y1="404.45" x2="660.17" y2="372.89" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:   103  151 -->
+<line x1="319.35" y1="434.66" x2="298.87" y2="489.97" style="stroke-width:1.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    42  106 -->
+<line x1="516.82" y1="358.37" x2="578.45" y2="301.30" style="stroke-width:1.13;stroke:rgb(0,112,145)"/>
+<!-- Edge:    83   85 -->
+<line x1="467.97" y1="503.17" x2="509.42" y2="492.51" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    85  150 -->
+<line x1="509.42" y1="492.51" x2="492.70" y2="449.48" style="stroke-width:1.62;stroke:rgb(0,112,145)"/>
+<!-- Edge:    40  106 -->
+<line x1="555.22" y1="293.29" x2="578.45" y2="301.30" style="stroke-width:0.38;stroke:rgb(0,112,145)"/>
+<!-- Edge:    40   42 -->
+<line x1="555.22" y1="293.29" x2="516.82" y2="358.37" style="stroke-width:0.73;stroke:rgb(0,112,145)"/>
+
+<!-- Vertex:     1 -->
+<ellipse cx="778.61" cy="285.92" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="786.49" y="287.31" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Aida Kamišalić Latifić</text>
+<!-- Vertex:     2 -->
+<ellipse cx="372.23" cy="468.15" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="380.10" y="469.54" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Aleksander Jevšek</text>
+<!-- Vertex:     3 -->
+<ellipse cx="33.50" cy="780.36" rx="5.63" ry="5.63" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="41.38" y="781.75" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Aleksander Prosen Kralj</text>
+<!-- Vertex:     4 -->
+<ellipse cx="332.96" cy="817.98" rx="5.63" ry="5.63" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="340.84" y="819.37" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Aleksander Reberšek</text>
+<!-- Vertex:     5 -->
+<ellipse cx="425.58" cy="370.73" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="433.46" y="372.12" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Alenka Bratušek</text>
+<!-- Vertex:     6 -->
+<ellipse cx="97.45" cy="341.49" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="105.33" y="342.88" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Alenka Helbl</text>
+<!-- Vertex:     7 -->
+<ellipse cx="571.53" cy="161.09" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="579.41" y="162.48" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Alenka Jeraj</text>
+<!-- Vertex:     8 -->
+<ellipse cx="866.93" cy="322.57" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="874.81" y="323.96" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Aleš Rezar</text>
+<!-- Vertex:     9 -->
+<ellipse cx="572.54" cy="715.87" rx="5.63" ry="5.63" style="fill:rgb(255,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="580.42" y="717.25" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Alma Intihar</text>
+<!-- Vertex:    10 -->
+<ellipse cx="529.06" cy="463.50" rx="5.63" ry="5.63" style="fill:rgb(255,99,33);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="536.94" y="464.89" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Andrej Hoivik</text>
+<!-- Vertex:    11 -->
+<ellipse cx="569.52" cy="451.99" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="577.39" y="453.37" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Andrej Rajh</text>
+<!-- Vertex:    12 -->
+<ellipse cx="280.70" cy="555.58" rx="5.63" ry="5.63" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="288.58" y="556.97" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Andreja Katič</text>
+<!-- Vertex:    13 -->
+<ellipse cx="247.69" cy="320.31" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="255.57" y="321.70" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Andreja Kert</text>
+<!-- Vertex:    14 -->
+<ellipse cx="554.19" cy="553.40" rx="5.63" ry="5.63" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="562.07" y="554.79" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Andreja Rajbenšu</text>
+<!-- Vertex:    15 -->
+<ellipse cx="514.67" cy="183.80" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="522.55" y="185.19" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Andreja Živic</text>
+<!-- Vertex:    16 -->
+<ellipse cx="189.83" cy="281.19" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="197.71" y="282.58" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Anja Bah Žibert</text>
+<!-- Vertex:    17 -->
+<ellipse cx="580.66" cy="38.70" rx="5.63" ry="5.63" style="fill:rgb(30,249,163);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="588.54" y="40.08" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Anton Šturbej</text>
+<!-- Vertex:    18 -->
+<ellipse cx="340.07" cy="134.36" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="347.95" y="135.75" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Anže Logar</text>
+<!-- Vertex:    19 -->
+<ellipse cx="605.96" cy="414.50" rx="5.63" ry="5.63" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="613.84" y="415.89" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Asta Vrečko</text>
+<!-- Vertex:    20 -->
+<ellipse cx="201.00" cy="754.56" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="208.88" y="755.95" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Blaž Germšek</text>
+<!-- Vertex:    21 -->
+<ellipse cx="793.84" cy="820.13" rx="5.63" ry="5.63" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="801.72" y="821.52" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Bojan Čebela</text>
+<!-- Vertex:    22 -->
+<ellipse cx="371.25" cy="645.77" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="379.13" y="647.16" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Bojan Kumer</text>
+<!-- Vertex:    23 -->
+<ellipse cx="34.51" cy="718.02" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="42.39" y="719.40" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Bojan Podkrajšek</text>
+<!-- Vertex:    24 -->
+<ellipse cx="328.90" cy="73.09" rx="5.63" ry="5.63" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="336.78" y="74.48" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Bojana Muršič</text>
+<!-- Vertex:    25 -->
+<ellipse cx="179.68" cy="224.65" rx="5.63" ry="5.63" style="fill:rgb(173,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="187.56" y="226.04" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Borut Sajovic</text>
+<!-- Vertex:    26 -->
+<ellipse cx="202.01" cy="719.09" rx="5.63" ry="5.63" style="fill:rgb(30,249,163);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="209.89" y="720.48" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Boštjan Poklukar</text>
+<!-- Vertex:    27 -->
+<ellipse cx="234.50" cy="207.45" rx="5.63" ry="5.63" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="242.38" y="208.84" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Boštjan Šefic</text>
+<!-- Vertex:    28 -->
+<ellipse cx="418.19" cy="354.56" rx="5.63" ry="5.63" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="426.06" y="355.95" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Branko Grims</text>
+<!-- Vertex:    29 -->
+<ellipse cx="641.26" cy="404.45" rx="5.63" ry="5.63" style="fill:rgb(204,255,178);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="649.14" y="405.83" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Damijan Zrim</text>
+<!-- Vertex:    30 -->
+<ellipse cx="420.69" cy="392.07" rx="5.63" ry="5.63" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="428.57" y="393.45" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Damir Črnčec</text>
+<!-- Vertex:    31 -->
+<ellipse cx="660.17" cy="372.89" rx="5.63" ry="5.63" style="fill:rgb(204,255,178);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="668.05" y="374.28" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Dan Juvan</text>
+<!-- Vertex:    32 -->
+<ellipse cx="316.14" cy="652.53" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="324.02" y="653.92" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Danijel Krivec</text>
+<!-- Vertex:    33 -->
+<ellipse cx="792.82" cy="386.42" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="800.70" y="387.81" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Danijel Levičar</text>
+<!-- Vertex:    34 -->
+<ellipse cx="792.82" cy="436.08" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="800.70" y="437.47" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Darjo Felda</text>
+<!-- Vertex:    35 -->
+<ellipse cx="392.23" cy="379.14" rx="5.63" ry="5.63" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="400.11" y="380.53" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Darko Krajnc</text>
+<!-- Vertex:    36 -->
+<ellipse cx="351.00" cy="324.98" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="358.87" y="326.36" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Dean Premik</text>
+<!-- Vertex:    37 -->
+<ellipse cx="264.95" cy="529.58" rx="5.63" ry="5.63" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="272.82" y="530.97" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Dejan Kaloh</text>
+<!-- Vertex:    38 -->
+<ellipse cx="606.13" cy="330.34" rx="5.63" ry="5.63" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="614.01" y="331.73" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Dejan Süč</text>
+<!-- Vertex:    39 -->
+<ellipse cx="172.57" cy="152.63" rx="5.63" ry="5.63" style="fill:rgb(173,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="180.45" y="154.02" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Dejan Židan</text>
+<!-- Vertex:    40 -->
+<ellipse cx="555.22" cy="293.29" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="563.10" y="294.68" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Denis Kordež</text>
+<!-- Vertex:    41 -->
+<ellipse cx="393.66" cy="448.87" rx="5.63" ry="5.63" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="401.54" y="450.26" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Dominika Švarc Pipan</text>
+<!-- Vertex:    42 -->
+<ellipse cx="516.82" cy="358.37" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="524.70" y="359.76" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Dušan Stojanovič</text>
+<!-- Vertex:    43 -->
+<ellipse cx="865.91" cy="239.80" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="873.79" y="241.19" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Emilija Stojmenova Duh</text>
+<!-- Vertex:    44 -->
+<ellipse cx="456.81" cy="718.02" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="464.69" y="719.40" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Eva Irgl</text>
+<!-- Vertex:    45 -->
+<ellipse cx="455.80" cy="210.68" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="463.68" y="212.06" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Eva Knez</text>
+<!-- Vertex:    46 -->
+<ellipse cx="688.26" cy="718.02" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="696.14" y="719.40" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Eva Vodnik</text>
+<!-- Vertex:    47 -->
+<ellipse cx="458.84" cy="787.88" rx="5.63" ry="5.63" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="466.72" y="789.27" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Felice Žiža</text>
+<!-- Vertex:    48 -->
+<ellipse cx="89.33" cy="265.82" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="97.21" y="267.21" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Ferenc Horváth</text>
+<!-- Vertex:    49 -->
+<ellipse cx="776.58" cy="205.52" rx="5.63" ry="5.63" style="fill:rgb(30,249,163);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="784.46" y="206.90" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Franc Breznik</text>
+<!-- Vertex:    50 -->
+<ellipse cx="437.21" cy="281.60" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="445.09" y="282.99" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Franc Props</text>
+<!-- Vertex:    51 -->
+<ellipse cx="460.87" cy="817.98" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="468.75" y="819.37" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Franc Rosec</text>
+<!-- Vertex:    52 -->
+<ellipse cx="691.31" cy="787.24" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="699.19" y="788.63" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Franci Kepa</text>
+<!-- Vertex:    53 -->
+<ellipse cx="281.72" cy="376.31" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="289.60" y="377.70" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Gordana Pipan</text>
+<!-- Vertex:    54 -->
+<ellipse cx="352.22" cy="450.90" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="360.10" y="452.29" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Helga Dobrin</text>
+<!-- Vertex:    55 -->
+<ellipse cx="303.22" cy="167.40" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="311.10" y="168.79" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Igor Feketija</text>
+<!-- Vertex:    56 -->
+<ellipse cx="497.07" cy="382.22" rx="5.63" ry="5.63" style="fill:rgb(0,112,145);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="504.95" y="383.60" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Igor Mally</text>
+<!-- Vertex:    57 -->
+<ellipse cx="434.48" cy="661.86" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="442.36" y="663.25" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Igor Papič</text>
+<!-- Vertex:    58 -->
+<ellipse cx="361.27" cy="409.80" rx="5.63" ry="5.63" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="369.15" y="411.19" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Igor Šoltes</text>
+<!-- Vertex:    59 -->
+<ellipse cx="586.56" cy="110.40" rx="5.63" ry="5.63" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="594.43" y="111.79" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Iva Dimic</text>
+<!-- Vertex:    60 -->
+<ellipse cx="862.87" cy="580.32" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="870.75" y="581.71" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Janez (Ivan) Janša</text>
+<!-- Vertex:    61 -->
+<ellipse cx="405.09" cy="415.89" rx="5.63" ry="5.63" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="412.97" y="417.28" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Janez Cigler Kralj</text>
+<!-- Vertex:    62 -->
+<ellipse cx="97.45" cy="116.84" rx="5.63" ry="5.63" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="105.33" y="118.23" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Janez Žakelj</text>
+<!-- Vertex:    63 -->
+<ellipse cx="459.86" cy="755.64" rx="5.63" ry="5.63" style="fill:rgb(173,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="467.74" y="757.02" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jani Prednik</text>
+<!-- Vertex:    64 -->
+<ellipse cx="649.69" cy="68.79" rx="5.63" ry="5.63" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="657.57" y="70.18" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Janja Sluga</text>
+<!-- Vertex:    65 -->
+<ellipse cx="495.26" cy="340.04" rx="5.63" ry="5.63" style="fill:rgb(255,181,40);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="503.14" y="341.43" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Janja Zupančič </text>
+<!-- Vertex:    66 -->
+<ellipse cx="565.15" cy="335.21" rx="5.63" ry="5.63" style="fill:rgb(255,181,40);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="573.03" y="336.60" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jasna Rojc</text>
+<!-- Vertex:    67 -->
+<ellipse cx="131.97" cy="303.65" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="139.85" y="305.04" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jelka Godec</text>
+<!-- Vertex:    68 -->
+<ellipse cx="574.57" cy="751.34" rx="5.63" ry="5.63" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="582.45" y="752.73" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jernej Vrtovec</text>
+<!-- Vertex:    69 -->
+<ellipse cx="350.43" cy="430.23" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="358.31" y="431.62" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jonas Žnidaršič</text>
+<!-- Vertex:    70 -->
+<ellipse cx="691.31" cy="750.26" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="699.19" y="751.65" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jože Novak</text>
+<!-- Vertex:    71 -->
+<ellipse cx="63.95" cy="157.04" rx="5.63" ry="5.63" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="71.83" y="158.43" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jože Tanko</text>
+<!-- Vertex:    72 -->
+<ellipse cx="792.82" cy="788.42" rx="5.63" ry="5.63" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="800.70" y="789.81" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jožef Horvat</text>
+<!-- Vertex:    73 -->
+<ellipse cx="423.31" cy="116.09" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="431.19" y="117.48" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jožef Lenart</text>
+<!-- Vertex:    74 -->
+<ellipse cx="691.31" cy="821.20" rx="5.63" ry="5.63" style="fill:rgb(255,10,155);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="699.19" y="822.59" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jožica Derganc</text>
+<!-- Vertex:    75 -->
+<ellipse cx="570.41" cy="391.91" rx="5.63" ry="5.63" style="fill:rgb(0,112,145);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="578.29" y="393.30" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jure Gašparič</text>
+<!-- Vertex:    76 -->
+<ellipse cx="331.95" cy="787.88" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="339.83" y="789.27" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jure Trbič</text>
+<!-- Vertex:    77 -->
+<ellipse cx="61.92" cy="223.25" rx="5.63" ry="5.63" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="69.80" y="224.64" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Jurij Lep</text>
+<!-- Vertex:    78 -->
+<ellipse cx="515.92" cy="421.95" rx="5.63" ry="5.63" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="523.80" y="423.34" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Kaja Širok</text>
+<!-- Vertex:    79 -->
+<ellipse cx="335.00" cy="716.94" rx="5.63" ry="5.63" style="fill:rgb(0,224,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="342.87" y="718.33" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Karmen Furman</text>
+<!-- Vertex:    80 -->
+<ellipse cx="791.81" cy="718.02" rx="5.63" ry="5.63" style="fill:rgb(255,119,158);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="799.69" y="719.40" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Katarina Štravs</text>
+<!-- Vertex:    81 -->
+<ellipse cx="323.09" cy="180.66" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="330.97" y="182.05" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Katja Božič</text>
+<!-- Vertex:    82 -->
+<ellipse cx="383.67" cy="191.33" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="391.55" y="192.72" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Klemen Boštjančič</text>
+<!-- Vertex:    83 -->
+<ellipse cx="467.97" cy="503.17" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="475.85" y="504.56" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Klemen Ploštajner</text>
+<!-- Vertex:    84 -->
+<ellipse cx="291.34" cy="413.83" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="299.22" y="415.22" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Lena Grgurevič</text>
+<!-- Vertex:    85 -->
+<ellipse cx="509.42" cy="492.51" rx="5.63" ry="5.63" style="fill:rgb(216,242,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="517.29" y="493.90" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Lenart Žavbi</text>
+<!-- Vertex:    86 -->
+<ellipse cx="440.82" cy="443.29" rx="5.63" ry="5.63" style="fill:rgb(216,242,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="448.70" y="444.68" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Luka Mesec</text>
+<!-- Vertex:    87 -->
+<ellipse cx="474.17" cy="327.60" rx="5.63" ry="5.63" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="482.04" y="328.99" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Luka Omladič</text>
+<!-- Vertex:    88 -->
+<ellipse cx="902.46" cy="717.48" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="910.34" y="718.87" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Maksimiljana Polak</text>
+<!-- Vertex:    89 -->
+<ellipse cx="325.07" cy="335.72" rx="5.63" ry="5.63" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="332.95" y="337.10" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Marjan Pintar</text>
+<!-- Vertex:    90 -->
+<ellipse cx="203.03" cy="815.83" rx="5.63" ry="5.63" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="210.91" y="817.22" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Marjan Šarec</text>
+<!-- Vertex:    91 -->
+<ellipse cx="444.82" cy="424.47" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="452.69" y="425.86" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Marko Koprivc</text>
+<!-- Vertex:    92 -->
+<ellipse cx="429.39" cy="483.38" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="437.27" y="484.77" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Marko Rusjan</text>
+<!-- Vertex:    93 -->
+<ellipse cx="335.07" cy="505.20" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="342.95" y="506.58" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Marko Štucin</text>
+<!-- Vertex:    94 -->
+<ellipse cx="519.90" cy="304.25" rx="5.63" ry="5.63" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="527.77" y="305.64" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Martin Premk</text>
+<!-- Vertex:    95 -->
+<ellipse cx="320.78" cy="470.69" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="328.66" y="472.08" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Maša Kociper</text>
+<!-- Vertex:    96 -->
+<ellipse cx="585.63" cy="355.50" rx="5.63" ry="5.63" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="593.51" y="356.89" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Matej Arčon</text>
+<!-- Vertex:    97 -->
+<ellipse cx="33.50" cy="750.26" rx="5.63" ry="5.63" style="fill:rgb(216,242,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="41.38" y="751.65" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Matej Tašner Vatovec</text>
+<!-- Vertex:    98 -->
+<ellipse cx="416.16" cy="429.46" rx="5.63" ry="5.63" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="424.04" y="430.85" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Matej Tonin</text>
+<!-- Vertex:    99 -->
+<ellipse cx="902.46" cy="755.64" rx="5.63" ry="5.63" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="910.34" y="757.02" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Matevž Čelik Vidmar</text>
+<!-- Vertex:   100 -->
+<ellipse cx="256.47" cy="460.03" rx="5.63" ry="5.63" style="fill:rgb(0,224,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="264.35" y="461.42" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Matevž Frangež</text>
+<!-- Vertex:   101 -->
+<ellipse cx="426.36" cy="138.66" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="434.24" y="140.05" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Matjaž Han</text>
+<!-- Vertex:   102 -->
+<ellipse cx="426.61" cy="581.14" rx="5.63" ry="5.63" style="fill:rgb(255,99,33);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="434.49" y="582.53" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Matjaž Krajnc</text>
+<!-- Vertex:   103 -->
+<ellipse cx="319.35" cy="434.66" rx="5.63" ry="5.63" style="fill:rgb(0,224,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="327.23" y="436.05" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Meira Hot</text>
+<!-- Vertex:   104 -->
+<ellipse cx="470.36" cy="402.70" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="478.23" y="404.08" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Melita Župevc</text>
+<!-- Vertex:   105 -->
+<ellipse cx="463.69" cy="471.20" rx="5.63" ry="5.63" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="471.56" y="472.59" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Miha Kordiš</text>
+<!-- Vertex:   106 -->
+<ellipse cx="578.45" cy="301.30" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="586.33" y="302.69" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Miha Lamut</text>
+<!-- Vertex:   107 -->
+<ellipse cx="513.66" cy="66.64" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="521.54" y="68.03" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Milan Jakopovič</text>
+<!-- Vertex:   108 -->
+<ellipse cx="792.82" cy="492.83" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="800.70" y="494.22" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Mirjam Bon Klanjšček</text>
+<!-- Vertex:   109 -->
+<ellipse cx="202.01" cy="784.66" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="209.89" y="786.05" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Miroslav Gregorič</text>
+<!-- Vertex:   110 -->
+<ellipse cx="358.49" cy="621.04" rx="5.63" ry="5.63" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="366.37" y="622.43" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Miroslav Kranjc</text>
+<!-- Vertex:   111 -->
+<ellipse cx="902.46" cy="790.03" rx="5.63" ry="5.63" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="910.34" y="791.42" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Mojca Ramšak Pešec</text>
+<!-- Vertex:   112 -->
+<ellipse cx="337.93" cy="394.07" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="345.81" y="395.46" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Mojca Šetinc Pašek</text>
+<!-- Vertex:   113 -->
+<ellipse cx="370.75" cy="154.56" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="378.63" y="155.95" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Monika Pekošak</text>
+<!-- Vertex:   114 -->
+<ellipse cx="293.97" cy="256.25" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="301.85" y="257.64" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Nataša Avšič Bogovič</text>
+<!-- Vertex:   115 -->
+<ellipse cx="451.90" cy="346.11" rx="5.63" ry="5.63" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="459.77" y="347.50" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Nataša Lužar</text>
+<!-- Vertex:   116 -->
+<ellipse cx="370.18" cy="591.82" rx="5.63" ry="5.63" style="fill:rgb(216,242,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="378.05" y="593.21" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Nataša Sukič</text>
+<!-- Vertex:   117 -->
+<ellipse cx="369.45" cy="529.08" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="377.32" y="530.47" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Nikolina Prah</text>
+<!-- Vertex:   118 -->
+<ellipse cx="373.57" cy="49.44" rx="5.63" ry="5.63" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="381.45" y="50.83" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Petra Škofic</text>
+<!-- Vertex:   119 -->
+<ellipse cx="225.36" cy="124.69" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="233.24" y="126.07" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Predrag Baković</text>
+<!-- Vertex:   120 -->
+<ellipse cx="790.79" cy="752.41" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="798.67" y="753.80" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Rado Gladek</text>
+<!-- Vertex:   121 -->
+<ellipse cx="334.17" cy="565.12" rx="5.63" ry="5.63" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="342.04" y="566.51" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Rastislav Vrečko</text>
+<!-- Vertex:   122 -->
+<ellipse cx="392.71" cy="630.37" rx="5.63" ry="5.63" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="400.59" y="631.76" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Robert Golob</text>
+<!-- Vertex:   123 -->
+<ellipse cx="794.85" cy="616.98" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="802.73" y="618.37" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Rudi Medved</text>
+<!-- Vertex:   124 -->
+<ellipse cx="33.50" cy="811.53" rx="5.63" ry="5.63" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="41.38" y="812.92" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Sandra Gazinkovski</text>
+<!-- Vertex:   125 -->
+<ellipse cx="333.98" cy="754.56" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="341.86" y="755.95" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Sanja Štiglic</text>
+<!-- Vertex:   126 -->
+<ellipse cx="640.32" cy="343.64" rx="5.63" ry="5.63" style="fill:rgb(204,255,178);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="648.19" y="345.03" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Sara Žibrat</text>
+<!-- Vertex:   127 -->
+<ellipse cx="359.72" cy="233.57" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="367.60" y="234.96" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Saša Jazbec</text>
+<!-- Vertex:   128 -->
+<ellipse cx="455.59" cy="458.01" rx="5.63" ry="5.63" style="fill:rgb(216,242,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="463.47" y="459.39" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Simon Maljevac</text>
+<!-- Vertex:   129 -->
+<ellipse cx="575.58" cy="786.81" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="583.46" y="788.20" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Soniboj Knežak</text>
+<!-- Vertex:   130 -->
+<ellipse cx="575.58" cy="821.53" rx="5.63" ry="5.63" style="fill:rgb(0,224,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="583.46" y="822.91" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Suzana Lep Šimenko</text>
+<!-- Vertex:   131 -->
+<ellipse cx="303.53" cy="101.04" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="311.40" y="102.43" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tamara Kozlovič</text>
+<!-- Vertex:   132 -->
+<ellipse cx="394.25" cy="332.28" rx="5.63" ry="5.63" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="402.13" y="333.67" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tamara Vonta</text>
+<!-- Vertex:   133 -->
+<ellipse cx="443.61" cy="313.86" rx="5.63" ry="5.63" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="451.49" y="315.25" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tanja Fajon</text>
+<!-- Vertex:   134 -->
+<ellipse cx="537.36" cy="414.94" rx="5.63" ry="5.63" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="545.24" y="416.33" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tatjana Greif</text>
+<!-- Vertex:   135 -->
+<ellipse cx="423.31" cy="77.39" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="431.19" y="78.78" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Teodor Uranič</text>
+<!-- Vertex:   136 -->
+<ellipse cx="569.91" cy="369.21" rx="5.63" ry="5.63" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="577.79" y="370.59" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tereza Novak</text>
+<!-- Vertex:   137 -->
+<ellipse cx="422.14" cy="505.55" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="430.02" y="506.94" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tina Heferle</text>
+<!-- Vertex:   138 -->
+<ellipse cx="488.93" cy="434.66" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="496.81" y="436.05" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tina Seršen</text>
+<!-- Vertex:   139 -->
+<ellipse cx="278.38" cy="425.53" rx="5.63" ry="5.63" style="fill:rgb(0,224,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="286.26" y="426.92" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tine Novak</text>
+<!-- Vertex:   140 -->
+<ellipse cx="776.58" cy="158.22" rx="5.63" ry="5.63" style="fill:rgb(30,249,163);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="784.46" y="159.61" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tomaž Lah</text>
+<!-- Vertex:   141 -->
+<ellipse cx="396.04" cy="400.67" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="403.92" y="402.05" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Tomaž Lisec</text>
+<!-- Vertex:   142 -->
+<ellipse cx="439.09" cy="170.87" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="446.97" y="172.26" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Uroš Vajgl</text>
+<!-- Vertex:   143 -->
+<ellipse cx="342.69" cy="481.35" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="350.57" y="482.74" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Urška Klakočar Zupančič</text>
+<!-- Vertex:   144 -->
+<ellipse cx="349.21" cy="292.37" rx="5.63" ry="5.63" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="357.09" y="293.75" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Valentina Prevolnik Rupel</text>
+<!-- Vertex:   145 -->
+<ellipse cx="400.26" cy="521.07" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="408.14" y="522.46" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Valerija Jelen Kosi</text>
+<!-- Vertex:   146 -->
+<ellipse cx="63.95" cy="372.23" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="71.83" y="373.62" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Vera Granfol</text>
+<!-- Vertex:   147 -->
+<ellipse cx="478.93" cy="366.16" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="486.81" y="367.55" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Vesna Humar</text>
+<!-- Vertex:   148 -->
+<ellipse cx="115.73" cy="180.58" rx="5.63" ry="5.63" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="123.60" y="181.97" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Vida Čadonič Špelič</text>
+<!-- Vertex:   149 -->
+<ellipse cx="793.84" cy="538.94" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="801.72" y="540.33" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Vojko Volk</text>
+<!-- Vertex:   150 -->
+<ellipse cx="492.70" cy="449.48" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="500.58" y="450.87" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Žan Mahnič</text>
+<!-- Vertex:   151 -->
+<ellipse cx="298.87" cy="489.97" rx="5.63" ry="5.63" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="306.75" y="491.36" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Zoran Mojškerc</text>
+<!-- Vertex:   152 -->
+<ellipse cx="327.45" cy="366.67" rx="5.63" ry="5.63" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+<text x="335.33" y="368.06" style="font-family:Arial;font-weight: bold;font-size:8px;fill:rgb(173,0,0)">Zvonko Černač</text>
+</g>         <!-- Layer Network -->
+</svg>
