@@ -13,4 +13,4 @@
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/izobrazba3.svg?sanitize=true">
 
 ## Izrez
- <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/cut2000.svg?sanitize=true">
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/cut1750.svg?sanitize=true">
