@@ -1,0 +1,1654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Title: 13. Square root of absolute line values of N12 (148) -->
+<!-- Creator: Pajek 5.19: http://mrvar.fdv.uni-lj.si/pajek -->
+<!-- CreationDate: 01-24-2024, 15:12:20 -->
+<svg xml:space="preserve" viewBox="0 0 1073 847" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<title>13. Square root of absolute line values of N12 (148)</title>
+<g inkscape:groupmode="layer" id="PajekSig" inkscape:label="PajekSignature">
+<g transform="translate(3 829)">
+<g transform="scale(0.1)">
+<g transform="matrix(1 0 0 -1 0 96)">
+<path d="M   7.67  49.98 L  31.76  72.76 L  46.91  78.63
+         L  57.23  80.49 M  72.86  65.23 L  65.73  83.25
+         L  57.06  75.49 L  56.75  68.65 M  76.27  68.03
+         L  75.65  84.50 L  93.92  91.02 L 107.24  74.87
+         M  80.29  67.72 L  89.28  84.81 L 104.77  81.70
+         L 116.23  73.31 L 121.18  59.33 M  56.75  81.08
+         L  71.31  64.30"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  86.18  70.21 L  91.45  73.00 L  95.78  69.58
+         M  91.14  60.88 L  96.09  62.75 L  98.26  59.33"
+         style="fill:none; stroke:saddlebrown; stroke-width:1.5;"/>
+<path d="M  81.07  49.08 L  87.81  49.08 L  93.30  54.38
+         L  93.30  60.88 L  93.30  67.39 L  87.81  72.69
+         L  81.07  72.69 L  74.33  72.69 L  68.83  67.39
+         L  68.83  60.88 L  68.83  54.38 L  74.33  49.08
+         L  81.07  49.08 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;"/>
+<path d="M  54.63  37.53 L  68.53  43.56 L  75.39  55.85
+         L  69.90  65.35 L  64.41  72.86 L  48.60  74.06
+         L  34.71  68.04 L  20.81  55.02 L  15.95  40.72
+         L  17.44  33.22 L  24.92  28.72 L  40.73  30.51
+         L  54.63  37.53 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;" />
+<path d="M  77.82  50.63 L 103.84  59.33 L 131.10  43.80
+         L 139.46  27.95 L 139.15  15.83 M  35.99   5.27
+         L  47.15  32.92 L  61.71  50.01 L  70.07  46.90
+         L  82.77  45.04 L  83.39  27.02 L  65.42  12.11
+         M  68.52  50.63 L  91.14  49.39 L 103.53  43.17
+         L 117.16  22.67 L 115.30   8.38"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  41.57  54.98 L  60.16  64.61 M  52.41  66.17
+         L  57.99  57.47"
+         style="fill:none; stroke:white; stroke-width:5;"/>
+</g>
+</g>
+<animateMotion dur="20s" path="M3 0 L1055 0" begin="120s" fill="freeze"/>
+</g>
+<g transform="translate(3 829)">
+<g transform="scale(0.1)">
+<text x="5" y="140" style="font-family:Brush Script MT;font-size:75px;fill:green;">Pajek</text>
+</g>
+<animateMotion dur="0.1s" path="M3 0 L1055 0" begin="120s" fill="freeze"/>
+</g>
+</g>      <!-- Layer Signature -->
+
+<g inkscape:groupmode="layer" id="PajekNet" inkscape:label="PajekNetwork">
+
+<!-- Edge:     1    8 -->
+<line x1="879.45" y1="229.44" x2="895.35" y2="170.90" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:     1   42 -->
+<line x1="879.45" y1="229.44" x2="810.08" y2="202.08" style="stroke-width:3.43;stroke:rgb(165,165,165)"/>
+<!-- Edge:     1   47 -->
+<line x1="879.45" y1="229.44" x2="902.12" y2="260.43" style="stroke-width:3.43;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2   13 -->
+<line x1="551.29" y1="461.11" x2="518.20" y2="436.67" style="stroke-width:3.43;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2   40 -->
+<line x1="551.29" y1="461.11" x2="472.75" y2="425.24" style="stroke-width:3.43;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2   52 -->
+<line x1="551.29" y1="461.11" x2="482.48" y2="477.23" style="stroke-width:3.43;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2   56 -->
+<line x1="551.29" y1="461.11" x2="412.20" y2="236.34" style="stroke-width:3.43;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2   88 -->
+<line x1="551.29" y1="461.11" x2="515.91" y2="535.92" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2   89 -->
+<line x1="551.29" y1="461.11" x2="562.42" y2="559.15" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2   91 -->
+<line x1="551.29" y1="461.11" x2="440.86" y2="441.43" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2   99 -->
+<line x1="551.29" y1="461.11" x2="450.63" y2="509.52" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2  113 -->
+<line x1="551.29" y1="461.11" x2="475.76" y2="546.65" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2  117 -->
+<line x1="551.29" y1="461.11" x2="295.43" y2="426.18" style="stroke-width:1.29;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2  133 -->
+<line x1="551.29" y1="461.11" x2="562.03" y2="492.76" style="stroke-width:1.29;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2  139 -->
+<line x1="551.29" y1="461.11" x2="630.44" y2="532.33" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:     2  141 -->
+<line x1="551.29" y1="461.11" x2="524.90" y2="597.15" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5   27 -->
+<line x1="536.17" y1="336.98" x2="485.01" y2="356.93" style="stroke-width:1.46;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5   29 -->
+<line x1="536.17" y1="336.98" x2="478.03" y2="259.69" style="stroke-width:3.17;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5   34 -->
+<line x1="536.17" y1="336.98" x2="442.25" y2="264.95" style="stroke-width:3.17;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5   40 -->
+<line x1="536.17" y1="336.98" x2="472.75" y2="425.24" style="stroke-width:0.44;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5   41 -->
+<line x1="536.17" y1="336.98" x2="510.72" y2="283.05" style="stroke-width:0.44;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5   56 -->
+<line x1="536.17" y1="336.98" x2="412.20" y2="236.34" style="stroke-width:0.40;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5   59 -->
+<line x1="536.17" y1="336.98" x2="397.63" y2="308.15" style="stroke-width:0.40;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5   87 -->
+<line x1="536.17" y1="336.98" x2="547.01" y2="300.47" style="stroke-width:1.87;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5   94 -->
+<line x1="536.17" y1="336.98" x2="502.06" y2="400.08" style="stroke-width:3.19;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5  100 -->
+<line x1="536.17" y1="336.98" x2="634.40" y2="240.64" style="stroke-width:0.44;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5  134 -->
+<line x1="536.17" y1="336.98" x2="549.51" y2="273.35" style="stroke-width:1.46;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5  137 -->
+<line x1="536.17" y1="336.98" x2="629.56" y2="391.64" style="stroke-width:1.46;stroke:rgb(165,165,165)"/>
+<!-- Edge:     5  143 -->
+<line x1="536.17" y1="336.98" x2="513.55" y2="239.28" style="stroke-width:1.46;stroke:rgb(165,165,165)"/>
+<!-- Edge:     6   46 -->
+<line x1="76.15" y1="392.46" x2="94.43" y2="445.13" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:     6   65 -->
+<line x1="76.15" y1="392.46" x2="148.23" y2="405.36" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:     6  142 -->
+<line x1="76.15" y1="392.46" x2="26.26" y2="396.99" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:     7   71 -->
+<line x1="493.37" y1="108.70" x2="474.09" y2="40.98" style="stroke-width:2.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:     7   90 -->
+<line x1="493.37" y1="108.70" x2="582.50" y2="129.36" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:     7  129 -->
+<line x1="493.37" y1="108.70" x2="437.54" y2="151.69" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:     7  131 -->
+<line x1="493.37" y1="108.70" x2="452.77" y2="80.75" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:     8   42 -->
+<line x1="895.35" y1="170.90" x2="810.08" y2="202.08" style="stroke-width:0.80;stroke:rgb(165,165,165)"/>
+<!-- Edge:     9  146 -->
+<line x1="705.95" y1="270.62" x2="688.90" y2="323.77" style="stroke-width:1.76;stroke:rgb(165,165,165)"/>
+<!-- Edge:    10   72 -->
+<line x1="585.33" y1="251.62" x2="572.49" y2="222.47" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    10  134 -->
+<line x1="585.33" y1="251.62" x2="549.51" y2="273.35" style="stroke-width:1.81;stroke:rgb(165,165,165)"/>
+<!-- Edge:    11   36 -->
+<line x1="372.85" y1="507.41" x2="391.22" y2="549.12" style="stroke-width:1.81;stroke:rgb(165,165,165)"/>
+<!-- Edge:    11  117 -->
+<line x1="372.85" y1="507.41" x2="295.43" y2="426.18" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    12   24 -->
+<line x1="335.04" y1="208.45" x2="311.65" y2="150.48" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    12   26 -->
+<line x1="335.04" y1="208.45" x2="363.42" y2="117.16" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    12   35 -->
+<line x1="335.04" y1="208.45" x2="300.49" y2="262.75" style="stroke-width:3.51;stroke:rgb(165,165,165)"/>
+<!-- Edge:    12   56 -->
+<line x1="335.04" y1="208.45" x2="412.20" y2="236.34" style="stroke-width:3.51;stroke:rgb(165,165,165)"/>
+<!-- Edge:    12   85 -->
+<line x1="335.04" y1="208.45" x2="341.09" y2="277.32" style="stroke-width:0.75;stroke:rgb(165,165,165)"/>
+<!-- Edge:    12  148 -->
+<line x1="335.04" y1="208.45" x2="328.90" y2="239.70" style="stroke-width:1.05;stroke:rgb(165,165,165)"/>
+<!-- Edge:    13  117 -->
+<line x1="518.20" y1="436.67" x2="295.43" y2="426.18" style="stroke-width:1.05;stroke:rgb(165,165,165)"/>
+<!-- Edge:    13  130 -->
+<line x1="518.20" y1="436.67" x2="477.73" y2="181.68" style="stroke-width:1.05;stroke:rgb(165,165,165)"/>
+<!-- Edge:    14   44 -->
+<line x1="152.29" y1="286.05" x2="222.33" y2="217.26" style="stroke-width:3.24;stroke:rgb(165,165,165)"/>
+<!-- Edge:    14   48 -->
+<line x1="152.29" y1="286.05" x2="212.18" y2="260.25" style="stroke-width:3.24;stroke:rgb(165,165,165)"/>
+<!-- Edge:    14   57 -->
+<line x1="152.29" y1="286.05" x2="109.20" y2="265.86" style="stroke-width:3.24;stroke:rgb(165,165,165)"/>
+<!-- Edge:    14  140 -->
+<line x1="152.29" y1="286.05" x2="275.12" y2="289.28" style="stroke-width:3.24;stroke:rgb(165,165,165)"/>
+<!-- Edge:    15   65 -->
+<line x1="163.45" y1="360.22" x2="148.23" y2="405.36" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    15  110 -->
+<line x1="163.45" y1="360.22" x2="285.25" y2="220.35" style="stroke-width:1.17;stroke:rgb(165,165,165)"/>
+<!-- Edge:    16   57 -->
+<line x1="60.74" y1="217.98" x2="109.20" y2="265.86" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    16   62 -->
+<line x1="60.74" y1="217.98" x2="48.39" y2="253.51" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17   23 -->
+<line x1="128.94" y1="161.37" x2="110.67" y2="108.70" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17   35 -->
+<line x1="128.94" y1="161.37" x2="300.49" y2="262.75" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17   48 -->
+<line x1="128.94" y1="161.37" x2="212.18" y2="260.25" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17   53 -->
+<line x1="128.94" y1="161.37" x2="188.83" y2="138.79" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17   77 -->
+<line x1="128.94" y1="161.37" x2="183.76" y2="183.94" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17   78 -->
+<line x1="128.94" y1="161.37" x2="153.30" y2="233.38" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17  109 -->
+<line x1="128.94" y1="161.37" x2="201.01" y2="107.62" style="stroke-width:1.17;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17  110 -->
+<line x1="128.94" y1="161.37" x2="285.25" y2="220.35" style="stroke-width:1.17;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17  123 -->
+<line x1="128.94" y1="161.37" x2="249.74" y2="179.64" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17  138 -->
+<line x1="128.94" y1="161.37" x2="267.00" y2="157.07" style="stroke-width:2.34;stroke:rgb(165,165,165)"/>
+<!-- Edge:    17  140 -->
+<line x1="128.94" y1="161.37" x2="275.12" y2="289.28" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    18   28 -->
+<line x1="669.99" y1="175.23" x2="724.86" y2="133.90" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    18   30 -->
+<line x1="669.99" y1="175.23" x2="650.71" y2="103.01" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    18   37 -->
+<line x1="669.99" y1="175.23" x2="606.60" y2="104.83" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:    18   72 -->
+<line x1="669.99" y1="175.23" x2="572.49" y2="222.47" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:    18   90 -->
+<line x1="669.99" y1="175.23" x2="582.50" y2="129.36" style="stroke-width:4.19;stroke:rgb(165,165,165)"/>
+<!-- Edge:    18  100 -->
+<line x1="669.99" y1="175.23" x2="634.40" y2="240.64" style="stroke-width:4.19;stroke:rgb(165,165,165)"/>
+<!-- Edge:    18  122 -->
+<line x1="669.99" y1="175.23" x2="667.40" y2="69.40" style="stroke-width:0.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    21   31 -->
+<line x1="292.36" y1="499.82" x2="286.27" y2="591.18" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    21   55 -->
+<line x1="292.36" y1="499.82" x2="321.80" y2="556.78" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    21  106 -->
+<line x1="292.36" y1="499.82" x2="160.39" y2="575.06" style="stroke-width:3.79;stroke:rgb(165,165,165)"/>
+<!-- Edge:    21  112 -->
+<line x1="292.36" y1="499.82" x2="194.91" y2="471.87" style="stroke-width:2.99;stroke:rgb(165,165,165)"/>
+<!-- Edge:    21  118 -->
+<line x1="292.36" y1="499.82" x2="194.91" y2="524.54" style="stroke-width:3.24;stroke:rgb(165,165,165)"/>
+<!-- Edge:    23  114 -->
+<line x1="110.67" y1="108.70" x2="57.88" y2="68.93" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    24   26 -->
+<line x1="311.65" y1="150.48" x2="363.42" y2="117.16" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    24   38 -->
+<line x1="311.65" y1="150.48" x2="268.00" y2="126.84" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    24  144 -->
+<line x1="311.65" y1="150.48" x2="298.52" y2="82.86" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    26  115 -->
+<line x1="363.42" y1="117.16" x2="339.07" y2="67.85" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    26  127 -->
+<line x1="363.42" y1="117.16" x2="406.05" y2="52.67" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27   29 -->
+<line x1="485.01" y1="356.93" x2="478.03" y2="259.69" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27   34 -->
+<line x1="485.01" y1="356.93" x2="442.25" y2="264.95" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27   41 -->
+<line x1="485.01" y1="356.93" x2="510.72" y2="283.05" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27   56 -->
+<line x1="485.01" y1="356.93" x2="412.20" y2="236.34" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27   59 -->
+<line x1="485.01" y1="356.93" x2="397.63" y2="308.15" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27   87 -->
+<line x1="485.01" y1="356.93" x2="547.01" y2="300.47" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27   94 -->
+<line x1="485.01" y1="356.93" x2="502.06" y2="400.08" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27  100 -->
+<line x1="485.01" y1="356.93" x2="634.40" y2="240.64" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27  108 -->
+<line x1="485.01" y1="356.93" x2="402.49" y2="371.20" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27  111 -->
+<line x1="485.01" y1="356.93" x2="488.95" y2="296.87" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27  128 -->
+<line x1="485.01" y1="356.93" x2="360.07" y2="322.75" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27  129 -->
+<line x1="485.01" y1="356.93" x2="437.54" y2="151.69" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27  134 -->
+<line x1="485.01" y1="356.93" x2="549.51" y2="273.35" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27  137 -->
+<line x1="485.01" y1="356.93" x2="629.56" y2="391.64" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    27  143 -->
+<line x1="485.01" y1="356.93" x2="513.55" y2="239.28" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    28   30 -->
+<line x1="724.86" y1="133.90" x2="650.71" y2="103.01" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    28   37 -->
+<line x1="724.86" y1="133.90" x2="606.60" y2="104.83" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    28  122 -->
+<line x1="724.86" y1="133.90" x2="667.40" y2="69.40" style="stroke-width:2.87;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29   34 -->
+<line x1="478.03" y1="259.69" x2="442.25" y2="264.95" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29   40 -->
+<line x1="478.03" y1="259.69" x2="472.75" y2="425.24" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29   41 -->
+<line x1="478.03" y1="259.69" x2="510.72" y2="283.05" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29   56 -->
+<line x1="478.03" y1="259.69" x2="412.20" y2="236.34" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29   59 -->
+<line x1="478.03" y1="259.69" x2="397.63" y2="308.15" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29   82 -->
+<line x1="478.03" y1="259.69" x2="550.99" y2="398.72" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29   87 -->
+<line x1="478.03" y1="259.69" x2="547.01" y2="300.47" style="stroke-width:3.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29   94 -->
+<line x1="478.03" y1="259.69" x2="502.06" y2="400.08" style="stroke-width:3.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29  100 -->
+<line x1="478.03" y1="259.69" x2="634.40" y2="240.64" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29  108 -->
+<line x1="478.03" y1="259.69" x2="402.49" y2="371.20" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29  111 -->
+<line x1="478.03" y1="259.69" x2="488.95" y2="296.87" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29  128 -->
+<line x1="478.03" y1="259.69" x2="360.07" y2="322.75" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29  129 -->
+<line x1="478.03" y1="259.69" x2="437.54" y2="151.69" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29  134 -->
+<line x1="478.03" y1="259.69" x2="549.51" y2="273.35" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29  137 -->
+<line x1="478.03" y1="259.69" x2="629.56" y2="391.64" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    29  143 -->
+<line x1="478.03" y1="259.69" x2="513.55" y2="239.28" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    30   37 -->
+<line x1="650.71" y1="103.01" x2="606.60" y2="104.83" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    30  122 -->
+<line x1="650.71" y1="103.01" x2="667.40" y2="69.40" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    31   55 -->
+<line x1="286.27" y1="591.18" x2="321.80" y2="556.78" style="stroke-width:4.71;stroke:rgb(165,165,165)"/>
+<!-- Edge:    31  106 -->
+<line x1="286.27" y1="591.18" x2="160.39" y2="575.06" style="stroke-width:4.83;stroke:rgb(165,165,165)"/>
+<!-- Edge:    31  112 -->
+<line x1="286.27" y1="591.18" x2="194.91" y2="471.87" style="stroke-width:2.99;stroke:rgb(165,165,165)"/>
+<!-- Edge:    31  118 -->
+<line x1="286.27" y1="591.18" x2="194.91" y2="524.54" style="stroke-width:2.59;stroke:rgb(165,165,165)"/>
+<!-- Edge:    32   33 -->
+<line x1="926.82" y1="369.76" x2="866.93" y2="406.30" style="stroke-width:2.59;stroke:rgb(165,165,165)"/>
+<!-- Edge:    33  104 -->
+<line x1="866.93" y1="406.30" x2="867.98" y2="335.79" style="stroke-width:5.13;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34   40 -->
+<line x1="442.25" y1="264.95" x2="472.75" y2="425.24" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34   41 -->
+<line x1="442.25" y1="264.95" x2="510.72" y2="283.05" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34   56 -->
+<line x1="442.25" y1="264.95" x2="412.20" y2="236.34" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34   59 -->
+<line x1="442.25" y1="264.95" x2="397.63" y2="308.15" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34   87 -->
+<line x1="442.25" y1="264.95" x2="547.01" y2="300.47" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34   94 -->
+<line x1="442.25" y1="264.95" x2="502.06" y2="400.08" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34  100 -->
+<line x1="442.25" y1="264.95" x2="634.40" y2="240.64" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34  134 -->
+<line x1="442.25" y1="264.95" x2="549.51" y2="273.35" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34  137 -->
+<line x1="442.25" y1="264.95" x2="629.56" y2="391.64" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    34  143 -->
+<line x1="442.25" y1="264.95" x2="513.55" y2="239.28" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35   48 -->
+<line x1="300.49" y1="262.75" x2="212.18" y2="260.25" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35   53 -->
+<line x1="300.49" y1="262.75" x2="188.83" y2="138.79" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35   56 -->
+<line x1="300.49" y1="262.75" x2="412.20" y2="236.34" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35   77 -->
+<line x1="300.49" y1="262.75" x2="183.76" y2="183.94" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35   85 -->
+<line x1="300.49" y1="262.75" x2="341.09" y2="277.32" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35  109 -->
+<line x1="300.49" y1="262.75" x2="201.01" y2="107.62" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35  110 -->
+<line x1="300.49" y1="262.75" x2="285.25" y2="220.35" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35  123 -->
+<line x1="300.49" y1="262.75" x2="249.74" y2="179.64" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35  138 -->
+<line x1="300.49" y1="262.75" x2="267.00" y2="157.07" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35  140 -->
+<line x1="300.49" y1="262.75" x2="275.12" y2="289.28" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    35  148 -->
+<line x1="300.49" y1="262.75" x2="328.90" y2="239.70" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    36   96 -->
+<line x1="391.22" y1="549.12" x2="386.14" y2="483.13" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    36   99 -->
+<line x1="391.22" y1="549.12" x2="450.63" y2="509.52" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    36  117 -->
+<line x1="391.22" y1="549.12" x2="295.43" y2="426.18" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    37   90 -->
+<line x1="606.60" y1="104.83" x2="582.50" y2="129.36" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    37  122 -->
+<line x1="606.60" y1="104.83" x2="667.40" y2="69.40" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    38  144 -->
+<line x1="268.00" y1="126.84" x2="298.52" y2="82.86" style="stroke-width:0.50;stroke:rgb(165,165,165)"/>
+<!-- Edge:    39   41 -->
+<line x1="469.60" y1="220.25" x2="510.72" y2="283.05" style="stroke-width:0.50;stroke:rgb(165,165,165)"/>
+<!-- Edge:    39  102 -->
+<line x1="469.60" y1="220.25" x2="474.24" y2="203.79" style="stroke-width:0.50;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   52 -->
+<line x1="472.75" y1="425.24" x2="482.48" y2="477.23" style="stroke-width:0.50;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   56 -->
+<line x1="472.75" y1="425.24" x2="412.20" y2="236.34" style="stroke-width:2.25;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   59 -->
+<line x1="472.75" y1="425.24" x2="397.63" y2="308.15" style="stroke-width:3.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   79 -->
+<line x1="472.75" y1="425.24" x2="669.62" y2="369.64" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   82 -->
+<line x1="472.75" y1="425.24" x2="550.99" y2="398.72" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   87 -->
+<line x1="472.75" y1="425.24" x2="547.01" y2="300.47" style="stroke-width:3.93;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   88 -->
+<line x1="472.75" y1="425.24" x2="515.91" y2="535.92" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   89 -->
+<line x1="472.75" y1="425.24" x2="562.42" y2="559.15" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   94 -->
+<line x1="472.75" y1="425.24" x2="502.06" y2="400.08" style="stroke-width:2.87;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40   99 -->
+<line x1="472.75" y1="425.24" x2="450.63" y2="509.52" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40  100 -->
+<line x1="472.75" y1="425.24" x2="634.40" y2="240.64" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40  113 -->
+<line x1="472.75" y1="425.24" x2="475.76" y2="546.65" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40  124 -->
+<line x1="472.75" y1="425.24" x2="559.32" y2="431.34" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40  134 -->
+<line x1="472.75" y1="425.24" x2="549.51" y2="273.35" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40  137 -->
+<line x1="472.75" y1="425.24" x2="629.56" y2="391.64" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40  139 -->
+<line x1="472.75" y1="425.24" x2="630.44" y2="532.33" style="stroke-width:1.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40  141 -->
+<line x1="472.75" y1="425.24" x2="524.90" y2="597.15" style="stroke-width:1.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    40  146 -->
+<line x1="472.75" y1="425.24" x2="688.90" y2="323.77" style="stroke-width:1.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41   59 -->
+<line x1="510.72" y1="283.05" x2="397.63" y2="308.15" style="stroke-width:1.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41   63 -->
+<line x1="510.72" y1="283.05" x2="514.11" y2="176.54" style="stroke-width:1.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41   64 -->
+<line x1="510.72" y1="283.05" x2="522.45" y2="127.54" style="stroke-width:1.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41   87 -->
+<line x1="510.72" y1="283.05" x2="547.01" y2="300.47" style="stroke-width:1.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41   90 -->
+<line x1="510.72" y1="283.05" x2="582.50" y2="129.36" style="stroke-width:1.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41  100 -->
+<line x1="510.72" y1="283.05" x2="634.40" y2="240.64" style="stroke-width:1.53;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41  102 -->
+<line x1="510.72" y1="283.05" x2="474.24" y2="203.79" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41  111 -->
+<line x1="510.72" y1="283.05" x2="488.95" y2="296.87" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41  130 -->
+<line x1="510.72" y1="283.05" x2="477.73" y2="181.68" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41  132 -->
+<line x1="510.72" y1="283.05" x2="551.65" y2="159.57" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41  134 -->
+<line x1="510.72" y1="283.05" x2="549.51" y2="273.35" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41  137 -->
+<line x1="510.72" y1="283.05" x2="629.56" y2="391.64" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    41  143 -->
+<line x1="510.72" y1="283.05" x2="513.55" y2="239.28" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    44   48 -->
+<line x1="222.33" y1="217.26" x2="212.18" y2="260.25" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    44   53 -->
+<line x1="222.33" y1="217.26" x2="188.83" y2="138.79" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    44  110 -->
+<line x1="222.33" y1="217.26" x2="285.25" y2="220.35" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    44  140 -->
+<line x1="222.33" y1="217.26" x2="275.12" y2="289.28" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    46   65 -->
+<line x1="94.43" y1="445.13" x2="148.23" y2="405.36" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    47  136 -->
+<line x1="902.12" y1="260.43" x2="922.91" y2="291.18" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    48   51 -->
+<line x1="212.18" y1="260.25" x2="235.51" y2="324.61" style="stroke-width:4.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    48   53 -->
+<line x1="212.18" y1="260.25" x2="188.83" y2="138.79" style="stroke-width:1.81;stroke:rgb(165,165,165)"/>
+<!-- Edge:    48   77 -->
+<line x1="212.18" y1="260.25" x2="183.76" y2="183.94" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    48   78 -->
+<line x1="212.18" y1="260.25" x2="153.30" y2="233.38" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    48  109 -->
+<line x1="212.18" y1="260.25" x2="201.01" y2="107.62" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    48  110 -->
+<line x1="212.18" y1="260.25" x2="285.25" y2="220.35" style="stroke-width:5.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    48  123 -->
+<line x1="212.18" y1="260.25" x2="249.74" y2="179.64" style="stroke-width:2.75;stroke:rgb(165,165,165)"/>
+<!-- Edge:    48  138 -->
+<line x1="212.18" y1="260.25" x2="267.00" y2="157.07" style="stroke-width:2.75;stroke:rgb(165,165,165)"/>
+<!-- Edge:    48  140 -->
+<line x1="212.18" y1="260.25" x2="275.12" y2="289.28" style="stroke-width:6.15;stroke:rgb(165,165,165)"/>
+<!-- Edge:    51   96 -->
+<line x1="235.51" y1="324.61" x2="386.14" y2="483.13" style="stroke-width:0.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    51   99 -->
+<line x1="235.51" y1="324.61" x2="450.63" y2="509.52" style="stroke-width:0.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    51  110 -->
+<line x1="235.51" y1="324.61" x2="285.25" y2="220.35" style="stroke-width:0.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    51  135 -->
+<line x1="235.51" y1="324.61" x2="418.58" y2="458.32" style="stroke-width:0.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    51  140 -->
+<line x1="235.51" y1="324.61" x2="275.12" y2="289.28" style="stroke-width:0.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    52   88 -->
+<line x1="482.48" y1="477.23" x2="515.91" y2="535.92" style="stroke-width:0.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    52   89 -->
+<line x1="482.48" y1="477.23" x2="562.42" y2="559.15" style="stroke-width:0.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    52   91 -->
+<line x1="482.48" y1="477.23" x2="440.86" y2="441.43" style="stroke-width:0.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    52   99 -->
+<line x1="482.48" y1="477.23" x2="450.63" y2="509.52" style="stroke-width:0.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    52  113 -->
+<line x1="482.48" y1="477.23" x2="475.76" y2="546.65" style="stroke-width:0.55;stroke:rgb(165,165,165)"/>
+<!-- Edge:    52  139 -->
+<line x1="482.48" y1="477.23" x2="630.44" y2="532.33" style="stroke-width:0.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    52  141 -->
+<line x1="482.48" y1="477.23" x2="524.90" y2="597.15" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    53   77 -->
+<line x1="188.83" y1="138.79" x2="183.76" y2="183.94" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    53  109 -->
+<line x1="188.83" y1="138.79" x2="201.01" y2="107.62" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    53  110 -->
+<line x1="188.83" y1="138.79" x2="285.25" y2="220.35" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    53  123 -->
+<line x1="188.83" y1="138.79" x2="249.74" y2="179.64" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    53  138 -->
+<line x1="188.83" y1="138.79" x2="267.00" y2="157.07" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    53  140 -->
+<line x1="188.83" y1="138.79" x2="275.12" y2="289.28" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54   63 -->
+<line x1="563.65" y1="196.08" x2="514.11" y2="176.54" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54   64 -->
+<line x1="563.65" y1="196.08" x2="522.45" y2="127.54" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54   72 -->
+<line x1="563.65" y1="196.08" x2="572.49" y2="222.47" style="stroke-width:3.95;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54   75 -->
+<line x1="563.65" y1="196.08" x2="591.13" y2="185.28" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54   83 -->
+<line x1="563.65" y1="196.08" x2="542.84" y2="227.92" style="stroke-width:3.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54   90 -->
+<line x1="563.65" y1="196.08" x2="582.50" y2="129.36" style="stroke-width:3.51;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54  100 -->
+<line x1="563.65" y1="196.08" x2="634.40" y2="240.64" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54  130 -->
+<line x1="563.65" y1="196.08" x2="477.73" y2="181.68" style="stroke-width:3.85;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54  132 -->
+<line x1="563.65" y1="196.08" x2="551.65" y2="159.57" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    54  143 -->
+<line x1="563.65" y1="196.08" x2="513.55" y2="239.28" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    55  106 -->
+<line x1="321.80" y1="556.78" x2="160.39" y2="575.06" style="stroke-width:4.17;stroke:rgb(165,165,165)"/>
+<!-- Edge:    55  112 -->
+<line x1="321.80" y1="556.78" x2="194.91" y2="471.87" style="stroke-width:2.87;stroke:rgb(165,165,165)"/>
+<!-- Edge:    55  118 -->
+<line x1="321.80" y1="556.78" x2="194.91" y2="524.54" style="stroke-width:2.59;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56   59 -->
+<line x1="412.20" y1="236.34" x2="397.63" y2="308.15" style="stroke-width:2.59;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56   67 -->
+<line x1="412.20" y1="236.34" x2="365.45" y2="193.48" style="stroke-width:2.59;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56   82 -->
+<line x1="412.20" y1="236.34" x2="550.99" y2="398.72" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56   85 -->
+<line x1="412.20" y1="236.34" x2="341.09" y2="277.32" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56   87 -->
+<line x1="412.20" y1="236.34" x2="547.01" y2="300.47" style="stroke-width:2.89;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56   94 -->
+<line x1="412.20" y1="236.34" x2="502.06" y2="400.08" style="stroke-width:1.34;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56  100 -->
+<line x1="412.20" y1="236.34" x2="634.40" y2="240.64" style="stroke-width:2.25;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56  134 -->
+<line x1="412.20" y1="236.34" x2="549.51" y2="273.35" style="stroke-width:2.25;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56  137 -->
+<line x1="412.20" y1="236.34" x2="629.56" y2="391.64" style="stroke-width:2.25;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56  143 -->
+<line x1="412.20" y1="236.34" x2="513.55" y2="239.28" style="stroke-width:2.25;stroke:rgb(165,165,165)"/>
+<!-- Edge:    56  148 -->
+<line x1="412.20" y1="236.34" x2="328.90" y2="239.70" style="stroke-width:2.25;stroke:rgb(165,165,165)"/>
+<!-- Edge:    57   62 -->
+<line x1="109.20" y1="265.86" x2="48.39" y2="253.51" style="stroke-width:2.25;stroke:rgb(165,165,165)"/>
+<!-- Edge:    57  103 -->
+<line x1="109.20" y1="265.86" x2="51.11" y2="299.06" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    58  119 -->
+<line x1="926.82" y1="480.47" x2="868.96" y2="514.86" style="stroke-width:1.64;stroke:rgb(165,165,165)"/>
+<!-- Edge:    58  145 -->
+<line x1="926.82" y1="480.47" x2="868.68" y2="448.65" style="stroke-width:1.64;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59   82 -->
+<line x1="397.63" y1="308.15" x2="550.99" y2="398.72" style="stroke-width:1.64;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59   87 -->
+<line x1="397.63" y1="308.15" x2="547.01" y2="300.47" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59   94 -->
+<line x1="397.63" y1="308.15" x2="502.06" y2="400.08" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59  100 -->
+<line x1="397.63" y1="308.15" x2="634.40" y2="240.64" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59  111 -->
+<line x1="397.63" y1="308.15" x2="488.95" y2="296.87" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59  124 -->
+<line x1="397.63" y1="308.15" x2="559.32" y2="431.34" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59  128 -->
+<line x1="397.63" y1="308.15" x2="360.07" y2="322.75" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59  134 -->
+<line x1="397.63" y1="308.15" x2="549.51" y2="273.35" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59  137 -->
+<line x1="397.63" y1="308.15" x2="629.56" y2="391.64" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    59  143 -->
+<line x1="397.63" y1="308.15" x2="513.55" y2="239.28" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    60  144 -->
+<line x1="328.23" y1="24.47" x2="298.52" y2="82.86" style="stroke-width:1.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    63   64 -->
+<line x1="514.11" y1="176.54" x2="522.45" y2="127.54" style="stroke-width:3.14;stroke:rgb(165,165,165)"/>
+<!-- Edge:    63   72 -->
+<line x1="514.11" y1="176.54" x2="572.49" y2="222.47" style="stroke-width:3.14;stroke:rgb(165,165,165)"/>
+<!-- Edge:    63   75 -->
+<line x1="514.11" y1="176.54" x2="591.13" y2="185.28" style="stroke-width:3.14;stroke:rgb(165,165,165)"/>
+<!-- Edge:    63   83 -->
+<line x1="514.11" y1="176.54" x2="542.84" y2="227.92" style="stroke-width:3.14;stroke:rgb(165,165,165)"/>
+<!-- Edge:    63   90 -->
+<line x1="514.11" y1="176.54" x2="582.50" y2="129.36" style="stroke-width:3.14;stroke:rgb(165,165,165)"/>
+<!-- Edge:    63  130 -->
+<line x1="514.11" y1="176.54" x2="477.73" y2="181.68" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    63  132 -->
+<line x1="514.11" y1="176.54" x2="551.65" y2="159.57" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    63  143 -->
+<line x1="514.11" y1="176.54" x2="513.55" y2="239.28" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    64   75 -->
+<line x1="522.45" y1="127.54" x2="591.13" y2="185.28" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    64   83 -->
+<line x1="522.45" y1="127.54" x2="542.84" y2="227.92" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    64   90 -->
+<line x1="522.45" y1="127.54" x2="582.50" y2="129.36" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    64   92 -->
+<line x1="522.45" y1="127.54" x2="477.73" y2="141.06" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    64  130 -->
+<line x1="522.45" y1="127.54" x2="477.73" y2="181.68" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    64  132 -->
+<line x1="522.45" y1="127.54" x2="551.65" y2="159.57" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    69   74 -->
+<line x1="278.17" y1="30.09" x2="239.17" y2="46.83" style="stroke-width:2.17;stroke:rgb(165,165,165)"/>
+<!-- Edge:    69  144 -->
+<line x1="278.17" y1="30.09" x2="298.52" y2="82.86" style="stroke-width:2.17;stroke:rgb(165,165,165)"/>
+<!-- Edge:    71  127 -->
+<line x1="474.09" y1="40.98" x2="406.05" y2="52.67" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    71  131 -->
+<line x1="474.09" y1="40.98" x2="452.77" y2="80.75" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    72   75 -->
+<line x1="572.49" y1="222.47" x2="591.13" y2="185.28" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    72   83 -->
+<line x1="572.49" y1="222.47" x2="542.84" y2="227.92" style="stroke-width:3.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    72   90 -->
+<line x1="572.49" y1="222.47" x2="582.50" y2="129.36" style="stroke-width:4.14;stroke:rgb(165,165,165)"/>
+<!-- Edge:    72  100 -->
+<line x1="572.49" y1="222.47" x2="634.40" y2="240.64" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    72  130 -->
+<line x1="572.49" y1="222.47" x2="477.73" y2="181.68" style="stroke-width:3.85;stroke:rgb(165,165,165)"/>
+<!-- Edge:    72  132 -->
+<line x1="572.49" y1="222.47" x2="551.65" y2="159.57" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:    72  134 -->
+<line x1="572.49" y1="222.47" x2="549.51" y2="273.35" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:    72  143 -->
+<line x1="572.49" y1="222.47" x2="513.55" y2="239.28" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    74  144 -->
+<line x1="239.17" y1="46.83" x2="298.52" y2="82.86" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    75   83 -->
+<line x1="591.13" y1="185.28" x2="542.84" y2="227.92" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    75   88 -->
+<line x1="591.13" y1="185.28" x2="515.91" y2="535.92" style="stroke-width:2.67;stroke:rgb(165,165,165)"/>
+<!-- Edge:    75   90 -->
+<line x1="591.13" y1="185.28" x2="582.50" y2="129.36" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    75  100 -->
+<line x1="591.13" y1="185.28" x2="634.40" y2="240.64" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    75  130 -->
+<line x1="591.13" y1="185.28" x2="477.73" y2="181.68" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    75  132 -->
+<line x1="591.13" y1="185.28" x2="551.65" y2="159.57" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    75  143 -->
+<line x1="591.13" y1="185.28" x2="513.55" y2="239.28" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    77   78 -->
+<line x1="183.76" y1="183.94" x2="153.30" y2="233.38" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    77  109 -->
+<line x1="183.76" y1="183.94" x2="201.01" y2="107.62" style="stroke-width:2.54;stroke:rgb(165,165,165)"/>
+<!-- Edge:    77  110 -->
+<line x1="183.76" y1="183.94" x2="285.25" y2="220.35" style="stroke-width:3.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    77  123 -->
+<line x1="183.76" y1="183.94" x2="249.74" y2="179.64" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    77  138 -->
+<line x1="183.76" y1="183.94" x2="267.00" y2="157.07" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    77  140 -->
+<line x1="183.76" y1="183.94" x2="275.12" y2="289.28" style="stroke-width:3.85;stroke:rgb(165,165,165)"/>
+<!-- Edge:    78  110 -->
+<line x1="153.30" y1="233.38" x2="285.25" y2="220.35" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    78  123 -->
+<line x1="153.30" y1="233.38" x2="249.74" y2="179.64" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    78  138 -->
+<line x1="153.30" y1="233.38" x2="267.00" y2="157.07" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    78  140 -->
+<line x1="153.30" y1="233.38" x2="275.12" y2="289.28" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    79   81 -->
+<line x1="669.62" y1="369.64" x2="718.85" y2="357.04" style="stroke-width:2.28;stroke:rgb(165,165,165)"/>
+<!-- Edge:    79   82 -->
+<line x1="669.62" y1="369.64" x2="550.99" y2="398.72" style="stroke-width:2.28;stroke:rgb(165,165,165)"/>
+<!-- Edge:    79   87 -->
+<line x1="669.62" y1="369.64" x2="547.01" y2="300.47" style="stroke-width:2.41;stroke:rgb(165,165,165)"/>
+<!-- Edge:    79   94 -->
+<line x1="669.62" y1="369.64" x2="502.06" y2="400.08" style="stroke-width:2.41;stroke:rgb(165,165,165)"/>
+<!-- Edge:    79  100 -->
+<line x1="669.62" y1="369.64" x2="634.40" y2="240.64" style="stroke-width:2.41;stroke:rgb(165,165,165)"/>
+<!-- Edge:    79  124 -->
+<line x1="669.62" y1="369.64" x2="559.32" y2="431.34" style="stroke-width:2.41;stroke:rgb(165,165,165)"/>
+<!-- Edge:    79  134 -->
+<line x1="669.62" y1="369.64" x2="549.51" y2="273.35" style="stroke-width:2.41;stroke:rgb(165,165,165)"/>
+<!-- Edge:    79  146 -->
+<line x1="669.62" y1="369.64" x2="688.90" y2="323.77" style="stroke-width:4.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    80   91 -->
+<line x1="400.95" y1="406.60" x2="440.86" y2="441.43" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    80  108 -->
+<line x1="400.95" y1="406.60" x2="402.49" y2="371.20" style="stroke-width:2.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    81  146 -->
+<line x1="718.85" y1="357.04" x2="688.90" y2="323.77" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    82   87 -->
+<line x1="550.99" y1="398.72" x2="547.01" y2="300.47" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    82   94 -->
+<line x1="550.99" y1="398.72" x2="502.06" y2="400.08" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    82  100 -->
+<line x1="550.99" y1="398.72" x2="634.40" y2="240.64" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    82  101 -->
+<line x1="550.99" y1="398.72" x2="642.19" y2="327.40" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    82  124 -->
+<line x1="550.99" y1="398.72" x2="559.32" y2="431.34" style="stroke-width:5.56;stroke:rgb(165,165,165)"/>
+<!-- Edge:    82  134 -->
+<line x1="550.99" y1="398.72" x2="549.51" y2="273.35" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    82  146 -->
+<line x1="550.99" y1="398.72" x2="688.90" y2="323.77" style="stroke-width:0.73;stroke:rgb(165,165,165)"/>
+<!-- Edge:    83   90 -->
+<line x1="542.84" y1="227.92" x2="582.50" y2="129.36" style="stroke-width:3.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    83  100 -->
+<line x1="542.84" y1="227.92" x2="634.40" y2="240.64" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    83  130 -->
+<line x1="542.84" y1="227.92" x2="477.73" y2="181.68" style="stroke-width:3.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    83  132 -->
+<line x1="542.84" y1="227.92" x2="551.65" y2="159.57" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    83  138 -->
+<line x1="542.84" y1="227.92" x2="267.00" y2="157.07" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    83  143 -->
+<line x1="542.84" y1="227.92" x2="513.55" y2="239.28" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    85  148 -->
+<line x1="341.09" y1="277.32" x2="328.90" y2="239.70" style="stroke-width:3.59;stroke:rgb(165,165,165)"/>
+<!-- Edge:    87   94 -->
+<line x1="547.01" y1="300.47" x2="502.06" y2="400.08" style="stroke-width:3.39;stroke:rgb(165,165,165)"/>
+<!-- Edge:    87  100 -->
+<line x1="547.01" y1="300.47" x2="634.40" y2="240.64" style="stroke-width:3.84;stroke:rgb(165,165,165)"/>
+<!-- Edge:    87  111 -->
+<line x1="547.01" y1="300.47" x2="488.95" y2="296.87" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    87  124 -->
+<line x1="547.01" y1="300.47" x2="559.32" y2="431.34" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    87  134 -->
+<line x1="547.01" y1="300.47" x2="549.51" y2="273.35" style="stroke-width:2.87;stroke:rgb(165,165,165)"/>
+<!-- Edge:    87  137 -->
+<line x1="547.01" y1="300.47" x2="629.56" y2="391.64" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    87  143 -->
+<line x1="547.01" y1="300.47" x2="513.55" y2="239.28" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    87  146 -->
+<line x1="547.01" y1="300.47" x2="688.90" y2="323.77" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:    88   89 -->
+<line x1="515.91" y1="535.92" x2="562.42" y2="559.15" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    88   91 -->
+<line x1="515.91" y1="535.92" x2="440.86" y2="441.43" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    88   99 -->
+<line x1="515.91" y1="535.92" x2="450.63" y2="509.52" style="stroke-width:3.16;stroke:rgb(165,165,165)"/>
+<!-- Edge:    88  113 -->
+<line x1="515.91" y1="535.92" x2="475.76" y2="546.65" style="stroke-width:3.09;stroke:rgb(165,165,165)"/>
+<!-- Edge:    88  133 -->
+<line x1="515.91" y1="535.92" x2="562.03" y2="492.76" style="stroke-width:3.09;stroke:rgb(165,165,165)"/>
+<!-- Edge:    88  139 -->
+<line x1="515.91" y1="535.92" x2="630.44" y2="532.33" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    88  141 -->
+<line x1="515.91" y1="535.92" x2="524.90" y2="597.15" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    89   99 -->
+<line x1="562.42" y1="559.15" x2="450.63" y2="509.52" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    89  113 -->
+<line x1="562.42" y1="559.15" x2="475.76" y2="546.65" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    89  133 -->
+<line x1="562.42" y1="559.15" x2="562.03" y2="492.76" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    89  139 -->
+<line x1="562.42" y1="559.15" x2="630.44" y2="532.33" style="stroke-width:4.97;stroke:rgb(165,165,165)"/>
+<!-- Edge:    89  141 -->
+<line x1="562.42" y1="559.15" x2="524.90" y2="597.15" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:    90  100 -->
+<line x1="582.50" y1="129.36" x2="634.40" y2="240.64" style="stroke-width:4.25;stroke:rgb(165,165,165)"/>
+<!-- Edge:    90  129 -->
+<line x1="582.50" y1="129.36" x2="437.54" y2="151.69" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:    90  130 -->
+<line x1="582.50" y1="129.36" x2="477.73" y2="181.68" style="stroke-width:5.36;stroke:rgb(165,165,165)"/>
+<!-- Edge:    90  132 -->
+<line x1="582.50" y1="129.36" x2="551.65" y2="159.57" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:    90  143 -->
+<line x1="582.50" y1="129.36" x2="513.55" y2="239.28" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:    91  108 -->
+<line x1="440.86" y1="441.43" x2="402.49" y2="371.20" style="stroke-width:3.58;stroke:rgb(165,165,165)"/>
+<!-- Edge:    91  113 -->
+<line x1="440.86" y1="441.43" x2="475.76" y2="546.65" style="stroke-width:0.89;stroke:rgb(165,165,165)"/>
+<!-- Edge:    91  139 -->
+<line x1="440.86" y1="441.43" x2="630.44" y2="532.33" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    91  141 -->
+<line x1="440.86" y1="441.43" x2="524.90" y2="597.15" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    94  100 -->
+<line x1="502.06" y1="400.08" x2="634.40" y2="240.64" style="stroke-width:2.87;stroke:rgb(165,165,165)"/>
+<!-- Edge:    94  124 -->
+<line x1="502.06" y1="400.08" x2="559.32" y2="431.34" style="stroke-width:1.64;stroke:rgb(165,165,165)"/>
+<!-- Edge:    94  133 -->
+<line x1="502.06" y1="400.08" x2="562.03" y2="492.76" style="stroke-width:1.64;stroke:rgb(165,165,165)"/>
+<!-- Edge:    94  134 -->
+<line x1="502.06" y1="400.08" x2="549.51" y2="273.35" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    94  137 -->
+<line x1="502.06" y1="400.08" x2="629.56" y2="391.64" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    94  143 -->
+<line x1="502.06" y1="400.08" x2="513.55" y2="239.28" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    94  146 -->
+<line x1="502.06" y1="400.08" x2="688.90" y2="323.77" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    96   99 -->
+<line x1="386.14" y1="483.13" x2="450.63" y2="509.52" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    96  117 -->
+<line x1="386.14" y1="483.13" x2="295.43" y2="426.18" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    96  135 -->
+<line x1="386.14" y1="483.13" x2="418.58" y2="458.32" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    97  109 -->
+<line x1="154.32" y1="58.18" x2="201.01" y2="107.62" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    98  112 -->
+<line x1="143.13" y1="501.97" x2="194.91" y2="471.87" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    99  113 -->
+<line x1="450.63" y1="509.52" x2="475.76" y2="546.65" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:    99  135 -->
+<line x1="450.63" y1="509.52" x2="418.58" y2="458.32" style="stroke-width:1.76;stroke:rgb(165,165,165)"/>
+<!-- Edge:    99  139 -->
+<line x1="450.63" y1="509.52" x2="630.44" y2="532.33" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    99  141 -->
+<line x1="450.63" y1="509.52" x2="524.90" y2="597.15" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:    99  147 -->
+<line x1="450.63" y1="509.52" x2="437.73" y2="577.09" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:   100  111 -->
+<line x1="634.40" y1="240.64" x2="488.95" y2="296.87" style="stroke-width:1.69;stroke:rgb(165,165,165)"/>
+<!-- Edge:   100  124 -->
+<line x1="634.40" y1="240.64" x2="559.32" y2="431.34" style="stroke-width:1.81;stroke:rgb(165,165,165)"/>
+<!-- Edge:   100  128 -->
+<line x1="634.40" y1="240.64" x2="360.07" y2="322.75" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:   100  130 -->
+<line x1="634.40" y1="240.64" x2="477.73" y2="181.68" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:   100  132 -->
+<line x1="634.40" y1="240.64" x2="551.65" y2="159.57" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:   100  134 -->
+<line x1="634.40" y1="240.64" x2="549.51" y2="273.35" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:   100  137 -->
+<line x1="634.40" y1="240.64" x2="629.56" y2="391.64" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:   100  143 -->
+<line x1="634.40" y1="240.64" x2="513.55" y2="239.28" style="stroke-width:3.85;stroke:rgb(165,165,165)"/>
+<!-- Edge:   100  146 -->
+<line x1="634.40" y1="240.64" x2="688.90" y2="323.77" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:   101  146 -->
+<line x1="642.19" y1="327.40" x2="688.90" y2="323.77" style="stroke-width:2.72;stroke:rgb(165,165,165)"/>
+<!-- Edge:   106  112 -->
+<line x1="160.39" y1="575.06" x2="194.91" y2="471.87" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:   106  118 -->
+<line x1="160.39" y1="575.06" x2="194.91" y2="524.54" style="stroke-width:2.37;stroke:rgb(165,165,165)"/>
+<!-- Edge:   108  128 -->
+<line x1="402.49" y1="371.20" x2="360.07" y2="322.75" style="stroke-width:2.40;stroke:rgb(165,165,165)"/>
+<!-- Edge:   108  129 -->
+<line x1="402.49" y1="371.20" x2="437.54" y2="151.69" style="stroke-width:2.96;stroke:rgb(165,165,165)"/>
+<!-- Edge:   108  143 -->
+<line x1="402.49" y1="371.20" x2="513.55" y2="239.28" style="stroke-width:2.18;stroke:rgb(165,165,165)"/>
+<!-- Edge:   109  110 -->
+<line x1="201.01" y1="107.62" x2="285.25" y2="220.35" style="stroke-width:2.18;stroke:rgb(165,165,165)"/>
+<!-- Edge:   109  123 -->
+<line x1="201.01" y1="107.62" x2="249.74" y2="179.64" style="stroke-width:2.18;stroke:rgb(165,165,165)"/>
+<!-- Edge:   109  138 -->
+<line x1="201.01" y1="107.62" x2="267.00" y2="157.07" style="stroke-width:2.18;stroke:rgb(165,165,165)"/>
+<!-- Edge:   109  140 -->
+<line x1="201.01" y1="107.62" x2="275.12" y2="289.28" style="stroke-width:2.18;stroke:rgb(165,165,165)"/>
+<!-- Edge:   110  123 -->
+<line x1="285.25" y1="220.35" x2="249.74" y2="179.64" style="stroke-width:3.09;stroke:rgb(165,165,165)"/>
+<!-- Edge:   110  128 -->
+<line x1="285.25" y1="220.35" x2="360.07" y2="322.75" style="stroke-width:1.41;stroke:rgb(165,165,165)"/>
+<!-- Edge:   110  138 -->
+<line x1="285.25" y1="220.35" x2="267.00" y2="157.07" style="stroke-width:4.16;stroke:rgb(165,165,165)"/>
+<!-- Edge:   110  140 -->
+<line x1="285.25" y1="220.35" x2="275.12" y2="289.28" style="stroke-width:5.37;stroke:rgb(165,165,165)"/>
+<!-- Edge:   111  128 -->
+<line x1="488.95" y1="296.87" x2="360.07" y2="322.75" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:   111  134 -->
+<line x1="488.95" y1="296.87" x2="549.51" y2="273.35" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:   111  137 -->
+<line x1="488.95" y1="296.87" x2="629.56" y2="391.64" style="stroke-width:0.91;stroke:rgb(165,165,165)"/>
+<!-- Edge:   111  143 -->
+<line x1="488.95" y1="296.87" x2="513.55" y2="239.28" style="stroke-width:3.14;stroke:rgb(165,165,165)"/>
+<!-- Edge:   112  117 -->
+<line x1="194.91" y1="471.87" x2="295.43" y2="426.18" style="stroke-width:3.14;stroke:rgb(165,165,165)"/>
+<!-- Edge:   112  118 -->
+<line x1="194.91" y1="471.87" x2="194.91" y2="524.54" style="stroke-width:2.59;stroke:rgb(165,165,165)"/>
+<!-- Edge:   113  139 -->
+<line x1="475.76" y1="546.65" x2="630.44" y2="532.33" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:   113  141 -->
+<line x1="475.76" y1="546.65" x2="524.90" y2="597.15" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+<!-- Edge:   119  145 -->
+<line x1="868.96" y1="514.86" x2="868.68" y2="448.65" style="stroke-width:0.52;stroke:rgb(165,165,165)"/>
+<!-- Edge:   123  138 -->
+<line x1="249.74" y1="179.64" x2="267.00" y2="157.07" style="stroke-width:2.75;stroke:rgb(165,165,165)"/>
+<!-- Edge:   123  140 -->
+<line x1="249.74" y1="179.64" x2="275.12" y2="289.28" style="stroke-width:3.58;stroke:rgb(165,165,165)"/>
+<!-- Edge:   124  134 -->
+<line x1="559.32" y1="431.34" x2="549.51" y2="273.35" style="stroke-width:2.30;stroke:rgb(165,165,165)"/>
+<!-- Edge:   124  146 -->
+<line x1="559.32" y1="431.34" x2="688.90" y2="323.77" style="stroke-width:2.30;stroke:rgb(165,165,165)"/>
+<!-- Edge:   127  131 -->
+<line x1="406.05" y1="52.67" x2="452.77" y2="80.75" style="stroke-width:2.30;stroke:rgb(165,165,165)"/>
+<!-- Edge:   128  129 -->
+<line x1="360.07" y1="322.75" x2="437.54" y2="151.69" style="stroke-width:2.30;stroke:rgb(165,165,165)"/>
+<!-- Edge:   128  143 -->
+<line x1="360.07" y1="322.75" x2="513.55" y2="239.28" style="stroke-width:2.30;stroke:rgb(165,165,165)"/>
+<!-- Edge:   129  143 -->
+<line x1="437.54" y1="151.69" x2="513.55" y2="239.28" style="stroke-width:2.30;stroke:rgb(165,165,165)"/>
+<!-- Edge:   130  132 -->
+<line x1="477.73" y1="181.68" x2="551.65" y2="159.57" style="stroke-width:3.85;stroke:rgb(165,165,165)"/>
+<!-- Edge:   130  143 -->
+<line x1="477.73" y1="181.68" x2="513.55" y2="239.28" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:   132  143 -->
+<line x1="551.65" y1="159.57" x2="513.55" y2="239.28" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:   133  139 -->
+<line x1="562.03" y1="492.76" x2="630.44" y2="532.33" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:   134  137 -->
+<line x1="549.51" y1="273.35" x2="629.56" y2="391.64" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:   134  143 -->
+<line x1="549.51" y1="273.35" x2="513.55" y2="239.28" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:   134  146 -->
+<line x1="549.51" y1="273.35" x2="688.90" y2="323.77" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:   137  139 -->
+<line x1="629.56" y1="391.64" x2="630.44" y2="532.33" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:   137  143 -->
+<line x1="629.56" y1="391.64" x2="513.55" y2="239.28" style="stroke-width:3.74;stroke:rgb(165,165,165)"/>
+<!-- Edge:   138  140 -->
+<line x1="267.00" y1="157.07" x2="275.12" y2="289.28" style="stroke-width:3.27;stroke:rgb(165,165,165)"/>
+<!-- Edge:   139  141 -->
+<line x1="630.44" y1="532.33" x2="524.90" y2="597.15" style="stroke-width:2.03;stroke:rgb(165,165,165)"/>
+
+<!-- Vertex:     1 -->
+<g transform="translate(879.45 229.44)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="888.85" y="232.86" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Aida Kamišalić Latifić</text>
+<!-- Vertex:     2 -->
+<g transform="translate(551.29 461.11)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="560.69" y="464.53" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Aleksander Jevšek</text>
+<!-- Vertex:     3 -->
+<g transform="translate(866.93 568.61)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="876.32" y="572.03" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Aleksander Prosen Kralj</text>
+<!-- Vertex:     4 -->
+<g transform="translate(772.52 600.85)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="781.92" y="604.27" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Aleksander Reberšek</text>
+<!-- Vertex:     5 -->
+<g transform="translate(536.17 336.98)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="545.57" y="340.41" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Alenka Bratušek</text>
+<!-- Vertex:     6 -->
+<g transform="translate(76.15 392.46)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="85.55" y="395.88" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Alenka Helbl</text>
+<!-- Vertex:     7 -->
+<g transform="translate(493.37 108.70)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="502.77" y="112.12" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Alenka Jeraj</text>
+<!-- Vertex:     8 -->
+<g transform="translate(895.35 170.90)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="904.75" y="174.33" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Aleš Rezar</text>
+<!-- Vertex:     9 -->
+<g transform="translate(705.95 270.62)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="715.35" y="274.04" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Andrej Hoivik</text>
+<!-- Vertex:    10 -->
+<g transform="translate(585.33 251.62)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="594.72" y="255.04" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Andrej Rajh</text>
+<!-- Vertex:    11 -->
+<g transform="translate(372.85 507.41)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="382.24" y="510.83" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Andreja Katič</text>
+<!-- Vertex:    12 -->
+<g transform="translate(335.04 208.45)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="344.44" y="211.87" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Andreja Kert</text>
+<!-- Vertex:    13 -->
+<g transform="translate(518.20 436.67)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="527.60" y="440.09" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Andreja Rajbenšu</text>
+<!-- Vertex:    14 -->
+<g transform="translate(152.29 286.05)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="161.68" y="289.47" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Andreja Živic</text>
+<!-- Vertex:    15 -->
+<g transform="translate(163.45 360.22)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="172.85" y="363.64" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Anja Bah Žibert</text>
+<!-- Vertex:    16 -->
+<g transform="translate(60.74 217.98)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="70.13" y="221.40" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Anton Šturbej</text>
+<!-- Vertex:    17 -->
+<g transform="translate(128.94 161.37)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="138.34" y="164.79" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Anže Logar</text>
+<!-- Vertex:    18 -->
+<g transform="translate(669.99 175.23)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="679.39" y="178.65" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Asta Vrečko</text>
+<!-- Vertex:    19 -->
+<g transform="translate(772.52 636.32)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="781.92" y="639.75" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Blaž Germšek</text>
+<!-- Vertex:    20 -->
+<g transform="translate(265.70 665.05)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="275.10" y="668.47" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Bojan Čebela</text>
+<!-- Vertex:    21 -->
+<g transform="translate(292.36 499.82)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="301.76" y="503.24" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Bojan Kumer</text>
+<!-- Vertex:    22 -->
+<g transform="translate(937.99 738.44)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="947.38" y="741.86" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Bojan Podkrajšek</text>
+<!-- Vertex:    23 -->
+<g transform="translate(110.67 108.70)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="120.06" y="112.12" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Bojana Muršič</text>
+<!-- Vertex:    24 -->
+<g transform="translate(311.65 150.48)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="321.04" y="153.90" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Borut Sajovic</text>
+<!-- Vertex:    25 -->
+<g transform="translate(99.48 628.80)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="108.88" y="632.22" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Boštjan Poklukar</text>
+<!-- Vertex:    26 -->
+<g transform="translate(363.42 117.16)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="372.82" y="120.58" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Boštjan Šefic</text>
+<!-- Vertex:    27 -->
+<g transform="translate(485.01 356.93)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="494.40" y="360.35" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Branko Grims</text>
+<!-- Vertex:    28 -->
+<g transform="translate(724.86 133.90)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="734.25" y="137.32" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Damijan Zrim</text>
+<!-- Vertex:    29 -->
+<g transform="translate(478.03 259.69)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="487.43" y="263.11" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Damir Črnčec</text>
+<!-- Vertex:    30 -->
+<g transform="translate(650.71 103.01)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="660.11" y="106.43" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Dan Juvan</text>
+<!-- Vertex:    31 -->
+<g transform="translate(286.27 591.18)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="295.67" y="594.60" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Danijel Krivec</text>
+<!-- Vertex:    32 -->
+<g transform="translate(926.82 369.76)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="936.22" y="373.18" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Danijel Levičar</text>
+<!-- Vertex:    33 -->
+<g transform="translate(866.93 406.30)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="876.32" y="409.72" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Darjo Felda</text>
+<!-- Vertex:    34 -->
+<g transform="translate(442.25 264.95)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="451.64" y="268.37" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Darko Krajnc</text>
+<!-- Vertex:    35 -->
+<g transform="translate(300.49 262.75)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="309.89" y="266.17" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Dean Premik</text>
+<!-- Vertex:    36 -->
+<g transform="translate(391.22 549.12)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="400.61" y="552.54" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Dejan Kaloh</text>
+<!-- Vertex:    37 -->
+<g transform="translate(606.60 104.83)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="616.00" y="108.25" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Dejan Süč</text>
+<!-- Vertex:    38 -->
+<g transform="translate(268.00 126.84)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="277.39" y="130.26" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Dejan Židan</text>
+<!-- Vertex:    39 -->
+<g transform="translate(469.60 220.25)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="479.00" y="223.67" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Denis Kordež</text>
+<!-- Vertex:    40 -->
+<g transform="translate(472.75 425.24)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="482.15" y="428.66" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Dominika Švarc Pipan</text>
+<!-- Vertex:    41 -->
+<g transform="translate(510.72 283.05)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="520.12" y="286.47" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Dušan Stojanovič</text>
+<!-- Vertex:    42 -->
+<g transform="translate(810.08 202.08)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="819.48" y="205.50" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Emilija Stojmenova Duh</text>
+<!-- Vertex:    43 -->
+<g transform="translate(941.03 603.00)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="950.43" y="606.42" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Eva Irgl</text>
+<!-- Vertex:    44 -->
+<g transform="translate(222.33 217.26)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="231.73" y="220.68" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Eva Knez</text>
+<!-- Vertex:    45 -->
+<g transform="translate(601.98 637.40)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="611.37" y="640.82" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Eva Vodnik</text>
+<!-- Vertex:    46 -->
+<g transform="translate(94.43 445.13)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="103.82" y="448.55" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Ferenc Horváth</text>
+<!-- Vertex:    47 -->
+<g transform="translate(902.12 260.43)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="911.52" y="263.85" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Franc Breznik</text>
+<!-- Vertex:    48 -->
+<g transform="translate(212.18 260.25)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="221.58" y="263.67" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Franc Props</text>
+<!-- Vertex:    49 -->
+<g transform="translate(941.03 635.25)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="950.43" y="638.67" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Franc Rosec</text>
+<!-- Vertex:    50 -->
+<g transform="translate(97.47 665.05)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="106.87" y="668.47" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Franci Kepa</text>
+<!-- Vertex:    51 -->
+<g transform="translate(235.51 324.61)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="244.91" y="328.03" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Gordana Pipan</text>
+<!-- Vertex:    52 -->
+<g transform="translate(482.48 477.23)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="491.87" y="480.65" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Helga Dobrin</text>
+<!-- Vertex:    53 -->
+<g transform="translate(188.83 138.79)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="198.23" y="142.21" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Igor Feketija</text>
+<!-- Vertex:    54 -->
+<g transform="translate(563.65 196.08)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="573.05" y="199.50" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Igor Mally</text>
+<!-- Vertex:    55 -->
+<g transform="translate(321.80 556.78)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="331.20" y="560.20" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Igor Papič</text>
+<!-- Vertex:    56 -->
+<g transform="translate(412.20 236.34)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="421.60" y="239.76" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Igor Šoltes</text>
+<!-- Vertex:    57 -->
+<g transform="translate(109.20 265.86)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="118.60" y="269.28" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Iva Dimic</text>
+<!-- Vertex:    58 -->
+<g transform="translate(926.82 480.47)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="936.22" y="483.89" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Janez (Ivan) Janša</text>
+<!-- Vertex:    59 -->
+<g transform="translate(397.63 308.15)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="407.02" y="311.57" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Janez Cigler Kralj</text>
+<!-- Vertex:    60 -->
+<g transform="translate(328.23 24.47)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="337.63" y="27.89" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Janez Žakelj</text>
+<!-- Vertex:    61 -->
+<g transform="translate(771.50 739.51)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="780.90" y="742.93" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jani Prednik</text>
+<!-- Vertex:    62 -->
+<g transform="translate(48.39 253.51)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="57.79" y="256.93" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Janja Sluga</text>
+<!-- Vertex:    63 -->
+<g transform="translate(514.11 176.54)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="523.51" y="179.96" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Janja Zupančič </text>
+<!-- Vertex:    64 -->
+<g transform="translate(522.45 127.54)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="531.84" y="130.96" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jasna Rojc</text>
+<!-- Vertex:    65 -->
+<g transform="translate(148.23 405.36)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="157.62" y="408.78" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jelka Godec</text>
+<!-- Vertex:    66 -->
+<g transform="translate(433.93 665.05)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="443.33" y="668.47" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jernej Vrtovec</text>
+<!-- Vertex:    67 -->
+<g transform="translate(365.45 193.48)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="374.85" y="196.90" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jonas Žnidaršič</text>
+<!-- Vertex:    68 -->
+<g transform="translate(602.16 665.05)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="611.56" y="668.47" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jože Novak</text>
+<!-- Vertex:    69 -->
+<g transform="translate(278.17 30.09)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="287.56" y="33.51" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jože Tanko</text>
+<!-- Vertex:    70 -->
+<g transform="translate(770.39 665.05)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="779.79" y="668.47" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jožef Horvat</text>
+<!-- Vertex:    71 -->
+<g transform="translate(474.09 40.98)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="483.48" y="44.40" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jožef Lenart</text>
+<!-- Vertex:    72 -->
+<g transform="translate(572.49 222.47)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="581.89" y="225.89" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jure Gašparič</text>
+<!-- Vertex:    73 -->
+<g transform="translate(266.98 630.95)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="276.38" y="634.37" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jure Trbič</text>
+<!-- Vertex:    74 -->
+<g transform="translate(239.17 46.83)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="248.57" y="50.25" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Jurij Lep</text>
+<!-- Vertex:    75 -->
+<g transform="translate(591.13 185.28)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="600.53" y="188.70" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Kaja Širok</text>
+<!-- Vertex:    76 -->
+<g transform="translate(99.48 698.67)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="108.88" y="702.09" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Karmen Furman</text>
+<!-- Vertex:    77 -->
+<g transform="translate(183.76 183.94)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="193.15" y="187.36" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Katja Božič</text>
+<!-- Vertex:    78 -->
+<g transform="translate(153.30 233.38)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="162.70" y="236.80" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Klemen Boštjančič</text>
+<!-- Vertex:    79 -->
+<g transform="translate(669.62 369.64)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="679.02" y="373.06" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Klemen Ploštajner</text>
+<!-- Vertex:    80 -->
+<g transform="translate(400.95 406.60)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="410.35" y="410.02" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Lena Grgurevič</text>
+<!-- Vertex:    81 -->
+<g transform="translate(718.85 357.04)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="728.25" y="360.46" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Lenart Žavbi</text>
+<!-- Vertex:    82 -->
+<g transform="translate(550.99 398.72)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="560.39" y="402.14" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Luka Mesec</text>
+<!-- Vertex:    83 -->
+<g transform="translate(542.84 227.92)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="552.23" y="231.35" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Luka Omladič</text>
+<!-- Vertex:    84 -->
+<g transform="translate(264.95 699.74)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="274.35" y="703.16" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Maksimiljana Polak</text>
+<!-- Vertex:    85 -->
+<g transform="translate(341.09 277.32)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="350.48" y="280.74" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Marjan Pintar</text>
+<!-- Vertex:    86 -->
+<g transform="translate(431.43 699.74)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="440.83" y="703.16" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Marjan Šarec</text>
+<!-- Vertex:    87 -->
+<g transform="translate(547.01 300.47)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="556.41" y="303.89" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Marko Koprivc</text>
+<!-- Vertex:    88 -->
+<g transform="translate(515.91 535.92)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="525.30" y="539.34" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Marko Rusjan</text>
+<!-- Vertex:    89 -->
+<g transform="translate(562.42 559.15)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="571.82" y="562.57" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Marko Štucin</text>
+<!-- Vertex:    90 -->
+<g transform="translate(582.50 129.36)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="591.90" y="132.78" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Martin Premk</text>
+<!-- Vertex:    91 -->
+<g transform="translate(440.86 441.43)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="450.26" y="444.85" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Maša Kociper</text>
+<!-- Vertex:    92 -->
+<g transform="translate(477.73 141.06)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="487.13" y="144.48" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Matej Arčon</text>
+<!-- Vertex:    93 -->
+<g transform="translate(431.43 635.25)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="440.83" y="638.67" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Matej Tašner Vatovec</text>
+<!-- Vertex:    94 -->
+<g transform="translate(502.06 400.08)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="511.46" y="403.50" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Matej Tonin</text>
+<!-- Vertex:    95 -->
+<g transform="translate(772.52 700.82)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="781.92" y="704.24" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Matevž Čelik Vidmar</text>
+<!-- Vertex:    96 -->
+<g transform="translate(386.14 483.13)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="395.53" y="486.55" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Matevž Frangež</text>
+<!-- Vertex:    97 -->
+<g transform="translate(154.32 58.18)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="163.72" y="61.60" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Matjaž Han</text>
+<!-- Vertex:    98 -->
+<g transform="translate(143.13 501.97)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="152.53" y="505.39" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Matjaž Krajnc</text>
+<!-- Vertex:    99 -->
+<g transform="translate(450.63 509.52)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="460.03" y="512.94" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Meira Hot</text>
+<!-- Vertex:   100 -->
+<g transform="translate(634.40 240.64)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="643.80" y="244.06" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Melita Župevc</text>
+<!-- Vertex:   101 -->
+<g transform="translate(642.19 327.40)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="651.58" y="330.82" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Miha Kordiš</text>
+<!-- Vertex:   102 -->
+<g transform="translate(474.24 203.79)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="483.64" y="207.22" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Miha Lamut</text>
+<!-- Vertex:   103 -->
+<g transform="translate(51.11 299.06)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="60.51" y="302.48" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Milan Jakopovič</text>
+<!-- Vertex:   104 -->
+<g transform="translate(867.98 335.79)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="877.38" y="339.21" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Mirjam Bon Klanjšček</text>
+<!-- Vertex:   105 -->
+<g transform="translate(937.99 698.67)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="947.38" y="702.09" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Miroslav Gregorič</text>
+<!-- Vertex:   106 -->
+<g transform="translate(160.39 575.06)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="169.79" y="578.48" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Miroslav Kranjc</text>
+<!-- Vertex:   107 -->
+<g transform="translate(99.48 734.14)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="108.88" y="737.56" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Mojca Ramšak Pešec</text>
+<!-- Vertex:   108 -->
+<g transform="translate(402.49 371.20)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="411.88" y="374.62" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Mojca Šetinc Pašek</text>
+<!-- Vertex:   109 -->
+<g transform="translate(201.01 107.62)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="210.41" y="111.04" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Monika Pekošak</text>
+<!-- Vertex:   110 -->
+<g transform="translate(285.25 220.35)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="294.65" y="223.77" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Nataša Avšič Bogovič</text>
+<!-- Vertex:   111 -->
+<g transform="translate(488.95 296.87)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="498.35" y="300.29" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Nataša Lužar</text>
+<!-- Vertex:   112 -->
+<g transform="translate(194.91 471.87)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="204.30" y="475.29" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Nataša Sukič</text>
+<!-- Vertex:   113 -->
+<g transform="translate(475.76 546.65)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="485.15" y="550.08" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Nikolina Prah</text>
+<!-- Vertex:   114 -->
+<g transform="translate(57.88 68.93)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="67.28" y="72.35" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Petra Škofic</text>
+<!-- Vertex:   115 -->
+<g transform="translate(339.07 67.85)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="348.47" y="71.27" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Predrag Baković</text>
+<!-- Vertex:   116 -->
+<g transform="translate(264.95 735.21)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="274.35" y="738.63" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Rado Gladek</text>
+<!-- Vertex:   117 -->
+<g transform="translate(295.43 426.18)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="304.83" y="429.60" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Rastislav Vrečko</text>
+<!-- Vertex:   118 -->
+<g transform="translate(194.91 524.54)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="204.30" y="527.96" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Robert Golob</text>
+<!-- Vertex:   119 -->
+<g transform="translate(868.96 514.86)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="878.35" y="518.28" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Rudi Medved</text>
+<!-- Vertex:   120 -->
+<g transform="translate(938.62 665.05)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="948.02" y="668.47" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Sandra Gazinkovski</text>
+<!-- Vertex:   121 -->
+<g transform="translate(599.95 700.82)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="609.34" y="704.24" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Sanja Štiglic</text>
+<!-- Vertex:   122 -->
+<g transform="translate(667.40 69.40)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="676.79" y="72.82" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Sara Žibrat</text>
+<!-- Vertex:   123 -->
+<g transform="translate(249.74 179.64)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="259.14" y="183.06" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Saša Jazbec</text>
+<!-- Vertex:   124 -->
+<g transform="translate(559.32 431.34)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="568.71" y="434.76" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Simon Maljevac</text>
+<!-- Vertex:   125 -->
+<g transform="translate(429.40 736.29)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="438.80" y="739.71" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Soniboj Knežak</text>
+<!-- Vertex:   126 -->
+<g transform="translate(597.92 737.36)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="607.31" y="740.78" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Suzana Lep Šimenko</text>
+<!-- Vertex:   127 -->
+<g transform="translate(406.05 52.67)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="415.45" y="56.09" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tamara Kozlovič</text>
+<!-- Vertex:   128 -->
+<g transform="translate(360.07 322.75)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="369.47" y="326.17" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tamara Vonta</text>
+<!-- Vertex:   129 -->
+<g transform="translate(437.54 151.69)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="446.94" y="155.11" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tanja Fajon</text>
+<!-- Vertex:   130 -->
+<g transform="translate(477.73 181.68)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="487.13" y="185.10" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tatjana Greif</text>
+<!-- Vertex:   131 -->
+<g transform="translate(452.77 80.75)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="462.17" y="84.17" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Teodor Uranič</text>
+<!-- Vertex:   132 -->
+<g transform="translate(551.65 159.57)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="561.05" y="162.99" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tereza Novak</text>
+<!-- Vertex:   133 -->
+<g transform="translate(562.03 492.76)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="571.43" y="496.18" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tina Heferle</text>
+<!-- Vertex:   134 -->
+<g transform="translate(549.51 273.35)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="558.91" y="276.77" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tina Seršen</text>
+<!-- Vertex:   135 -->
+<g transform="translate(418.58 458.32)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="427.98" y="461.74" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tine Novak</text>
+<!-- Vertex:   136 -->
+<g transform="translate(922.91 291.18)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="932.31" y="294.60" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tomaž Lah</text>
+<!-- Vertex:   137 -->
+<g transform="translate(629.56 391.64)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="638.96" y="395.06" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Tomaž Lisec</text>
+<!-- Vertex:   138 -->
+<g transform="translate(267.00 157.07)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="276.40" y="160.49" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Uroš Vajgl</text>
+<!-- Vertex:   139 -->
+<g transform="translate(630.44 532.33)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="639.84" y="535.76" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Urška Klakočar Zupančič</text>
+<!-- Vertex:   140 -->
+<g transform="translate(275.12 289.28)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="284.52" y="292.70" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Valentina Prevolnik Rupel</text>
+<!-- Vertex:   141 -->
+<g transform="translate(524.90 597.15)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="534.29" y="600.57" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Valerija Jelen Kosi</text>
+<!-- Vertex:   142 -->
+<g transform="translate(26.26 396.99)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="35.66" y="400.41" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Vera Granfol</text>
+<!-- Vertex:   143 -->
+<g transform="translate(513.55 239.28)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="522.95" y="242.70" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Vesna Humar</text>
+<!-- Vertex:   144 -->
+<g transform="translate(298.52 82.86)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="307.92" y="86.28" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Vida Čadonič Špelič</text>
+<!-- Vertex:   145 -->
+<g transform="translate(868.68 448.65)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="878.07" y="452.07" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Vojko Volk</text>
+<!-- Vertex:   146 -->
+<g transform="translate(688.90 323.77)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="698.29" y="327.19" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Žan Mahnič</text>
+<!-- Vertex:   147 -->
+<g transform="translate(437.73 577.09)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="447.13" y="580.51" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Zoran Mojškerc</text>
+<!-- Vertex:   148 -->
+<g transform="translate(328.90 239.70)">
+<path d="M -0.12 7.33 A 0.41 0.41 0 0 1 -1.74 7.33 L -1.74 -3.03 A 0.15 0.15 0 0 0 -2.04 -3.03 L -2.04 0.84 A 0.56 0.56 0 0 1 -3.17 0.84 L -3.17 -3.71 A 1.69 1.40 0 0 1 -1.77 -5.11 L -0.35 -5.29 L -0.35 -5.57 A 1.39 1.39 0 1 1 0.35 -5.57 L 0.35 -5.29 L 1.77 -5.11 A 1.69 1.40 0 0 1 3.17 -3.71 L 3.17 0.84 A 0.56 0.56 0 0 1 2.04 0.84 L 2.04 -3.03 A 0.15 0.15 0 0 0 1.74 -3.03 L 1.74 7.33 A 0.41 0.41 0 0 1 0.14 7.33 L 0.12 1.41 L -0.12 1.41 z" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.50;"/>
+</g>
+<text x="338.30" y="243.12" style="font-family:Arial;font-weight: bold;font-size:9px;fill:rgb(173,0,0)">Zvonko Černač</text>
+</g>         <!-- Layer Network -->
+</svg>
