@@ -32,6 +32,5 @@ Na slikah so uteži povezav korenjene.
 ## matrični prikaz / vse relacije; obdobje do februar 2024
 [Drevo razvrstitve](dendro24.pdf) 
 
-https://github.com/bavla/TQ/blob/master/trajectories/Feb24/dendro24.pdf
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/matrix24.svg?sanitize=true">
 
