@@ -15,3 +15,5 @@
 ## 1-sosedi / relacija: Delovne povezave; obdobje do april 2022
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/1-neigbApr22Work.svg?sanitize=true">
 
+## neokleščeno omrežje / relacija: Izobraževanje; obdobje do februar 2024
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/Feb24Edu.svg?sanitize=true">
