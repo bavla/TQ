@@ -17,3 +17,10 @@
 
 ## neokleščeno omrežje / relacija: Izobraževanje; obdobje do februar 2024
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/Feb24Edu.svg?sanitize=true">
+
+## neokleščeno omrežje / relaciji: Prostočasne aktivnosti (zelena) in Svetovanje in nadzor (rdeča); obdobje do februar 2024
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/Feb24Other.svg?sanitize=true">
+
+## 1-sosedi / vse relacije; obdobje do februar 2024
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/Feb24All-1.svg?sanitize=true">
+
