@@ -29,3 +29,7 @@ Na slikah so uteži povezav korenjene.
 ## izrez na pragu 5000 / vse relacije; obdobje do februar 2024
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/Feb24cut5M.svg?sanitize=true">
 
+## matrični prikaz / vse relacije; obdobje do februar 2024
+Drevo razvrstitve 
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/matrix24.svg?sanitize=true">
+
