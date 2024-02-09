@@ -1,4 +1,4 @@
-# Februar 2024
+# Februar 2024 in april 2022
 
 ## 1-sosedi / relacija: Strankarske povezave; obdobje do april 2022
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/1-neigbApr22Party.svg?sanitize=true">
