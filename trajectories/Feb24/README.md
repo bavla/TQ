@@ -29,6 +29,12 @@ Na slikah so uteži povezav korenjene.
 ## izrez na pragu 5000 / vse relacije; obdobje do februar 2024
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/Feb24cut5M.svg?sanitize=true">
 
+## 1-sosedi / vse relacije; obdobje do april 2022
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/1-neigbApr22all.svg?sanitize=true">
+
+## matrični prikaz / vse relacije; obdobje do februar 2024
+[Drevo razvrstitve](dendro22.pdf) (PDF); [Matrika razvrstitve](matrix22.pdf) (PDF)
+
 ## matrični prikaz / vse relacije; obdobje do februar 2024
 [Drevo razvrstitve](dendro24.pdf) (PDF); [Matrika razvrstitve](matrix24.pdf) (PDF); [Matrika razvrstitve/Stranke](matrix24col.pdf) (PDF)
 
