@@ -30,7 +30,7 @@ Na slikah so uteži povezav korenjene.
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/Feb24cut5M.svg?sanitize=true">
 
 ## matrični prikaz / vse relacije; obdobje do februar 2024
-[Drevo razvrstitve](dendro24.pdf) 
+[Drevo razvrstitve](dendro24.pdf) (PDF); [Matrika razvrstitve](matrix24.pdf) (PDF); [Matrika razvrstitve/Stranke](matrix24col.pdf) (PDF)
 
- <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/matrix24.svg?sanitize=true">
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/matrix24c.svg?sanitize=true">
 
