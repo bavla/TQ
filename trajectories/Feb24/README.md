@@ -39,7 +39,7 @@ Na slikah so uteži povezav korenjene.
 
 Bločni model
 
- <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/BM22.svg?sanitize=true">
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/BM22y2.svg?sanitize=true">
 
 ## matrični prikaz / vse relacije; obdobje do februar 2024
 [Drevo razvrstitve](dendro24.pdf) (PDF); [Matrika razvrstitve](matrix24.pdf) (PDF); [Matrika razvrstitve/Stranke](matrix24col.pdf) (PDF)
