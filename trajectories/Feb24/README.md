@@ -37,7 +37,7 @@ Na slikah so uteži povezav korenjene.
 
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/matrix22b.svg?sanitize=true">
 
-Bločni model
+Bločni model (uteži so izražene v letih)
 
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/BM22y2.svg?sanitize=true">
 
