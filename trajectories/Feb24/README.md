@@ -7,6 +7,8 @@ Omrežji sta precej gosti in bi bil zato njun celovit grafovski prikaz (vsa vozl
 Za celovit prikaz omrežij sem uporabil matrični prikaz, pri katerem je urejenost (vrstni red) vozlišč določen z razvrščanjem v skupine.
 Za boljšo berljivost in zaznavnost majhnih vrednosti so uteži v matričnih prikazih dvojno korenjene.
 
+Za povečan prikaz slike **kliknite nanjo**.
+
 
 ## 1-sosedi / relacija: Strankarske povezave; obdobje do april 2022
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/1-neigbApr22Party.svg?sanitize=true">
