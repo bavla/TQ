@@ -1,6 +1,10 @@
-# Februar 2024 in april 2022
+# Slovenski politiki april 2022 in februar 2024
 
-Na slikah so uteži povezav korenjene; pri matričnih prikazih pa dvojno korenjene.
+Na centru [Oštro](https://www.ostro.si/) so zbrali in prečistili življenjepise trenutnih slovenskih politikov. Opisani so kot zaporedja dogodkov (začetek, konec, vrsta, kraj).
+Iz teh zaporedij sem ustvaril prirejeni omrežji sonavzočnosti do izbranih končnih datumov (april 2022 (pred volitvami) in februar 2024). Omrežji sta precej gosti in bi bil zato njun celovit grafovski prikaz (vsa vozlišča in povezave) zelo nepregleden. Za prvi vpogled v zgradbo posameznega omrežja sem zato izbral podomrežje najbližjih sosedov - v vsakem vozlišču ohranimo le povezavo do njemu najbolj "podobnega" (najdaljša sonavzočnost) vozlišča. Zaradi velikega razpona vrednosti so uteži povezav na slikah korenjene. 
+Za celovit prikaz omrežij sem uporabil matričnih prikaz pri katerem je urejenost (vrstni red) vozlišč določen z razvrščanjem v skupine.
+Za boljšo berljivost in zaznavnost majhnih vrednosti so uteži v matričnih prikazih dvojno korenjene.
+
 
 ## 1-sosedi / relacija: Strankarske povezave; obdobje do april 2022
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/1-neigbApr22Party.svg?sanitize=true">
