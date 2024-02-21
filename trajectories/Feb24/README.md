@@ -4,6 +4,8 @@ Na centru [Oštro](https://www.ostro.si/) so zbrali in prečistili življenjepis
 
 Omrežji sta precej gosti in bi bil zato njun celovit grafovski prikaz (vsa vozlišča in povezave) zelo nepregleden. Za prvi vpogled v zgradbo posameznega omrežja sem zato izbral podomrežje najbližjih sosedov - v vsakem vozlišču ohranimo le povezavo do njemu najbolj "podobnega" (najdaljša sonavzočnost) vozlišča. Zaradi velikega razpona vrednosti so uteži povezav na slikah korenjene. 
 
+<img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/NodeColors.png">
+
 Za celovit prikaz omrežij sem uporabil matrični prikaz, pri katerem je urejenost (vrstni red) vozlišč določen z razvrščanjem v skupine.
 Za boljšo berljivost in zaznavnost majhnih vrednosti so uteži v matričnih prikazih dvojno korenjene.
 
