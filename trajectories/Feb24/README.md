@@ -18,6 +18,8 @@ Za boljšo berljivost in zaznavnost majhnih vrednosti so uteži v matričnih pri
 
 Za povečan prikaz slike **kliknite nanjo**.
 
+## neokleščeno omrežje / vse relacije; obdobje do aprila 2022
+ <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/VOS22.svg?sanitize=true">
 
 ## 1-sosedi / relacija: Strankarske povezave; obdobje do april 2022
  <img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/1-neigbApr22Party.svg?sanitize=true">
