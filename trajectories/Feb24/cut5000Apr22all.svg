@@ -1,0 +1,1997 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="206.49205mm"
+   height="168.0157mm"
+   viewBox="0 0 206.49205 168.0157"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="cut5000Apr22all.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="0.7786055"
+     inkscape:cx="287.05166"
+     inkscape:cy="423.83466"
+     inkscape:window-width="1920"
+     inkscape:window-height="1112"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.886517,-36.551859)"><g
+       id="PajekSig"
+       inkscape:label="PajekSignature"
+       transform="matrix(0.26458333,0,0,0.26458333,226.16105,-31.367242)">
+<g
+   transform="translate(3,865)"
+   id="g8">
+<g
+   transform="scale(0.1)"
+   id="g7">
+<g
+   transform="matrix(1,0,0,-1,0,96)"
+   id="g6">
+<path
+   d="m 7.67,49.98 24.09,22.78 15.15,5.87 10.32,1.86 M 72.86,65.23 65.73,83.25 57.06,75.49 56.75,68.65 m 19.52,-0.62 -0.62,16.47 18.27,6.52 13.32,-16.15 m -26.95,-7.15 8.99,17.09 15.49,-3.11 11.46,-8.39 4.95,-13.98 M 56.75,81.08 71.31,64.3"
+   style="fill:none;stroke:#8b4513;stroke-width:5"
+   id="path1" />
+<path
+   d="m 86.18,70.21 5.27,2.79 4.33,-3.42 m -4.64,-8.7 4.95,1.87 2.17,-3.42"
+   style="fill:none;stroke:#8b4513;stroke-width:1.5"
+   id="path2" />
+<path
+   d="m 81.07,49.08 h 6.74 l 5.49,5.3 v 6.5 6.51 l -5.49,5.3 h -6.74 -6.74 l -5.5,-5.3 v -6.51 -6.5 l 5.5,-5.3 z"
+   style="fill:#800000;stroke:#8b4513;stroke-width:1"
+   id="path3" />
+<path
+   d="m 54.63,37.53 13.9,6.03 6.86,12.29 -5.49,9.5 -5.49,7.51 -15.81,1.2 -13.89,-6.02 -13.9,-13.02 -4.86,-14.3 1.49,-7.5 7.48,-4.5 15.81,1.79 z"
+   style="fill:#800000;stroke:#8b4513;stroke-width:1"
+   id="path4" />
+<path
+   d="m 77.82,50.63 26.02,8.7 27.26,-15.53 8.36,-15.85 -0.31,-12.12 M 35.99,5.27 47.15,32.92 61.71,50.01 70.07,46.9 82.77,45.04 83.39,27.02 65.42,12.11 m 3.1,38.52 22.62,-1.24 12.39,-6.22 13.63,-20.5 -1.86,-14.29"
+   style="fill:none;stroke:#8b4513;stroke-width:5"
+   id="path5" />
+<path
+   d="m 41.57,54.98 18.59,9.63 m -7.75,1.56 5.58,-8.7"
+   style="fill:none;stroke:#ffffff;stroke-width:5"
+   id="path6" />
+</g>
+</g>
+<animateMotion
+   dur="20s"
+   path="M3 0 L1041 0"
+   begin="120s"
+   fill="freeze" />
+</g>
+<g
+   transform="translate(3,865)"
+   id="g10">
+<g
+   transform="scale(0.1)"
+   id="g9">
+<text
+   x="5"
+   y="140"
+   style="font-size:75px;font-family:'Brush Script MT';fill:#008000"
+   id="text8">Pajek</text>
+</g>
+<animateMotion
+   dur="0.1s"
+   path="M3 0 L1041 0"
+   begin="120s"
+   fill="freeze" />
+</g>
+</g><g
+       id="PajekNet"
+       inkscape:label="PajekNetwork"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.662754,27.421088)">
+
+<!-- Edge:    27   43 -->
+<line
+   x1="488.38"
+   y1="630.09998"
+   x2="391.92001"
+   y2="572.23999"
+   style="stroke:#a5a5a5;stroke-width:3.51"
+   id="line10" />
+<!-- Edge:     5    9 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="392.39001"
+   y2="179.2"
+   style="stroke:#a5a5a5;stroke-width:3.51"
+   id="line11" />
+<!-- Edge:    48   55 -->
+<line
+   x1="791.96997"
+   y1="320.41"
+   x2="791.96997"
+   y2="421.14001"
+   style="stroke:#a5a5a5;stroke-width:3.53"
+   id="line12" />
+<!-- Edge:    21   60 -->
+<line
+   x1="281.89999"
+   y1="195.47"
+   x2="366.10999"
+   y2="236.14999"
+   style="stroke:#a5a5a5;stroke-width:3.57"
+   id="line13" />
+<!-- Edge:    18   60 -->
+<line
+   x1="532.92999"
+   y1="247.63"
+   x2="366.10999"
+   y2="236.14999"
+   style="stroke:#a5a5a5;stroke-width:3.57"
+   id="line14" />
+<!-- Edge:    13   60 -->
+<line
+   x1="384.35001"
+   y1="216.53"
+   x2="366.10999"
+   y2="236.14999"
+   style="stroke:#a5a5a5;stroke-width:3.57"
+   id="line15" />
+<!-- Edge:     9   56 -->
+<line
+   x1="392.39001"
+   y1="179.2"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#a5a5a5;stroke-width:3.58"
+   id="line16" />
+<!-- Edge:     9   32 -->
+<line
+   x1="392.39001"
+   y1="179.2"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#a5a5a5;stroke-width:3.58"
+   id="line17" />
+<!-- Edge:     6   25 -->
+<line
+   x1="447.64001"
+   y1="233.75"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#a5a5a5;stroke-width:3.58"
+   id="line18" />
+<!-- Edge:    32   58 -->
+<line
+   x1="517.90997"
+   y1="175.37"
+   x2="566.71997"
+   y2="144.74001"
+   style="stroke:#a5a5a5;stroke-width:3.58"
+   id="line19" />
+<!-- Edge:    21   56 -->
+<line
+   x1="281.89999"
+   y1="195.47"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#a5a5a5;stroke-width:3.58"
+   id="line20" />
+<!-- Edge:    21   32 -->
+<line
+   x1="281.89999"
+   y1="195.47"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#a5a5a5;stroke-width:3.58"
+   id="line21" />
+<!-- Edge:     9   35 -->
+<line
+   x1="392.39001"
+   y1="179.2"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#a5a5a5;stroke-width:3.59"
+   id="line22" />
+<!-- Edge:    34   59 -->
+<line
+   x1="594.60999"
+   y1="78.699997"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#a5a5a5;stroke-width:3.59"
+   id="line23" />
+<!-- Edge:     8   38 -->
+<line
+   x1="218.3"
+   y1="437.20999"
+   x2="280.23001"
+   y2="382.56"
+   style="stroke:#a5a5a5;stroke-width:3.59"
+   id="line24" />
+<!-- Edge:    24   33 -->
+<line
+   x1="340.14001"
+   y1="427.57001"
+   x2="383.91"
+   y2="368.45001"
+   style="stroke:#a5a5a5;stroke-width:3.6"
+   id="line25" />
+<!-- Edge:    10   26 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="566.17999"
+   y2="354.84"
+   style="stroke:#a5a5a5;stroke-width:3.62"
+   id="line26" />
+<!-- Edge:     4    9 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="392.39001"
+   y2="179.2"
+   style="stroke:#a5a5a5;stroke-width:3.62"
+   id="line27" />
+<!-- Edge:     4   21 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="281.89999"
+   y2="195.47"
+   style="stroke:#a5a5a5;stroke-width:3.63"
+   id="line28" />
+<!-- Edge:    25   51 -->
+<line
+   x1="437.98999"
+   y1="211.25999"
+   x2="602.71002"
+   y2="231.69"
+   style="stroke:#a5a5a5;stroke-width:3.66"
+   id="line29" />
+<!-- Edge:    51   56 -->
+<line
+   x1="602.71002"
+   y1="231.69"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#a5a5a5;stroke-width:3.66"
+   id="line30" />
+<!-- Edge:    10   51 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="602.71002"
+   y2="231.69"
+   style="stroke:#a5a5a5;stroke-width:3.66"
+   id="line31" />
+<!-- Edge:    17   39 -->
+<line
+   x1="224.39"
+   y1="647.25"
+   x2="292.42001"
+   y2="596.88"
+   style="stroke:#a5a5a5;stroke-width:3.66"
+   id="line32" />
+<!-- Edge:     3   30 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="631.62"
+   y2="117.46"
+   style="stroke:#a5a5a5;stroke-width:3.69"
+   id="line33" />
+<!-- Edge:    39   43 -->
+<line
+   x1="292.42001"
+   y1="596.88"
+   x2="391.92001"
+   y2="572.23999"
+   style="stroke:#a5a5a5;stroke-width:3.7"
+   id="line34" />
+<!-- Edge:     1   44 -->
+<line
+   x1="654.89001"
+   y1="599.03003"
+   x2="560.06"
+   y2="541.78003"
+   style="stroke:#a5a5a5;stroke-width:3.82"
+   id="line35" />
+<!-- Edge:    22   59 -->
+<line
+   x1="432.35999"
+   y1="76.480003"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#a5a5a5;stroke-width:3.84"
+   id="line36" />
+<!-- Edge:     7   59 -->
+<line
+   x1="474.45999"
+   y1="141.39"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#a5a5a5;stroke-width:3.85"
+   id="line37" />
+<!-- Edge:     2   41 -->
+<line
+   x1="435.57999"
+   y1="400.78"
+   x2="490.85999"
+   y2="364.04001"
+   style="stroke:#a5a5a5;stroke-width:3.85"
+   id="line38" />
+<!-- Edge:     9   22 -->
+<line
+   x1="392.39001"
+   y1="179.2"
+   x2="432.35999"
+   y2="76.480003"
+   style="stroke:#a5a5a5;stroke-width:3.9"
+   id="line39" />
+<!-- Edge:    43   45 -->
+<line
+   x1="391.92001"
+   y1="572.23999"
+   x2="476.19"
+   y2="546.52002"
+   style="stroke:#a5a5a5;stroke-width:3.9"
+   id="line40" />
+<!-- Edge:    53   59 -->
+<line
+   x1="508.79001"
+   y1="47.110001"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#a5a5a5;stroke-width:3.95"
+   id="line41" />
+<!-- Edge:     9   21 -->
+<line
+   x1="392.39001"
+   y1="179.2"
+   x2="281.89999"
+   y2="195.47"
+   style="stroke:#a5a5a5;stroke-width:3.95"
+   id="line42" />
+<!-- Edge:    13   21 -->
+<line
+   x1="384.35001"
+   y1="216.53"
+   x2="281.89999"
+   y2="195.47"
+   style="stroke:#a5a5a5;stroke-width:3.95"
+   id="line43" />
+<!-- Edge:    13   18 -->
+<line
+   x1="384.35001"
+   y1="216.53"
+   x2="532.92999"
+   y2="247.63"
+   style="stroke:#a5a5a5;stroke-width:3.95"
+   id="line44" />
+<!-- Edge:    10   54 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="624.65002"
+   y2="291.17999"
+   style="stroke:#a5a5a5;stroke-width:3.95"
+   id="line45" />
+<!-- Edge:    21   37 -->
+<line
+   x1="281.89999"
+   y1="195.47"
+   x2="383.28"
+   y2="321.32999"
+   style="stroke:#999999;stroke-width:4"
+   id="line46" />
+<!-- Edge:    18   37 -->
+<line
+   x1="532.92999"
+   y1="247.63"
+   x2="383.28"
+   y2="321.32999"
+   style="stroke:#999999;stroke-width:4"
+   id="line47" />
+<!-- Edge:    13   37 -->
+<line
+   x1="384.35001"
+   y1="216.53"
+   x2="383.28"
+   y2="321.32999"
+   style="stroke:#999999;stroke-width:4"
+   id="line48" />
+<!-- Edge:    16   43 -->
+<line
+   x1="415.26999"
+   y1="661.17999"
+   x2="391.92001"
+   y2="572.23999"
+   style="stroke:#999999;stroke-width:4.02"
+   id="line49" />
+<!-- Edge:    39   42 -->
+<line
+   x1="292.42001"
+   y1="596.88"
+   x2="324.91"
+   y2="522.94"
+   style="stroke:#999999;stroke-width:4.02"
+   id="line50" />
+<!-- Edge:    21   25 -->
+<line
+   x1="281.89999"
+   y1="195.47"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#999999;stroke-width:4.08"
+   id="line51" />
+<!-- Edge:    27   44 -->
+<line
+   x1="488.38"
+   y1="630.09998"
+   x2="560.06"
+   y2="541.78003"
+   style="stroke:#999999;stroke-width:4.18"
+   id="line52" />
+<!-- Edge:     5   18 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="532.92999"
+   y2="247.63"
+   style="stroke:#999999;stroke-width:4.19"
+   id="line53" />
+<!-- Edge:    56   59 -->
+<line
+   x1="548.47998"
+   y1="217.48"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#999999;stroke-width:4.2"
+   id="line54" />
+<!-- Edge:    10   41 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="490.85999"
+   y2="364.04001"
+   style="stroke:#999999;stroke-width:4.21"
+   id="line55" />
+<!-- Edge:    13   59 -->
+<line
+   x1="384.35001"
+   y1="216.53"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#999999;stroke-width:4.22"
+   id="line56" />
+<!-- Edge:     4   22 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="432.35999"
+   y2="76.480003"
+   style="stroke:#999999;stroke-width:4.23"
+   id="line57" />
+<!-- Edge:    32   34 -->
+<line
+   x1="517.90997"
+   y1="175.37"
+   x2="594.60999"
+   y2="78.699997"
+   style="stroke:#999999;stroke-width:4.26"
+   id="line58" />
+<!-- Edge:    40   52 -->
+<line
+   x1="796.03003"
+   y1="213.25"
+   x2="795.01001"
+   y2="137.17"
+   style="stroke:#999999;stroke-width:4.3"
+   id="line59" />
+<!-- Edge:     2   33 -->
+<line
+   x1="435.57999"
+   y1="400.78"
+   x2="383.91"
+   y2="368.45001"
+   style="stroke:#999999;stroke-width:4.34"
+   id="line60" />
+<!-- Edge:     5   60 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="366.10999"
+   y2="236.14999"
+   style="stroke:#999999;stroke-width:4.34"
+   id="line61" />
+<!-- Edge:     4   59 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#999999;stroke-width:4.39"
+   id="line62" />
+<!-- Edge:    11   12 -->
+<line
+   x1="923.96002"
+   y1="313.98001"
+   x2="924.97998"
+   y2="417.92001"
+   style="stroke:#999999;stroke-width:4.43"
+   id="line63" />
+<!-- Edge:    33   38 -->
+<line
+   x1="383.91"
+   y1="368.45001"
+   x2="280.23001"
+   y2="382.56"
+   style="stroke:#999999;stroke-width:4.43"
+   id="line64" />
+<!-- Edge:    33   37 -->
+<line
+   x1="383.91"
+   y1="368.45001"
+   x2="383.28"
+   y2="321.32999"
+   style="stroke:#999999;stroke-width:4.43"
+   id="line65" />
+<!-- Edge:    33   36 -->
+<line
+   x1="383.91"
+   y1="368.45001"
+   x2="311.94"
+   y2="311.76001"
+   style="stroke:#999999;stroke-width:4.43"
+   id="line66" />
+<!-- Edge:    33   35 -->
+<line
+   x1="383.91"
+   y1="368.45001"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#999999;stroke-width:4.43"
+   id="line67" />
+<!-- Edge:    18   59 -->
+<line
+   x1="532.92999"
+   y1="247.63"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#999999;stroke-width:4.43"
+   id="line68" />
+<!-- Edge:     6   10 -->
+<line
+   x1="447.64001"
+   y1="233.75"
+   x2="525.96002"
+   y2="293.10001"
+   style="stroke:#999999;stroke-width:4.43"
+   id="line69" />
+<!-- Edge:    10   14 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="604.79999"
+   y2="333.29999"
+   style="stroke:#8c8c8c;stroke-width:4.48"
+   id="line70" />
+<!-- Edge:    10   13 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="384.35001"
+   y2="216.53"
+   style="stroke:#8c8c8c;stroke-width:4.56"
+   id="line71" />
+<!-- Edge:     9   25 -->
+<line
+   x1="392.39001"
+   y1="179.2"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#8c8c8c;stroke-width:4.56"
+   id="line72" />
+<!-- Edge:    32   51 -->
+<line
+   x1="517.90997"
+   y1="175.37"
+   x2="602.71002"
+   y2="231.69"
+   style="stroke:#8c8c8c;stroke-width:4.6"
+   id="line73" />
+<!-- Edge:     9   13 -->
+<line
+   x1="392.39001"
+   y1="179.2"
+   x2="384.35001"
+   y2="216.53"
+   style="stroke:#8c8c8c;stroke-width:4.61"
+   id="line74" />
+<!-- Edge:     4   20 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="282.97"
+   y2="122.25"
+   style="stroke:#8c8c8c;stroke-width:4.68"
+   id="line75" />
+<!-- Edge:     4   19 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="303.89001"
+   y2="74.389999"
+   style="stroke:#8c8c8c;stroke-width:4.68"
+   id="line76" />
+<!-- Edge:     3    4 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="383.79999"
+   y2="122.16"
+   style="stroke:#8c8c8c;stroke-width:4.7"
+   id="line77" />
+<!-- Edge:     3   51 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="602.71002"
+   y2="231.69"
+   style="stroke:#8c8c8c;stroke-width:4.76"
+   id="line78" />
+<!-- Edge:    10   18 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="532.92999"
+   y2="247.63"
+   style="stroke:#8c8c8c;stroke-width:4.76"
+   id="line79" />
+<!-- Edge:     5   13 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="384.35001"
+   y2="216.53"
+   style="stroke:#8c8c8c;stroke-width:4.82"
+   id="line80" />
+<!-- Edge:    28   29 -->
+<line
+   x1="928.02002"
+   y1="78.230003"
+   x2="928.02002"
+   y2="177.89"
+   style="stroke:#8c8c8c;stroke-width:4.85"
+   id="line81" />
+<!-- Edge:    31   33 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="383.91"
+   y2="368.45001"
+   style="stroke:#8c8c8c;stroke-width:4.87"
+   id="line82" />
+<!-- Edge:     4    7 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="474.45999"
+   y2="141.39"
+   style="stroke:#7f7f7f;stroke-width:5.12"
+   id="line83" />
+<!-- Edge:    31   50 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="569.60999"
+   y2="501.51001"
+   style="stroke:#7f7f7f;stroke-width:5.19"
+   id="line84" />
+<!-- Edge:    31   47 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="300.54001"
+   y2="476.85999"
+   style="stroke:#7f7f7f;stroke-width:5.19"
+   id="line85" />
+<!-- Edge:    31   46 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="553.35999"
+   y2="403.98999"
+   style="stroke:#7f7f7f;stroke-width:5.19"
+   id="line86" />
+<!-- Edge:    31   45 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="476.19"
+   y2="546.52002"
+   style="stroke:#7f7f7f;stroke-width:5.19"
+   id="line87" />
+<!-- Edge:    31   43 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="391.92001"
+   y2="572.23999"
+   style="stroke:#7f7f7f;stroke-width:5.19"
+   id="line88" />
+<!-- Edge:    31   49 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="566.56"
+   y2="452.22"
+   style="stroke:#7f7f7f;stroke-width:5.19"
+   id="line89" />
+<!-- Edge:    31   44 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="560.06"
+   y2="541.78003"
+   style="stroke:#7f7f7f;stroke-width:5.19"
+   id="line90" />
+<!-- Edge:    31   42 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="324.91"
+   y2="522.94"
+   style="stroke:#7f7f7f;stroke-width:5.19"
+   id="line91" />
+<!-- Edge:     4   35 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#7f7f7f;stroke-width:5.21"
+   id="line92" />
+<!-- Edge:     4   60 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="366.10999"
+   y2="236.14999"
+   style="stroke:#7f7f7f;stroke-width:5.22"
+   id="line93" />
+<!-- Edge:    31   41 -->
+<line
+   x1="451.39999"
+   y1="458.73001"
+   x2="490.85999"
+   y2="364.04001"
+   style="stroke:#7f7f7f;stroke-width:5.24"
+   id="line94" />
+<!-- Edge:     9   59 -->
+<line
+   x1="392.39001"
+   y1="179.2"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#7f7f7f;stroke-width:5.27"
+   id="line95" />
+<!-- Edge:    21   59 -->
+<line
+   x1="281.89999"
+   y1="195.47"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#7f7f7f;stroke-width:5.29"
+   id="line96" />
+<!-- Edge:    21   35 -->
+<line
+   x1="281.89999"
+   y1="195.47"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#7f7f7f;stroke-width:5.29"
+   id="line97" />
+<!-- Edge:    18   35 -->
+<line
+   x1="532.92999"
+   y1="247.63"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#7f7f7f;stroke-width:5.29"
+   id="line98" />
+<!-- Edge:    13   35 -->
+<line
+   x1="384.35001"
+   y1="216.53"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#7f7f7f;stroke-width:5.29"
+   id="line99" />
+<!-- Edge:    24   31 -->
+<line
+   x1="340.14001"
+   y1="427.57001"
+   x2="451.39999"
+   y2="458.73001"
+   style="stroke:#7f7f7f;stroke-width:5.3"
+   id="line100" />
+<!-- Edge:    51   59 -->
+<line
+   x1="602.71002"
+   y1="231.69"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#7f7f7f;stroke-width:5.31"
+   id="line101" />
+<!-- Edge:     3    5 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="465.88"
+   y2="186.85001"
+   style="stroke:#7f7f7f;stroke-width:5.33"
+   id="line102" />
+<!-- Edge:     3   59 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#7f7f7f;stroke-width:5.38"
+   id="line103" />
+<!-- Edge:    13   56 -->
+<line
+   x1="384.35001"
+   y1="216.53"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#7f7f7f;stroke-width:5.41"
+   id="line104" />
+<!-- Edge:    13   32 -->
+<line
+   x1="384.35001"
+   y1="216.53"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#7f7f7f;stroke-width:5.41"
+   id="line105" />
+<!-- Edge:     3   57 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="690.09003"
+   y2="175.37"
+   style="stroke:#7f7f7f;stroke-width:5.45"
+   id="line106" />
+<!-- Edge:     4   13 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="384.35001"
+   y2="216.53"
+   style="stroke:#7f7f7f;stroke-width:5.46"
+   id="line107" />
+<!-- Edge:     4   15 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="359.67001"
+   y2="43.759998"
+   style="stroke:#727272;stroke-width:5.48"
+   id="line108" />
+<!-- Edge:    10   56 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#727272;stroke-width:5.61"
+   id="line109" />
+<!-- Edge:    18   56 -->
+<line
+   x1="532.92999"
+   y1="247.63"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#727272;stroke-width:5.62"
+   id="line110" />
+<!-- Edge:    18   32 -->
+<line
+   x1="532.92999"
+   y1="247.63"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#727272;stroke-width:5.62"
+   id="line111" />
+<!-- Edge:     4   18 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="532.92999"
+   y2="247.63"
+   style="stroke:#727272;stroke-width:5.66"
+   id="line112" />
+<!-- Edge:     5    7 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="474.45999"
+   y2="141.39"
+   style="stroke:#727272;stroke-width:5.78"
+   id="line113" />
+<!-- Edge:    30   59 -->
+<line
+   x1="631.62"
+   y1="117.46"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#727272;stroke-width:5.8"
+   id="line114" />
+<!-- Edge:    25   60 -->
+<line
+   x1="437.98999"
+   y1="211.25999"
+   x2="366.10999"
+   y2="236.14999"
+   style="stroke:#727272;stroke-width:5.86"
+   id="line115" />
+<!-- Edge:     7   56 -->
+<line
+   x1="474.45999"
+   y1="141.39"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#727272;stroke-width:5.89"
+   id="line116" />
+<!-- Edge:     5   56 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#666666;stroke-width:6.02"
+   id="line117" />
+<!-- Edge:     5   10 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="525.96002"
+   y2="293.10001"
+   style="stroke:#666666;stroke-width:6.18"
+   id="line118" />
+<!-- Edge:    32   60 -->
+<line
+   x1="517.90997"
+   y1="175.37"
+   x2="366.10999"
+   y2="236.14999"
+   style="stroke:#666666;stroke-width:6.21"
+   id="line119" />
+<!-- Edge:    56   60 -->
+<line
+   x1="548.47998"
+   y1="217.48"
+   x2="366.10999"
+   y2="236.14999"
+   style="stroke:#666666;stroke-width:6.21"
+   id="line120" />
+<!-- Edge:    10   60 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="366.10999"
+   y2="236.14999"
+   style="stroke:#666666;stroke-width:6.21"
+   id="line121" />
+<!-- Edge:    25   36 -->
+<line
+   x1="437.98999"
+   y1="211.25999"
+   x2="311.94"
+   y2="311.76001"
+   style="stroke:#666666;stroke-width:6.22"
+   id="line122" />
+<!-- Edge:    10   35 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#666666;stroke-width:6.3"
+   id="line123" />
+<!-- Edge:     4    5 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="465.88"
+   y2="186.85001"
+   style="stroke:#666666;stroke-width:6.32"
+   id="line124" />
+<!-- Edge:    32   59 -->
+<line
+   x1="517.90997"
+   y1="175.37"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#666666;stroke-width:6.32"
+   id="line125" />
+<!-- Edge:     2   31 -->
+<line
+   x1="435.57999"
+   y1="400.78"
+   x2="451.39999"
+   y2="458.73001"
+   style="stroke:#666666;stroke-width:6.33"
+   id="line126" />
+<!-- Edge:     5   35 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#666666;stroke-width:6.36"
+   id="line127" />
+<!-- Edge:    35   56 -->
+<line
+   x1="439.06"
+   y1="306.01999"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#666666;stroke-width:6.39"
+   id="line128" />
+<!-- Edge:    32   56 -->
+<line
+   x1="517.90997"
+   y1="175.37"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#666666;stroke-width:6.39"
+   id="line129" />
+<!-- Edge:     7   10 -->
+<line
+   x1="474.45999"
+   y1="141.39"
+   x2="525.96002"
+   y2="293.10001"
+   style="stroke:#666666;stroke-width:6.4"
+   id="line130" />
+<!-- Edge:     7   32 -->
+<line
+   x1="474.45999"
+   y1="141.39"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#666666;stroke-width:6.4"
+   id="line131" />
+<!-- Edge:     4   56 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#666666;stroke-width:6.43"
+   id="line132" />
+<!-- Edge:    33   41 -->
+<line
+   x1="383.91"
+   y1="368.45001"
+   x2="490.85999"
+   y2="364.04001"
+   style="stroke:#595959;stroke-width:6.53"
+   id="line133" />
+<!-- Edge:    13   25 -->
+<line
+   x1="384.35001"
+   y1="216.53"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#595959;stroke-width:6.75"
+   id="line134" />
+<!-- Edge:     7   25 -->
+<line
+   x1="474.45999"
+   y1="141.39"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#595959;stroke-width:6.84"
+   id="line135" />
+<!-- Edge:    25   56 -->
+<line
+   x1="437.98999"
+   y1="211.25999"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#595959;stroke-width:6.89"
+   id="line136" />
+<!-- Edge:    18   25 -->
+<line
+   x1="532.92999"
+   y1="247.63"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#595959;stroke-width:6.96"
+   id="line137" />
+<!-- Edge:    23   52 -->
+<line
+   x1="794"
+   y1="42.860001"
+   x2="795.01001"
+   y2="137.17"
+   style="stroke:#595959;stroke-width:6.96"
+   id="line138" />
+<!-- Edge:     5   32 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#4c4c4c;stroke-width:7.04"
+   id="line139" />
+<!-- Edge:     5   25 -->
+<line
+   x1="465.88"
+   y1="186.85001"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#4c4c4c;stroke-width:7.08"
+   id="line140" />
+<!-- Edge:    32   35 -->
+<line
+   x1="517.90997"
+   y1="175.37"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#4c4c4c;stroke-width:7.15"
+   id="line141" />
+<!-- Edge:     3   25 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#4c4c4c;stroke-width:7.24"
+   id="line142" />
+<!-- Edge:     3   10 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="525.96002"
+   y2="293.10001"
+   style="stroke:#4c4c4c;stroke-width:7.24"
+   id="line143" />
+<!-- Edge:     3   56 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="548.47998"
+   y2="217.48"
+   style="stroke:#4c4c4c;stroke-width:7.43"
+   id="line144" />
+<!-- Edge:    25   37 -->
+<line
+   x1="437.98999"
+   y1="211.25999"
+   x2="383.28"
+   y2="321.32999"
+   style="stroke:#3f3f3f;stroke-width:7.57"
+   id="line145" />
+<!-- Edge:     4   32 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#3f3f3f;stroke-width:7.71"
+   id="line146" />
+<!-- Edge:     4   10 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="525.96002"
+   y2="293.10001"
+   style="stroke:#3f3f3f;stroke-width:7.71"
+   id="line147" />
+<!-- Edge:    25   35 -->
+<line
+   x1="437.98999"
+   y1="211.25999"
+   x2="439.06"
+   y2="306.01999"
+   style="stroke:#3f3f3f;stroke-width:7.83"
+   id="line148" />
+<!-- Edge:     4   25 -->
+<line
+   x1="383.79999"
+   y1="122.16"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#333333;stroke-width:8.01"
+   id="line149" />
+<!-- Edge:    10   32 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#333333;stroke-width:8.18"
+   id="line150" />
+<!-- Edge:     3   32 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#333333;stroke-width:8.43"
+   id="line151" />
+<!-- Edge:     3   34 -->
+<line
+   x1="582.53003"
+   y1="183.14"
+   x2="594.60999"
+   y2="78.699997"
+   style="stroke:#262626;stroke-width:8.6"
+   id="line152" />
+<!-- Edge:    35   59 -->
+<line
+   x1="439.06"
+   y1="306.01999"
+   x2="513.08002"
+   y2="122.25"
+   style="stroke:#262626;stroke-width:8.85"
+   id="line153" />
+<!-- Edge:    25   32 -->
+<line
+   x1="437.98999"
+   y1="211.25999"
+   x2="517.90997"
+   y2="175.37"
+   style="stroke:#0c0c0c;stroke-width:9.52"
+   id="line154" />
+<!-- Edge:    10   25 -->
+<line
+   x1="525.96002"
+   y1="293.10001"
+   x2="437.98999"
+   y2="211.25999"
+   style="stroke:#000000;stroke-width:10.04"
+   id="line155" />
+
+<!-- Vertex:     1 -->
+<circle
+   cx="654.89001"
+   cy="599.03003"
+   style="fill:#ffd8f2;stroke:#000000;stroke-width:0.5"
+   id="ellipse155"
+   r="8.1000004" />
+<text
+   x="665.28998"
+   y="605.03003"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text155">A Jevšek</text>
+<!-- Vertex:     2 -->
+<circle
+   cx="435.57999"
+   cy="400.78"
+   style="fill:#ffff99;stroke:#000000;stroke-width:0.5"
+   id="ellipse156"
+   r="8.1000004" />
+<text
+   x="445.97"
+   y="406.78"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text156">A Reberšek</text>
+<!-- Vertex:     3 -->
+<circle
+   cx="582.53003"
+   cy="183.14"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse157"
+   r="8.1000004" />
+<text
+   x="592.91998"
+   y="189.14"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text157">A Helbl</text>
+<!-- Vertex:     4 -->
+<circle
+   cx="383.79999"
+   cy="122.16"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse158"
+   r="8.1000004" />
+<text
+   x="394.19"
+   y="128.16"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text158">A Jeraj</text>
+<!-- Vertex:     5 -->
+<circle
+   cx="465.88"
+   cy="186.85001"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse159"
+   r="8.1000004" />
+<text
+   x="476.26999"
+   y="192.85001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text159">AB Žibert</text>
+<!-- Vertex:     6 -->
+<circle
+   cx="447.64001"
+   cy="233.75"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse160"
+   r="8.1000004" />
+<text
+   x="458.03"
+   y="239.75"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text160">A Šturbej</text>
+<!-- Vertex:     7 -->
+<circle
+   cx="474.45999"
+   cy="141.39"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse161"
+   r="8.1000004" />
+<text
+   x="484.85001"
+   y="147.39"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text161">A Logar</text>
+<!-- Vertex:     8 -->
+<circle
+   cx="218.3"
+   cy="437.20999"
+   style="fill:#ffd9bc;stroke:#000000;stroke-width:0.5"
+   id="ellipse162"
+   r="8.1000004" />
+<text
+   x="228.69"
+   y="443.20999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text162">A Vrečko</text>
+<!-- Vertex:     9 -->
+<circle
+   cx="392.39001"
+   cy="179.2"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse163"
+   r="8.1000004" />
+<text
+   x="402.79001"
+   y="185.2"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text163">B Podkrajšek</text>
+<!-- Vertex:    10 -->
+<circle
+   cx="525.96002"
+   cy="293.10001"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse164"
+   r="8.1000004" />
+<text
+   x="536.34998"
+   y="299.10001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text164">B Grims</text>
+<!-- Vertex:    11 -->
+<circle
+   cx="923.96002"
+   cy="313.98001"
+   style="fill:#ffd8f2;stroke:#000000;stroke-width:0.5"
+   id="ellipse165"
+   r="8.1000004" />
+<text
+   x="934.34998"
+   y="319.98001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text165">D Zrim</text>
+<!-- Vertex:    12 -->
+<circle
+   cx="924.97998"
+   cy="417.92001"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.5"
+   id="ellipse166"
+   r="8.1000004" />
+<text
+   x="935.37"
+   y="423.92001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text166">D Juvan</text>
+<!-- Vertex:    13 -->
+<circle
+   cx="384.35001"
+   cy="216.53"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse167"
+   r="8.1000004" />
+<text
+   x="394.73999"
+   y="222.53"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text167">D Krivec</text>
+<!-- Vertex:    14 -->
+<circle
+   cx="604.79999"
+   cy="333.29999"
+   style="fill:#ccffb2;stroke:#000000;stroke-width:0.5"
+   id="ellipse168"
+   r="8.1000004" />
+<text
+   x="615.20001"
+   y="339.29999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text168">D Krajnc</text>
+<!-- Vertex:    15 -->
+<circle
+   cx="359.67001"
+   cy="43.759998"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse169"
+   r="8.1000004" />
+<text
+   x="370.07001"
+   y="49.759998"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text169">D Kaloh</text>
+<!-- Vertex:    16 -->
+<circle
+   cx="415.26999"
+   cy="661.17999"
+   style="fill:#ffd8f2;stroke:#000000;stroke-width:0.5"
+   id="ellipse170"
+   r="8.1000004" />
+<text
+   x="425.67001"
+   y="667.17999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text170">D Židan</text>
+<!-- Vertex:    17 -->
+<circle
+   cx="224.39"
+   cy="647.25"
+   style="fill:#ccffb2;stroke:#000000;stroke-width:0.5"
+   id="ellipse171"
+   r="8.1000004" />
+<text
+   x="234.78"
+   y="653.25"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text171">D Stojanovič</text>
+<!-- Vertex:    18 -->
+<circle
+   cx="532.92999"
+   cy="247.63"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse172"
+   r="8.1000004" />
+<text
+   x="543.32001"
+   y="253.63"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text172">E Irgl</text>
+<!-- Vertex:    19 -->
+<circle
+   cx="303.89001"
+   cy="74.389999"
+   style="fill:#ccffff;stroke:#000000;stroke-width:0.5"
+   id="ellipse173"
+   r="8.1000004" />
+<text
+   x="314.28"
+   y="80.389999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text173">F Žiža</text>
+<!-- Vertex:    20 -->
+<circle
+   cx="282.97"
+   cy="122.25"
+   style="fill:#ccffff;stroke:#000000;stroke-width:0.5"
+   id="ellipse174"
+   r="8.1000004" />
+<text
+   x="293.35999"
+   y="128.25"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text174">F Horváth</text>
+<!-- Vertex:    21 -->
+<circle
+   cx="281.89999"
+   cy="195.47"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse175"
+   r="8.1000004" />
+<text
+   x="292.29001"
+   y="201.47"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text175">F Breznik</text>
+<!-- Vertex:    22 -->
+<circle
+   cx="432.35999"
+   cy="76.480003"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse176"
+   r="8.1000004" />
+<text
+   x="442.75"
+   y="82.480003"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text176">F Rosec</text>
+<!-- Vertex:    23 -->
+<circle
+   cx="794"
+   cy="42.860001"
+   style="fill:#ccffb2;stroke:#000000;stroke-width:0.5"
+   id="ellipse177"
+   r="8.1000004" />
+<text
+   x="804.39001"
+   y="48.860001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text177">I Papič</text>
+<!-- Vertex:    24 -->
+<circle
+   cx="340.14001"
+   cy="427.57001"
+   style="fill:#ffff99;stroke:#000000;stroke-width:0.5"
+   id="ellipse178"
+   r="8.1000004" />
+<text
+   x="350.53"
+   y="433.57001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text178">I Dimic</text>
+<!-- Vertex:    25 -->
+<circle
+   cx="437.98999"
+   cy="211.25999"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse179"
+   r="8.1000004" />
+<text
+   x="448.38"
+   y="217.25999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text179">J Janša</text>
+<!-- Vertex:    26 -->
+<circle
+   cx="566.17999"
+   cy="354.84"
+   style="fill:#ffff99;stroke:#000000;stroke-width:0.5"
+   id="ellipse180"
+   r="8.1000004" />
+<text
+   x="576.58002"
+   y="360.84"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text180">JC Kralj</text>
+<!-- Vertex:    27 -->
+<circle
+   cx="488.38"
+   cy="630.09998"
+   style="fill:#ffd8f2;stroke:#000000;stroke-width:0.5"
+   id="ellipse181"
+   r="8.1000004" />
+<text
+   x="498.76999"
+   y="636.09998"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text181">J Prednik</text>
+<!-- Vertex:    28 -->
+<circle
+   cx="928.02002"
+   cy="78.230003"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.5"
+   id="ellipse182"
+   r="8.1000004" />
+<text
+   x="938.40997"
+   y="84.230003"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text182">J Zupančič</text>
+<!-- Vertex:    29 -->
+<circle
+   cx="928.02002"
+   cy="177.89"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.5"
+   id="ellipse183"
+   r="8.1000004" />
+<text
+   x="938.40997"
+   y="183.89"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text183">J Rojc</text>
+<!-- Vertex:    30 -->
+<circle
+   cx="631.62"
+   cy="117.46"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse184"
+   r="8.1000004" />
+<text
+   x="642.02002"
+   y="123.46"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text184">J Godec</text>
+<!-- Vertex:    31 -->
+<circle
+   cx="451.39999"
+   cy="458.73001"
+   style="fill:#ffff99;stroke:#000000;stroke-width:0.5"
+   id="ellipse185"
+   r="8.1000004" />
+<text
+   x="461.79001"
+   y="464.73001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text185">J Vrtovec</text>
+<!-- Vertex:    32 -->
+<circle
+   cx="517.90997"
+   cy="175.37"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse186"
+   r="8.1000004" />
+<text
+   x="528.29999"
+   y="181.37"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text186">J Tanko</text>
+<!-- Vertex:    33 -->
+<circle
+   cx="383.91"
+   cy="368.45001"
+   style="fill:#ffff99;stroke:#000000;stroke-width:0.5"
+   id="ellipse187"
+   r="8.1000004" />
+<text
+   x="394.29999"
+   y="374.45001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text187">J Horvat</text>
+<!-- Vertex:    34 -->
+<circle
+   cx="594.60999"
+   cy="78.699997"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse188"
+   r="8.1000004" />
+<text
+   x="605.01001"
+   y="84.699997"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text188">J Jelen</text>
+<!-- Vertex:    35 -->
+<circle
+   cx="439.06"
+   cy="306.01999"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse189"
+   r="8.1000004" />
+<text
+   x="449.45001"
+   y="312.01999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text189">J Lenart</text>
+<!-- Vertex:    36 -->
+<circle
+   cx="311.94"
+   cy="311.76001"
+   style="fill:#ccffb2;stroke:#000000;stroke-width:0.5"
+   id="ellipse190"
+   r="8.1000004" />
+<text
+   x="322.32999"
+   y="317.76001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text190">J Lep</text>
+<!-- Vertex:    37 -->
+<circle
+   cx="383.28"
+   cy="321.32999"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse191"
+   r="8.1000004" />
+<text
+   x="393.67001"
+   y="327.32999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text191">K Furman</text>
+<!-- Vertex:    38 -->
+<circle
+   cx="280.23001"
+   cy="382.56"
+   style="fill:#ffd9bc;stroke:#000000;stroke-width:0.5"
+   id="ellipse192"
+   r="8.1000004" />
+<text
+   x="290.63"
+   y="388.56"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text192">L Mesec</text>
+<!-- Vertex:    39 -->
+<circle
+   cx="292.42001"
+   cy="596.88"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.5"
+   id="ellipse193"
+   r="8.1000004" />
+<text
+   x="302.81"
+   y="602.88"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text193">M Koprivc</text>
+<!-- Vertex:    40 -->
+<circle
+   cx="796.03003"
+   cy="213.25"
+   style="fill:#ccffb2;stroke:#000000;stroke-width:0.5"
+   id="ellipse194"
+   r="8.1000004" />
+<text
+   x="806.41998"
+   y="219.25"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text194">M Arčon</text>
+<!-- Vertex:    41 -->
+<circle
+   cx="490.85999"
+   cy="364.04001"
+   style="fill:#ffff99;stroke:#000000;stroke-width:0.5"
+   id="ellipse195"
+   r="8.1000004" />
+<text
+   x="501.25"
+   y="370.04001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text195">M Tonin</text>
+<!-- Vertex:    42 -->
+<circle
+   cx="324.91"
+   cy="522.94"
+   style="fill:#ffd8f2;stroke:#000000;stroke-width:0.5"
+   id="ellipse196"
+   r="8.1000004" />
+<text
+   x="335.29999"
+   y="528.94"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text196">M Frangež</text>
+<!-- Vertex:    43 -->
+<circle
+   cx="391.92001"
+   cy="572.23999"
+   style="fill:#ffd8f2;stroke:#000000;stroke-width:0.5"
+   id="ellipse197"
+   r="8.1000004" />
+<text
+   x="402.31"
+   y="578.23999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text197">M Han</text>
+<!-- Vertex:    44 -->
+<circle
+   cx="560.06"
+   cy="541.78003"
+   style="fill:#ffd8f2;stroke:#000000;stroke-width:0.5"
+   id="ellipse198"
+   r="8.1000004" />
+<text
+   x="570.45001"
+   y="547.78003"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text198">M Hot</text>
+<!-- Vertex:    45 -->
+<circle
+   cx="476.19"
+   cy="546.52002"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.5"
+   id="ellipse199"
+   r="8.1000004" />
+<text
+   x="486.59"
+   y="552.52002"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text199">M Župevc</text>
+<!-- Vertex:    46 -->
+<circle
+   cx="553.35999"
+   cy="403.98999"
+   style="fill:#ffd9bc;stroke:#000000;stroke-width:0.5"
+   id="ellipse200"
+   r="8.1000004" />
+<text
+   x="563.75"
+   y="409.98999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text200">M Kordiš</text>
+<!-- Vertex:    47 -->
+<circle
+   cx="300.54001"
+   cy="476.85999"
+   style="fill:#ccffb2;stroke:#000000;stroke-width:0.5"
+   id="ellipse201"
+   r="8.1000004" />
+<text
+   x="310.92999"
+   y="482.85999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text201">MB Klanjšček</text>
+<!-- Vertex:    48 -->
+<circle
+   cx="791.96997"
+   cy="320.41"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.5"
+   id="ellipse202"
+   r="8.1000004" />
+<text
+   x="802.35999"
+   y="326.41"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text202">MŠ Pašek</text>
+<!-- Vertex:    49 -->
+<circle
+   cx="566.56"
+   cy="452.22"
+   style="fill:#ffd9bc;stroke:#000000;stroke-width:0.5"
+   id="ellipse203"
+   r="8.1000004" />
+<text
+   x="576.95001"
+   y="458.22"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text203">N Sukič</text>
+<!-- Vertex:    50 -->
+<circle
+   cx="569.60999"
+   cy="501.51001"
+   style="fill:#ffd8f2;stroke:#000000;stroke-width:0.5"
+   id="ellipse204"
+   r="8.1000004" />
+<text
+   x="580"
+   y="507.51001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text204">P Baković</text>
+<!-- Vertex:    51 -->
+<circle
+   cx="602.71002"
+   cy="231.69"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse205"
+   r="8.1000004" />
+<text
+   x="613.09998"
+   y="237.69"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text205">R Gladek</text>
+<!-- Vertex:    52 -->
+<circle
+   cx="795.01001"
+   cy="137.17"
+   style="fill:#ccffb2;stroke:#000000;stroke-width:0.5"
+   id="ellipse206"
+   r="8.1000004" />
+<text
+   x="805.40002"
+   y="143.17"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text206">R Golob</text>
+<!-- Vertex:    53 -->
+<circle
+   cx="508.79001"
+   cy="47.110001"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse207"
+   r="8.1000004" />
+<text
+   x="519.17999"
+   y="53.110001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text207">SL Šimenko</text>
+<!-- Vertex:    54 -->
+<circle
+   cx="624.65002"
+   cy="291.17999"
+   style="fill:#ccffb2;stroke:#000000;stroke-width:0.5"
+   id="ellipse208"
+   r="8.1000004" />
+<text
+   x="635.03998"
+   y="297.17999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text208">T Vonta</text>
+<!-- Vertex:    55 -->
+<circle
+   cx="791.96997"
+   cy="421.14001"
+   style="fill:#ffd8f2;stroke:#000000;stroke-width:0.5"
+   id="ellipse209"
+   r="8.1000004" />
+<text
+   x="802.35999"
+   y="427.14001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text209">T Fajon</text>
+<!-- Vertex:    56 -->
+<circle
+   cx="548.47998"
+   cy="217.48"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse210"
+   r="8.1000004" />
+<text
+   x="558.88"
+   y="223.48"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text210">T Lisec</text>
+<!-- Vertex:    57 -->
+<circle
+   cx="690.09003"
+   cy="175.37"
+   style="fill:#ccffb2;stroke:#000000;stroke-width:0.5"
+   id="ellipse211"
+   r="8.1000004" />
+<text
+   x="700.47998"
+   y="181.37"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text211">V Granfol</text>
+<!-- Vertex:    58 -->
+<circle
+   cx="566.71997"
+   cy="144.74001"
+   style="fill:#ffff99;stroke:#000000;stroke-width:0.5"
+   id="ellipse212"
+   r="8.1000004" />
+<text
+   x="577.10999"
+   y="150.74001"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text212">VČ Špelič</text>
+<!-- Vertex:    59 -->
+<circle
+   cx="513.08002"
+   cy="122.25"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse213"
+   r="8.1000004" />
+<text
+   x="523.46997"
+   y="128.25"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text213">Ž Mahnič</text>
+<!-- Vertex:    60 -->
+<circle
+   cx="366.10999"
+   cy="236.14999"
+   style="fill:#d8d8d8;stroke:#000000;stroke-width:0.5"
+   id="ellipse214"
+   r="8.1000004" />
+<text
+   x="376.5"
+   y="242.14999"
+   style="font-weight:bold;font-size:10px;font-family:Arial;fill:#b70000"
+   id="text214">Z Černač</text>
+</g></g></svg>
