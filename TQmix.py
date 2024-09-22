@@ -1,4 +1,5 @@
 # support functions
+# Sept 22, 2024
 
 def width(tq):
    k = 0
@@ -21,3 +22,13 @@ def listNeighbors(R,u):
       print(s,f,w[0],end="")
       for t in L: print(" ",R[t]["lab"],end="")
       print()
+
+def stable(T,t=0):
+   L = T._links
+   S = [ (L[a][0],L[a][1],span(L[a][4]["tq"])) for a in L ]
+   S.sort(reverse=True,key=third)
+   for (u,v,d) in S:
+      if d < t: break
+      print(d,T._nodes[u][3]["lab"],">",T._nodes[v][3]["lab"]) 
+
+
