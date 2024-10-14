@@ -29,3 +29,8 @@ Visualization of TQs in R.
 
 * https://github.com/bavla/Nets/wiki/hist
 * https://github.com/bavla/TQ/wiki/BMRC#visualizing-the-network-matrix---heatmap
+
+## TQ visualization in R/grid
+
+* https://github.com/bavla/TQ/tree/master/R
+* 
