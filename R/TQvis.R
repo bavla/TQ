@@ -2,15 +2,46 @@
 # October 2024 by Vladimir Batagelj
 # http://localhost:8800/doku.php?id=work:alg:icon
 # https://github.com/bavla/TQ/tree/master/R
+# http://localhost:8800/doku.php?id=work:alg:cutq#python_to_r
+# http://localhost:8800/doku.php?id=work:alg:cutq#importing_in_r
+# C:/Users/vlado/work/OpenAlex/vis
+
+TQlistGet <- function(D,i){
+  n <- length(DL[[i]][[2]])
+  if(n==0) return(NULL)
+  if(n==1) tq <- as.data.frame(t(DL[[i]][[2]][[1]])) else
+    tq <- data.frame(Reduce(rbind,DL[[i]][[2]]))
+  colnames(tq) <- c("s","f","v"); row.names(tq) <- paste("e",1:nrow(tq),sep="")
+  return(tq)
+}
+
+TQlistLab <- function(D,i) return(D[[i]][[1]])
 
 TQmaxVal <- function(D){
   maxV <- 0
-  for(i in 1:length(D)){
-    tq <- data.frame(Reduce(rbind,D[[i]][[2]]))
+  for(i in 1:length(DL)){
+    n <- length(DL[[i]][[2]])
+    if(n==0) next
+    if(n==1) tq <- as.data.frame(t(DL[[i]][[2]][[1]])) else
+      tq <- data.frame(Reduce(rbind,DL[[i]][[2]]))
     maxV <- max(c(maxV,tq[,3]),na.rm=TRUE)
   }
   return(maxV)
 }
+
+TQspan <- function(tq){
+  span <- 0
+  for(i in 1:nrow(tq)) span <- span + (tq[i,2]-tq[i,1])
+  return(span)
+}
+
+TQtotal <- function(tq){
+  tot <- 0
+  for(i in 1:nrow(tq)) tot <- tot + (tq[i,2]-tq[i,1])*tq[i,3]
+  return(tot)
+}
+
+TQmax <- function(tq) return(ifelse(is.null(tq),0,max(tq[,3])))
 
 tqComps <- function(tq,tMin,tMax,sent=NULL,trans){
   n <- nrow(tq)
@@ -18,7 +49,7 @@ tqComps <- function(tq,tMin,tMax,sent=NULL,trans){
   tq <- rbind(tq,c(tq[n,2],tMax,sent)); n <- n+1
   x <- h <- w <- c(); last <- tMin
   for(i in 1:n){
-    s <- tq[i,1]; f <- tq[i,2]; v <- round(trans(tq[i,3]))  
+    s <- tq[i,1]; f <- tq[i,2]; v <- ifelse(i<n,round(trans(tq[i,3])),sent)  
     if(last < s){x <- c(x,last-tMin); w <- c(w,s-last); h <- c(h,sent)}
     x <- c(x,s-tMin); w <- c(w,f-s); h <- c(h,v); last <- f   
   }
@@ -28,8 +59,7 @@ tqComps <- function(tq,tMin,tMax,sent=NULL,trans){
 TQicons <- function(D,I,sent,col,type=1,g=0.15,pts=100,f=function(x) x){
   grid.newpage()
   for(i in 1:length(I)){
-    y0 <- 1.005-0.1*i; j <- I[i]; lab <- D[[j]][[1]]
-    tq <- data.frame(Reduce(rbind,D[[j]][[2]]))
+    y0 <- 1.005-0.1*i; j <- I[i]; lab <- TQlistLab(D,j); tq <- TQlistGet(D,j)
     xwh <- tqComps(tq,tMin,tMax,sent=sent,trans=f)
     # cat(i,j,lab,"\n"); cat(xwh$x,"\n",xwh$w,"\n",xwh$h,"\n")
     tqLab <- textbox_grob(lab,x=0,y=y0,width=unit(pts,"pt"),
