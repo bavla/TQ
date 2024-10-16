@@ -7,10 +7,10 @@
 # C:/Users/vlado/work/OpenAlex/vis
 
 TQlistGet <- function(D,i){
-  n <- length(DL[[i]][[2]])
+  n <- length(D[[i]][[2]])
   if(n==0) return(NULL)
-  if(n==1) tq <- as.data.frame(t(DL[[i]][[2]][[1]])) else
-    tq <- data.frame(Reduce(rbind,DL[[i]][[2]]))
+  if(n==1) tq <- as.data.frame(t(D[[i]][[2]][[1]])) else
+    tq <- data.frame(Reduce(rbind,D[[i]][[2]]))
   colnames(tq) <- c("s","f","v"); row.names(tq) <- paste("e",1:nrow(tq),sep="")
   return(tq)
 }
@@ -19,11 +19,11 @@ TQlistLab <- function(D,i) return(D[[i]][[1]])
 
 TQmaxVal <- function(D){
   maxV <- 0
-  for(i in 1:length(DL)){
-    n <- length(DL[[i]][[2]])
+  for(i in 1:length(D)){
+    n <- length(D[[i]][[2]])
     if(n==0) next
-    if(n==1) tq <- as.data.frame(t(DL[[i]][[2]][[1]])) else
-      tq <- data.frame(Reduce(rbind,DL[[i]][[2]]))
+    if(n==1) tq <- as.data.frame(t(D[[i]][[2]][[1]])) else
+      tq <- data.frame(Reduce(rbind,D[[i]][[2]]))
     maxV <- max(c(maxV,tq[,3]),na.rm=TRUE)
   }
   return(maxV)
@@ -56,8 +56,9 @@ tqComps <- function(tq,tMin,tMax,sent=NULL,trans){
   return(list(x=x,w=w,h=h))
 }
 
-TQicons <- function(D,I,sent,col,type=1,g=0.15,pts=100,f=function(x) x){
+TQicons <- function(D,I,tMin,tMax,sent,col,type=1,g=0.15,pts=100,f=function(x) x){
   grid.newpage()
+  dt <- tMax-tMin
   for(i in 1:length(I)){
     y0 <- 1.005-0.1*i; j <- I[i]; lab <- TQlistLab(D,j); tq <- TQlistGet(D,j)
     xwh <- tqComps(tq,tMin,tMax,sent=sent,trans=f)
