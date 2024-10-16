@@ -49,7 +49,7 @@ tqComps <- function(tq,tMin,tMax,sent=NULL,trans){
   tq <- rbind(tq,c(tq[n,2],tMax,sent)); n <- n+1
   x <- h <- w <- c(); last <- tMin
   for(i in 1:n){
-    s <- tq[i,1]; f <- tq[i,2]; v <- ifelse(i<n,round(trans(tq[i,3])),sent)  
+    s <- tq[i,1]; f <- tq[i,2]; v <- max(1,ifelse(i<n,round(trans(tq[i,3])),sent)) 
     if(last < s){x <- c(x,last-tMin); w <- c(w,s-last); h <- c(h,sent)}
     x <- c(x,s-tMin); w <- c(w,f-s); h <- c(h,v); last <- f   
   }
