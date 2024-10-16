@@ -18,3 +18,4 @@
 >
 > TQicons(DN,1:10,tMin=tMin,tMax=tMax,sent=sent,col=Fire,type=1,f=fun)
 ```
+![T50_1-10a](https://github.com/user-attachments/assets/99e43f15-2907-40fc-aa08-644c99ece6d5)
