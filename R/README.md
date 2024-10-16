@@ -18,3 +18,8 @@
 > TQicons(DN,1:10,tMin=tMin,tMax=tMax,sent=sent,col=Fire,type=1,f=fun)
 ```
 ![T50_1-10a](https://github.com/user-attachments/assets/99e43f15-2907-40fc-aa08-644c99ece6d5)
+```
+> TQicons(DN,1:10,tMin=tMin,tMax=tMax,sent=sent,col=c("red","lightcyan1"),type=2,f=sqrt)
+```
+
+![T50_1-10_b](https://github.com/user-attachments/assets/884a7887-4ed7-4e74-976a-2a36ec528e7a)
