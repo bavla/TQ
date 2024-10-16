@@ -5,7 +5,7 @@
 > library(grid); library(rjson); library(gridtext)
 > source("C:/work/OpenAlex/vis/TQvis.R")
 > ddir <- "C:/work/python/pqCores"
-> Jfile <- paste0(ddir,"/T50wdegN.json")
+> Jfile <- paste0(ddir,"/T50wdegNodes.json")
 > DN <- fromJSON(file=Jfile)
 > 
 > # fun <- function(x) 1+log(x)
