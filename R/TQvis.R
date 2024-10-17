@@ -56,11 +56,12 @@ tqComps <- function(tq,tMin,tMax,sent=NULL,trans){
   return(list(x=x,w=w,h=h))
 }
 
-TQicons <- function(D,I,tMin,tMax,sent,col,type=1,g=0.15,pts=100,f=function(x) x){
+TQicons <- function(D,I,tMin,tMax,sent,col,type=1,
+  g=0.15,pts=100,scale=TRUE,step=10,lty="blank",f=function(x) x){
   grid.newpage()
-  dt <- tMax-tMin
+  dt <- tMax-tMin; q <- ifelse(scale,0.9,1)
   for(i in 1:length(I)){
-    y0 <- 1.005-0.1*i; j <- I[i]; lab <- TQlistLab(D,j); tq <- TQlistGet(D,j)
+    y0 <- 1.005-0.1*q*i; j <- I[i]; lab <- TQlistLab(D,j); tq <- TQlistGet(D,j)
     xwh <- tqComps(tq,tMin,tMax,sent=sent,trans=f)
     # cat(i,j,lab,"\n"); cat(xwh$x,"\n",xwh$w,"\n",xwh$h,"\n")
     tqLab <- textbox_grob(lab,x=0,y=y0,width=unit(pts,"pt"),
@@ -71,11 +72,21 @@ TQicons <- function(D,I,tMin,tMax,sent,col,type=1,g=0.15,pts=100,f=function(x) x
       r = unit(5,"pt"),name = paste0("T",j)
     )
     m <- length(xwh$x); xx <- g + xwh$x*(0.99-g)/dt; ww <- xwh$w*(0.99-g)/dt
-    if(type==1){ C <- col[xwh$h]; h <- 0.09 } else {
-      C <- rep(col[1],m); C[xwh$h==sent] <- col[2]; h <- xwh$h*0.09/sent }
+    if(type==1){ C <- col[xwh$h]; h <- 0.09*q } else {
+      C <- rep(col[1],m); C[xwh$h==sent] <- col[2]; h <- xwh$h*0.09*q/sent }
     tqIcon <- rectGrob(x=xx,y=y0,width=ww,height=h,
-      gp=gpar(lty="blank",fill=C),just=c("left","bottom"))    
+      gp=gpar(lty=lty,fill=C),just=c("left","bottom"))    
     grid.draw(gList(tqLab,tqIcon))
+  }
+  if(scale){ 
+    sx <- seq(step*(1+tMin%/%step),tMax,step)
+    if(tMin!=sx[1]) sx <- c(tMin,sx)
+    if(tMax!=sx[length(sx)]) sx <- c(sx,tMax)
+    scale <- viewport(x=g,y=y0-0.01,width=0.99-g,height=0.08,
+      just=c("left","bottom"),xscale=c(tMin,tMax))
+    pushViewport(scale)
+    grid.xaxis(at=sx,label=sx,gp=gpar(fontsize=10))
+    popViewport()
   }
 }
 
