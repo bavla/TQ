@@ -56,6 +56,14 @@ tqComps <- function(tq,tMin,tMax,sent=NULL,trans){
   return(list(x=x,w=w,h=h))
 }
 
+TQbest <- function(D,f=TQtotal){
+  n <- length(D); T <- cbind(1:n,rep(0,n)); N <- rep("",n)
+  for(i in 1:n) {tq <- TQlistGet(D,i); T[i,2] <- f(tq)
+    N[i] <- D[[i]][[1]]} 
+  row.names(T) <- N; colnames(T) <- c("ind","val") 
+  return(T[order(T[,2],decreasing=TRUE),])
+}
+
 TQicons <- function(D,I,tMin,tMax,sent,col,type=1,
   g=0.15,pts=100,scale=TRUE,step=10,lty="blank",f=function(x) x){
   grid.newpage()
