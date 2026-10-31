@@ -14,10 +14,10 @@
 The Sequence Analysis Association / \href{https://sequenceanalysis.org/softwares/}{software}
 
 
-- \href{http://traminer.unige.ch/}{TraMineR}/\href{https://cran.r-project.org/web/packages/TraMineR/index.html}{CRAN},
-- \href{https://hcil.umd.edu/eventflow/}{EventFlow}, \href{https://hcil.umd.edu/eventaction/}{EventAction},
-- Stata: \href{https://www.stata.com/meeting/uk14/abstracts/materials/uk14_halpin.pdf}{SADI}, \href{https://www.stata.com/meeting/germany16/slides/de16_kohler.pdf}{SQ},
-- \href{https://www.paymoapp.com/blog/gantt-chart-software/}{Gantt Chart}, LiveGantt,
+- [TraMineR](http://traminer.unige.ch/)/[CRAN](https://cran.r-project.org/web/packages/TraMineR/index.html),
+- [EventFlow](https://hcil.umd.edu/eventflow/), [EventAction](https://hcil.umd.edu/eventaction/),
+- Stata: [SADI](https://www.stata.com/meeting/uk14/abstracts/materials/uk14_halpin.pdf), [SQ](https://www.stata.com/meeting/germany16/slides/de16_kohler.pdf),
+- [Gantt Chart](https://www.paymoapp.com/blog/gantt-chart-software/), LiveGantt,
 - Flow, LifeFlow, OutFlow, DecisionFlow,
 - StoryLines, Narrative, StoryFlow,
 - MatrixFlow, MatrixWave,
