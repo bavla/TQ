@@ -11,7 +11,7 @@
 
 ## Software
 
-The Sequence Analysis Association / \href{https://sequenceanalysis.org/softwares/}{software}
+The Sequence Analysis Association / [software](https://sequenceanalysis.org/softwares/)
 
 
 - [TraMineR](http://traminer.unige.ch/)/[CRAN](https://cran.r-project.org/web/packages/TraMineR/index.html),
